@@ -1,0 +1,17 @@
+{
+ "dashboard": {
+  "dashboard": "Dashboard",
+  "room": "ROOM",
+  "waiting": "WAITING",
+  "consultationsListInAwaitingTreatment": "Sessions list",
+  "startNextConsultation": "Start next session",
+  "noConsultation": "No session",
+  "patient": "Service user",
+  "message": "Message",
+  "time": "Time",
+  "displayTheList": "Display the list",
+  "openedConsultations": "OPENED SESSIONS",
+  "consultationsListAwaitingToBeClosedOrCompleted": "Sessions list awaiting to be closed or completed",
+  "sendNewInvite": "Send new invite"
+ }
+}

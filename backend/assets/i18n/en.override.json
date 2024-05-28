@@ -1,0 +1,4 @@
+{
+  "patient invite": "You have been invited to a %(branding)s session at the following link %(url)s",
+  "guest invite": "You have been invited to a %(branding)s session at the following link %(url)s"
+}

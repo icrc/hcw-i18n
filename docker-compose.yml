@@ -1,0 +1,112 @@
+services:
+  mongo:
+    image: mongo:6
+    volumes:
+      - mongo:/data/mongo
+
+  patient:
+    build:
+      context: patient
+      args:
+        # If you update this, please update .github/workflows/publish-hcw-docker-images.yml
+        - HCW_PATIENT_VERSION=5.0.14
+    user: nginx
+    ports:
+      - "8080:8080"
+    environment:
+      - BACKEND_URL=http://backend:1337
+    depends_on:
+      - mongo
+      - backend
+
+  doctor:
+    build:
+      context: doctor
+      args:
+        # If you update this, please update .github/workflows/publish-hcw-docker-images.yml
+        - HCW_DOCTOR_VERSION=5.0.9
+    user: nginx
+    ports:
+      - "8081:8081"
+    environment:
+      - BACKEND_URL=http://backend:1337
+    depends_on:
+      - mongo
+      - backend
+
+  admin:
+    build:
+      context: admin
+      args:
+        # If you update this, please update .github/workflows/publish-hcw-docker-images.yml
+        - HCW_ADMIN_VERSION=5.0.2
+    user: nginx
+    ports:
+      - "8082:8082"
+    environment:
+      - BACKEND_URL=http://backend:1337
+    depends_on:
+      - mongo
+      - backend
+
+  backend:
+    build:
+      context: backend
+      args:
+        #If you update this, please update .github/workflows/publish-hcw-docker-images.yml
+        - HCW_BACKEND_VERSION=5.0.19
+    user: node
+    ports:
+      - "1337:1337"
+    env_file:
+      - ./secrets.env
+    environment:
+      # Configure here database, by default
+      # a local mongo is used.
+      - DB_URI=mongodb://mongo:27017/hcw-athome
+      - REDIS_HOST=redis
+      # don't use on PROD !
+      - NODE_ENV=development
+      - LOGIN_METHOD=password
+      - DOCTOR_URL=http://localhost:8081
+      - EXPERT_FQDN=http://localhost:8080
+      - PATIENT_FQDN=http://localhost:8080
+      - CLAM_HOST=clamav
+      - MEDIASOUP_URL=http://mediasoup
+      - MEDIASOUP_USER=mediasoup_user
+      - BRANDING=Teleconnect
+      - ACCESSIBILITY_MODE=false
+      - ATTACHMENTS_DIR=/data/attachments
+
+    depends_on:
+      - mongo
+      - redis
+      - clamav
+    volumes:
+      - backend-attachments:/data/attachments
+    restart: always
+
+  redis:
+    image: redis
+
+  clamav:
+    image: clamav/clamav:1.2
+    ports:
+      - "3310:3310"
+
+  mediasoup:
+   image: iabsis/mediasoup-api:latest
+   env_file:
+     - ./secrets.env
+   environment:
+    - API_USER=mediasoup_user
+    - REDIS_HOST=redis
+
+
+volumes:
+  backend-attachments:
+    name: hcw-backend-attachments
+    driver: local
+  mongo:
+    name: hcw-mongo
+    driver: local
