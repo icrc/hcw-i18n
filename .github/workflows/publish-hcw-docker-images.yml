@@ -38,7 +38,7 @@ jobs:
           password: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Extract metadata (tags, labels) for Docker Admin
-        id: meta
+        id: meta-admin
         uses: docker/metadata-action@v5
         with:
           images: |
@@ -47,7 +47,7 @@ jobs:
             type=raw,value=${{ env.HCW_ADMIN_VERSION }}-${{ env.IMAGE_TAG }}
             type=sha
       - name: Extract metadata (tags, labels) for Docker Doctor
-        id: meta
+        id: meta-doctor
         uses: docker/metadata-action@v5
         with:
           images: |
@@ -56,7 +56,7 @@ jobs:
             type=raw,value=${{ env.HCW_DOCTOR_VERSION }}-${{ env.IMAGE_TAG }}
             type=sha
       - name: Extract metadata (tags, labels) for Docker Patient
-        id: meta
+        id: meta-patient
         uses: docker/metadata-action@v5
         with:
           images: |
@@ -65,7 +65,7 @@ jobs:
             type=raw,value=${{ env.HCW_PATIENT_VERSION }}-${{ env.IMAGE_TAG }}
             type=sha
       - name: Extract metadata (tags, labels) for Docker Backend
-        id: meta
+        id: meta-backend
         uses: docker/metadata-action@v5
         with:
           images: |
@@ -81,8 +81,8 @@ jobs:
           build-args: |
             HCW_ADMIN_VERSION=${{ env.HCW_ADMIN_VERSION }}
           push: true
-          tags: ${{ steps.meta.outputs.tags }}
-          labels: ${{ steps.meta.outputs.labels }}
+          tags: ${{ steps.meta-admin.outputs.tags }}
+          labels: ${{ steps.meta-admin.outputs.labels }}
 
       - name: Build and push HCW Doctor v${{ env.HCW_DOCTOR_VERSION }} i18n Docker image
         uses: docker/build-push-action@v5
@@ -91,8 +91,8 @@ jobs:
           build-args: |
             HCW_DOCTOR_VERSION=${{ env.HCW_DOCTOR_VERSION }}
           push: true
-          tags: ${{ steps.meta.outputs.tags }}
-          labels: ${{ steps.meta.outputs.labels }}
+          tags: ${{ steps.meta-doctor.outputs.tags }}
+          labels: ${{ steps.meta-doctor.outputs.labels }}
 
 
       - name: Build and push HCW PATIENT v${{ env.HCW_PATIENT_VERSION }} i18n Docker image
@@ -102,8 +102,8 @@ jobs:
           build-args: |
             HCW_PATIENT_VERSION=${{ env.HCW_PATIENT_VERSION }}
           push: true
-          tags: ${{ steps.meta.outputs.tags }}
-          labels: ${{ steps.meta.outputs.labels }}
+          tags: ${{ steps.meta-patient.outputs.tags }}
+          labels: ${{ steps.meta-patient.outputs.labels }}
 
       - name: Build and push HCW BACKEND v${{ env.HCW_BACKEND_VERSION }} i18n Docker image
         uses: docker/build-push-action@v5
@@ -112,5 +112,5 @@ jobs:
           build-args: |
             HCW_BACKEND_VERSION=${{ env.HCW_BACKEND_VERSION }}
           push: true
-          tags: ${{ steps.meta.outputs.tags }}
-          labels: ${{ steps.meta.outputs.labels }}
+          tags: ${{ steps.meta-backend.outputs.tags }}
+          labels: ${{ steps.meta-backend.outputs.labels }}
