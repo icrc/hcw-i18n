@@ -45,7 +45,8 @@ jobs:
             ${{ env.REGISTRY }}/${{ github.repository }}/${{ env.HCW_ADMIN_IMAGE_NAME }}
           tags: |
             type=raw,value=${{ env.HCW_ADMIN_VERSION }}-${{ env.IMAGE_TAG }}
-            type=sha
+            type=sha,prefix={{ env.HCW_ADMIN_VERSION }}-
+
       - name: Extract metadata (tags, labels) for Docker Doctor
         id: meta-doctor
         uses: docker/metadata-action@v5
@@ -54,7 +55,8 @@ jobs:
             ${{ env.REGISTRY }}/${{ github.repository }}/${{ env.HCW_DOCTOR_IMAGE_NAME }}
           tags: |
             type=raw,value=${{ env.HCW_DOCTOR_VERSION }}-${{ env.IMAGE_TAG }}
-            type=sha
+            type=sha,prefix={{ env.HCW_DOCTOR_VERSION }}-
+
       - name: Extract metadata (tags, labels) for Docker Patient
         id: meta-patient
         uses: docker/metadata-action@v5
@@ -63,7 +65,8 @@ jobs:
             ${{ env.REGISTRY }}/${{ github.repository }}/${{ env.HCW_PATIENT_IMAGE_NAME }}
           tags: |
             type=raw,value=${{ env.HCW_PATIENT_VERSION }}-${{ env.IMAGE_TAG }}
-            type=sha
+            type=sha,prefix={{ env.HCW_PATIENT_VERSION }}-
+
       - name: Extract metadata (tags, labels) for Docker Backend
         id: meta-backend
         uses: docker/metadata-action@v5
@@ -72,7 +75,7 @@ jobs:
             ${{ env.REGISTRY }}/${{ github.repository }}/${{ env.HCW_BACKEND_IMAGE_NAME }}
           tags: |
             type=raw,value=${{ env.HCW_BACKEND_VERSION }}-${{ env.IMAGE_TAG }}
-            type=sha
+            type=sha,prefix={{ env.HCW_BACKEND_VERSION }}-
 
       - name: Build and push HCW Admin v${{ env.HCW_ADMIN_VERSION }} i18n Docker image
         uses: docker/build-push-action@v5
