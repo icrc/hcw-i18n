@@ -6,16 +6,16 @@ env:
 
   REGISTRY: ghcr.io
   HCW_ADMIN_VERSION: 5.0.2
-  HCW_ADMIN_IMAGE_NAME_PREFIX: hcw-admin
+  HCW_ADMIN_IMAGE_NAME: hcw-admin
   HCW_ADMIN_CONTEXT: ./admin
   HCW_DOCTOR_VERSION: 5.0.9
-  HCW_DOCTOR_IMAGE_NAME_PREFIX: hcw-doctor
+  HCW_DOCTOR_IMAGE_NAME: hcw-doctor
   HCW_DOCTOR_CONTEXT: ./doctor
   HCW_PATIENT_VERSION: 5.0.14
-  HCW_PATIENT_IMAGE_NAME_PREFIX: hcw-patient
+  HCW_PATIENT_IMAGE_NAME: hcw-patient
   HCW_PATIENT_CONTEXT: ./patient
   HCW_BACKEND_VERSION: 5.0.19
-  HCW_BACKEND_IMAGE_NAME_PREFIX: hcw-backend
+  HCW_BACKEND_IMAGE_NAME: hcw-backend
   HCW_BACKEND_CONTEXT: ./backend
   IMAGE_TAG: latest
 jobs:
@@ -37,17 +37,41 @@ jobs:
           username: ${{ github.actor }}
           password: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Extract metadata (tags, labels) for Docker
+      - name: Extract metadata (tags, labels) for Docker Admin
         id: meta
         uses: docker/metadata-action@v5
         with:
           images: |
-            ${{ env.REGISTRY }}/${{ github.repository }}/${{ env.HCW_ADMIN_IMAGE_NAME_PREFIX }}-${{ env.HCW_ADMIN_VERSION }}
-            ${{ env.REGISTRY }}/${{ github.repository }}/${{ env.HCW_DOCTOR_IMAGE_NAME_PREFIX }}-${{ env.HCW_DOCTOR_VERSION }}
-            ${{ env.REGISTRY }}/${{ github.repository }}/${{ env.HCW_PATIENT_IMAGE_NAME_PREFIX }}-${{ env.HCW_PATIENT_VERSION }}
-            ${{ env.REGISTRY }}/${{ github.repository }}/${{ env.HCW_BACKEND_IMAGE_NAME_PREFIX }}-${{ env.HCW_BACKEND_VERSION }}
+            ${{ env.REGISTRY }}/${{ github.repository }}/${{ env.HCW_ADMIN_IMAGE_NAME }}
           tags: |
-            type=raw,value=${{ env.IMAGE_TAG }}
+            type=raw,value=${{ env.HCW_ADMIN_VERSION }}-${{ env.IMAGE_TAG }}
+            type=sha
+      - name: Extract metadata (tags, labels) for Docker Doctor
+        id: meta
+        uses: docker/metadata-action@v5
+        with:
+          images: |
+            ${{ env.REGISTRY }}/${{ github.repository }}/${{ env.HCW_DOCTOR_IMAGE_NAME }}
+          tags: |
+            type=raw,value=${{ env.HCW_DOCTOR_VERSION }}-${{ env.IMAGE_TAG }}
+            type=sha
+      - name: Extract metadata (tags, labels) for Docker Patient
+        id: meta
+        uses: docker/metadata-action@v5
+        with:
+          images: |
+            ${{ env.REGISTRY }}/${{ github.repository }}/${{ env.HCW_PATIENT_IMAGE_NAME }}
+          tags: |
+            type=raw,value=${{ env.HCW_PATIENT_VERSION }}-${{ env.IMAGE_TAG }}
+            type=sha
+      - name: Extract metadata (tags, labels) for Docker Backend
+        id: meta
+        uses: docker/metadata-action@v5
+        with:
+          images: |
+            ${{ env.REGISTRY }}/${{ github.repository }}/${{ env.HCW_BACKEND_IMAGE_NAME }}
+          tags: |
+            type=raw,value=${{ env.HCW_BACKEND_VERSION }}-${{ env.IMAGE_TAG }}
             type=sha
 
       - name: Build and push HCW Admin v${{ env.HCW_ADMIN_VERSION }} i18n Docker image
