@@ -28,6 +28,11 @@ For instance for the patient interface, translations are in the folder [./patien
 The script `update-i18n-resources.sh` will update original json files in the folders `<service>/assets/i18n`.
 These files will be used in weblate.
 
+## How to generate HCW docker images
+- Go to [hcw-i18n/actions](https://github.com/icrc/hcw-i18n/actions)
+- Select [Publish HCW Docker images](https://github.com/icrc/hcw-i18n/actions/workflows/publish-hcw-docker-images.yml)
+- Click on `Run workflow` on the right ( choose `main` branch).
+
 # How to start the applications locally
 
 To test translations, all application can be started locally.

@@ -9,10 +9,8 @@ move_files() {
    local i18n_folder="./${service}/assets/i18n"
    rm -rf "${tmp_folder}"
    docker compose cp "${service}":"${docker_path}" "${tmp_folder}"
-   echo "move ${tmp_folder}/template.json to ${i18n_folder}"
-   mv "${tmp_folder}"/template.json "${i18n_folder}"/
    for orig_file in "${tmp_folder}"/*.orig.json; do
-     target_name=$(basename "$orig_file"|cut -d. -f1)".json"
+     target_name="template.$(basename $orig_file|cut -d. -f1).json"
      target_file=${i18n_folder}/$target_name
      echo "Move ${orig_file} to ${target_file}"
      mv "${orig_file}" "${target_file}"
@@ -23,6 +21,7 @@ move_files() {
 
 docker compose up -d --build
 move_files "doctor" "/usr/share/nginx/html/assets/i18n/"
-move_files "admin" "/usr/share/nginx/html/assets/i18n/"
+# not done as admin is not yet translated.
+#move_files "admin" "/usr/share/nginx/html/assets/i18n/"
 move_files "patient" "/usr/share/nginx/html/assets/i18n/"
 move_files "backend" "/usr/src/app/config/locales/"
