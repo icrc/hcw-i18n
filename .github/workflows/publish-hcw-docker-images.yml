@@ -71,7 +71,7 @@ jobs:
             type=raw,value=${{ steps.dotenv.outputs.HCW_PATIENT_VERSION }}-${{ env.IMAGE_TAG }}
             type=sha,prefix=${{ steps.dotenv.outputs.HCW_PATIENT_VERSION }}-
 
-      - name: Extract metadata (tags, labels) for Docker Backend c${{ steps.dotenv.outputs.HCW_BACKEND_VERSION }}
+      - name: Extract metadata (tags, labels) for Docker Backend v${{ steps.dotenv.outputs.HCW_BACKEND_VERSION }}
         id: meta-backend
         uses: docker/metadata-action@v5
         with:

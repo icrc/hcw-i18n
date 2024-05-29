@@ -26,7 +26,7 @@ For instance for the patient interface, translations are in the folder [./patien
 - Do a PR to this repository 
 
 The script `update-i18n-resources.sh` will update original json files in the folders `<service>/assets/i18n`.
-These files will be used in weblate.
+These files will be used by weblate hosted by iabsis.
 
 ## How to generate HCW docker images
 - Go to [hcw-i18n/actions](https://github.com/icrc/hcw-i18n/actions)
