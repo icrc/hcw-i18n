@@ -72,4 +72,5 @@ The local URLs are:
 - Doctor: http://localhost:8081
 - Patient: http://localhost:8080
 - Admin: http://localhost:8082
-display the logs with `docker compose logs -f`
+
+Display the logs with `docker compose logs -f`
