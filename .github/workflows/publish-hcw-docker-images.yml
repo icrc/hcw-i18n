@@ -37,6 +37,10 @@ jobs:
           username: ${{ github.actor }}
           password: ${{ secrets.GITHUB_TOKEN }}
 
+      - name: Load .env file
+        id: dotenv
+        uses: ./.github/actions/dotenv-action
+
       - name: Extract metadata (tags, labels) for Docker Admin
         id: meta-admin
         uses: docker/metadata-action@v5
@@ -44,8 +48,8 @@ jobs:
           images: |
             ${{ env.REGISTRY }}/${{ github.repository }}/${{ env.HCW_ADMIN_IMAGE_NAME }}
           tags: |
-            type=raw,value=${{ env.HCW_ADMIN_VERSION }}-${{ env.IMAGE_TAG }}
-            type=sha,prefix=${{ env.HCW_ADMIN_VERSION }}-
+            type=raw,value=${{ steps.dotenv.outputs.HCW_ADMIN_VERSION }}-${{ env.IMAGE_TAG }}
+            type=sha,prefix=${{ steps.dotenv.outputs.HCW_ADMIN_VERSION }}-
 
       - name: Extract metadata (tags, labels) for Docker Doctor
         id: meta-doctor
