@@ -37,7 +37,8 @@ These files will be used by weblate hosted by iabsis.
 
 # How to modify translations used by this project
 
-Go to https://translate.iabsis.com/projects/icrc/
+- Go to https://translate.iabsis.com to create an account if needed.
+- Then contact us to have access to https://translate.iabsis.com/projects/icrc/
 to download all translations in a zip file, use the main menu `Files` from this URL.
 
 ## How to generate HCW docker images
