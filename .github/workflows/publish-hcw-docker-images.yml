@@ -98,7 +98,7 @@ jobs:
           labels: ${{ steps.meta-doctor.outputs.labels }}
 
 
-      - name: Build and push HCW PATIENT v$${{ steps.dotenv.outputs.HCW_PATIENT_VERSION }} i18n Docker image
+      - name: Build and push HCW PATIENT v${{ steps.dotenv.outputs.HCW_PATIENT_VERSION }} i18n Docker image
         uses: docker/build-push-action@v5
         with:
           context: ${{ env.HCW_PATIENT_CONTEXT }}
