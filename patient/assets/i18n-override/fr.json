@@ -272,7 +272,7 @@
     },
     "test": {
         "permissionError": "Nous avons rencontré un problème pour accéder à votre caméra ou à votre microphone. Veuillez vous assurer que les périphériques soient correctement connectés.",
-        "micAndCamRequesting": "HCW@Home doit avoir accès à votre caméra et à votre microphone pour fonctionner correctement. Veuillez vous assurer d'accepter les demandes d'autorisation.",
+        "micAndCamRequesting": "{{branding}} doit avoir accès à votre caméra et à votre microphone pour fonctionner correctement. Veuillez vous assurer d'accepter les demandes d'autorisation.",
         "connectivityIssue": "Nous avons un problème de connectivité",
         "askForPermission": "Demander la permission",
         "bothDenied": "Les accès à la caméra et au microphone sont refusés.",
