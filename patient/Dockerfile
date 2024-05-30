@@ -4,8 +4,8 @@ FROM iabsis/hcw-patient:${HCW_PATIENT_VERSION} AS init-layer
 FROM init-layer AS i18n-layer
 USER root
 RUN apt update && apt install -y jq && rm -rf /var/lib/apt/lists/*
-COPY assets/* /usr/share/nginx/html/assets/i18n
-RUN bash /usr/share/nginx/html/assets/i18n/combine.sh
+COPY assets /usr/share/nginx/html/assets/i18n
+RUN /usr/share/nginx/html/assets/i18n/combine.sh
 
 
 FROM init-layer

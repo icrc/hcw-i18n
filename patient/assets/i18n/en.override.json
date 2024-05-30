@@ -1,6 +1,0 @@
-{
-  "login": {
-    "homeIsAHUGTeleconsultation": "{{branding}} is a video/audio call system. Please do not leave this page once the session request is in progress.",
-    "thisAppOnlyWorksByInivitation": "This application only works by invitation. Please use the link that your caregiver has sent you via text or email."
-  }
-}
