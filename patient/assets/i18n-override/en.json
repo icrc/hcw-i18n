@@ -172,13 +172,13 @@
         "yourDeviceSeems": "Your device seems to be perfectly compatible with the {{branding}} system. If the video preview is not of sufficient quality or is choppy, please check that your equipment signal is sufficient.",
         "testStarting": "Starting the test",
         "theConnectionIs": "The connection was successful",
-        "youCanStillJoin": "You can still join {{branding}} session but video/audio call might fails.",
+        "youCanStillJoin": "You can still join session but video/audio call might fails.",
         "micDenied": "Access to camera seems working but access to the microphone is denied.",
         "cameraDenied": "Access to microphone seems working but access to the camera is denied.",
         "bothDenied": "Access to camera and microphone is denied.",
         "askForPermission": "Ask for permission",
         "connectivityIssue": "We have connectivity issue",
-        "micAndCamRequesting": "{{branding}} needs to have access to your camera and microphone to work properly. Please ensure to accept permission request.",
+        "micAndCamRequesting": "The system needs to have access to your camera and microphone to work properly. Please ensure to accept permission request.",
         "permissionError": "We have encountered a problem for accessing to your camera or your microphone. Please ensure the devices are properly connected."
     },
     "videoRoom": {
@@ -278,7 +278,7 @@
         "no_message": "<No Message>",
         "cancel_consultation": "Cancel session",
         "request_new_consultation": "Request new session",
-        "no_consultation": "You have no {{branding}} session yet. Use the button below to open new session request.",
+        "no_consultation": "You have no session yet. Use the button below to open new session request.",
         "no_consultation_history": "You have no session in history yet."
     },
     "request_consultation": {
