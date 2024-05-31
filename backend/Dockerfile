@@ -11,5 +11,4 @@ RUN /usr/src/app/config/locales/combine.sh
 FROM init-layer
 #
 COPY --from=i18n-layer /usr/src/app/config/locales/*.json /usr/src/app/config/locales/
-#USER root
-#RUN chmod -R u+w /usr/src/app/config/locales
+COPY --from=i18n-layer /usr/src/app/config/locales/*.orig /usr/src/app/config/locales/

@@ -18,9 +18,9 @@ for file in ??.json ; do
   if [ "${basename}" != "template" ] ; then
     echo "Checking ${filename}"
     if [ -f "i18n-override/${basename}.json" ]; then
-      echo "Copy original file in ${basename}.orig.json"
-      mv "${basename}".json "${basename}".orig.json
-      jq --argfile f2 "${basename}.orig.json" '. as $f1 | $f2 | with_entries(if $f1[.key] != null then . + {value: $f1[.key]} else . end)' "i18n-override/${basename}.json" > "${basename}.json"; ret=$?
+      echo "Copy original file in ${basename}.json.orig"
+      mv "${basename}".json "${basename}".json.orig
+      jq --argfile f2 "${basename}.json.orig" '. as $f1 | $f2 | with_entries(if $f1[.key] != null then . + {value: $f1[.key]} else . end)' "i18n-override/${basename}.json" > "${basename}.json"; ret=$?
       if [ ${ret} = 0 ] ; then
         echo "Lang ${lang} combined successfully"
       else

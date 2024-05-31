@@ -10,6 +10,7 @@ move_files() {
    rm -rf "${tmp_folder}"
    docker compose cp "${service}":"${docker_path}" "${tmp_folder}"
    cp "${tmp_folder}"/*.json "${i18n_folder}"
+   cp "${tmp_folder}"/*.orig "${i18n_folder}"
    rm -rf "${tmp_folder}"
 
 }
