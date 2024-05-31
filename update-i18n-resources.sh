@@ -9,8 +9,9 @@ move_files() {
    local i18n_folder="./${service}/assets/i18n-override"
    rm -rf "${tmp_folder}"
    docker compose cp "${service}":"${docker_path}" "${tmp_folder}"
+   docker compose cp "${service}":/tmp/orig "${tmp_folder}"
    cp "${tmp_folder}"/*.json "${i18n_folder}"
-   cp "${tmp_folder}"/*.orig "${i18n_folder}"
+   cp "${tmp_folder}"/orig/*.orig "${i18n_folder}"
    rm -rf "${tmp_folder}"
 
 }
