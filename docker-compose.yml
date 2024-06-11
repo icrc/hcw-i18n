@@ -5,12 +5,12 @@ services:
       - mongo:/data/mongo
 
   patient:
-    image: ghcr.io/icrc/hcw-i18n/hcw-patient:5.0.15-e3362e3
+#    image: ghcr.io/icrc/hcw-i18n/hcw-patient:5.0.15-latest
 #    image: iabsis/hcw-patient:5.0.15
-#    build:
-#      context: patient
-#      args:
-#        - HCW_PATIENT_VERSION=$HCW_PATIENT_VERSION
+    build:
+      context: patient
+      args:
+        - HCW_PATIENT_VERSION=$HCW_PATIENT_VERSION
     user: nginx
     ports:
       - "8080:8080"
