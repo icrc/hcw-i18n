@@ -1,4 +1,4 @@
-name: Publish HCW Docker images with i18n translations
+name: Publish HCW Docker images Patient
 
 on:
   workflow_dispatch:
