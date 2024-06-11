@@ -5,7 +5,7 @@ services:
       - mongo:/data/mongo
 
   patient:
-#    image: ghcr.io/icrc/hcw-i18n/hcw-patient:5.0.15-faa183b
+#    image: ghcr.io/icrc/hcw-i18n/hcw-patient:5.0.15-7547565
 #    image: iabsis/hcw-patient:5.0.15
     build:
       context: patient
