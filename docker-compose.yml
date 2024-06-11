@@ -5,12 +5,12 @@ services:
       - mongo:/data/mongo
 
   patient:
-#    image: ghcr.io/icrc/hcw-i18n/hcw-patient:5.0.15-616939c
-    build:
-      context: patient
-      args:
-#         If you update this, please update .github/workflows/publish-hcw-docker-images.yml
-        - HCW_PATIENT_VERSION=$HCW_PATIENT_VERSION
+    image: ghcr.io/icrc/hcw-i18n/hcw-patient:5.0.15-e3362e3
+#    image: iabsis/hcw-patient:5.0.15
+#    build:
+#      context: patient
+#      args:
+#        - HCW_PATIENT_VERSION=$HCW_PATIENT_VERSION
     user: nginx
     ports:
       - "8080:8080"
