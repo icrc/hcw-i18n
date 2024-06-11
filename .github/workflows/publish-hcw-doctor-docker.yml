@@ -1,0 +1,53 @@
+name: Publish HCW Docker images with i18n translations
+
+on:
+  workflow_dispatch:
+env:
+
+  REGISTRY: ghcr.io
+  HCW_DOCTOR_IMAGE_NAME: hcw-doctor
+  HCW_DOCTOR_CONTEXT: ./doctor
+  IMAGE_TAG: latest
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: read
+      packages: write
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Log in to the Container registry
+        uses: docker/login-action@v3
+        with:
+          registry: ${{ env.REGISTRY }}
+          username: ${{ github.actor }}
+          password: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Load .env file
+        id: dotenv
+        uses: falti/dotenv-action@v1.1.2
+
+
+      - name: Extract metadata (tags, labels) for Docker Doctor v${{ steps.dotenv.outputs.HCW_DOCTOR_VERSION }}
+        id: meta-doctor
+        uses: docker/metadata-action@v5
+        with:
+          images: |
+            ${{ env.REGISTRY }}/${{ github.repository }}/${{ env.HCW_DOCTOR_IMAGE_NAME }}
+          tags: |
+            type=raw,value=${{ steps.dotenv.outputs.HCW_DOCTOR_VERSION }}-${{ env.IMAGE_TAG }}
+            type=sha,prefix=${{ steps.dotenv.outputs.HCW_DOCTOR_VERSION }}-
+
+      - name: Build and push HCW Doctor v${{ steps.dotenv.outputs.HCW_DOCTOR_VERSION }} i18n Docker image
+        uses: docker/build-push-action@v5
+        with:
+          context: ${{ env.HCW_DOCTOR_CONTEXT }}
+          build-args: |
+            HCW_DOCTOR_VERSION=${{ steps.dotenv.outputs.HCW_DOCTOR_VERSION }}
+          push: true
+          tags: ${{ steps.meta-doctor.outputs.tags }}
+          labels: ${{ steps.meta-doctor.outputs.labels }}
