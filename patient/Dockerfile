@@ -9,6 +9,5 @@ RUN /usr/share/nginx/html/assets/i18n/combine.sh
 
 
 FROM init-layer
-RUN rm /usr/share/nginx/html/assets/i18n/combine.sh
 COPY --from=i18n-layer /usr/share/nginx/html/assets/i18n/*.json /usr/share/nginx/html/assets/i18n/
 COPY --from=i18n-layer /usr/share/nginx/html/assets/i18n/*.orig /tmp/orig/
