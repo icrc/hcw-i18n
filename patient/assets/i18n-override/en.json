@@ -103,7 +103,7 @@
     "termsText": "You must accept the",
     "termsSecondText": "before being able to use {{branding}}",
     "warning": "Warning",
-    "thisApplicationIsIntented": "This application is intended to work via an invitation link received via SMS or email. Click on this link beforehand to open a session.",
+    "thisApplicationIsIntented": "This application is intended to work via an invitation link. Click on this link beforehand to open a session.",
     "closeTheApplication": "Close the application",
     "anErrorHasOccurred": "Link expired",
     "theInvitationIsNotOrNoLongerValide": "This invitation link is no longer valid or has already been used. Another invitation will be sent",

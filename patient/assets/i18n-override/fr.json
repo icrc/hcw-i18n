@@ -103,7 +103,7 @@
     "termsText": "Vous devez accepter les",
     "termsSecondText": "avant de pouvoir utiliser {{branding}}",
     "warning": "Attention",
-    "thisApplicationIsIntented": "Cette application est prévue pour fonctionner via un lien d'invitation reçu par SMS ou par email. Cliquez sur ce lien au préalable afin d'ouvrir une consultation.",
+    "thisApplicationIsIntented": "Cette application est prévue pour fonctionner via un lien d'invitation. Cliquez sur ce lien au préalable afin d'ouvrir une consultation.",
     "closeTheApplication": "Fermer l'application",
     "anErrorHasOccurred": "Lien expiré",
     "theInvitationIsNotOrNoLongerValide": "Ce lien d'invitation n'est plus valable ou a déjà été utilisé. Le médecin ou soignant va vous renvoyer une invitation.",

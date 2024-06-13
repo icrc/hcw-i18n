@@ -113,7 +113,7 @@
   "dashboard": {
     "dashboard": "Dashboard",
     "waitingRoom": "WAITING ROOM",
-    "consultationsListInAwaitingTreatment": "Sessions list in awaiting treatment",
+    "consultationsListInAwaitingTreatment": "Sessions list",
     "startNextConsultation": "Start next session",
     "noConsultation": "No session",
     "patient": "Service user",
