@@ -1,6 +1,6 @@
 {
   "awaitingConsultation": {
-    "awaitingConsultation": "Veuillez patienter pendant que la téléconsultation démarre. Merci de garder cette fenêtre ouverte."
+    "awaitingConsultation": "Veuillez patienter pendant que la session démarre. Merci de garder cette fenêtre ouverte."
   },
   "cgu": {
     "termsAndConditions": "Conditions Générales d'Utilisation (CGU)",
@@ -8,7 +8,7 @@
     "selectCountry": "Ces conditions s'appliquent au pays :"
   },
   "closingScreen": {
-    "theConsultationIsNowOver": "La téléconsultation est terminée",
+    "theConsultationIsNowOver": "La session est terminée",
     "thankYouForUsing": "Merci d'avoir utilisé l'application {{branding}}.",
     "areYouSatisfied": "Donnez-nous votre avis sur l’application {{branding}} ?",
     "doYouWantTo": "Voulez-vous nous laisser un commentaire ?",
@@ -17,10 +17,10 @@
   },
   "consultation": {
     "inProgress": "En cours",
-    "plsKeepThisOpenPage": "Veuillez garder cette page ouverte, la téléconsultation va débuter dans quelque instant.",
+    "plsKeepThisOpenPage": "Veuillez garder cette page ouverte, la session va débuter dans quelque instant.",
     "consultation": "CONSULTATION",
     "capInProgress": "EN COURS",
-    "youAreNowInConsultation": "Vous êtes désormais en téléconsultation avec",
+    "youAreNowInConsultation": "Vous êtes désormais en session avec",
     "phone": "Tel :",
     "requestForConsultation": "DEMANDE DE TELECONSULTATION",
     "youAreInWaiting": "Vous êtes en attente, merci de patienter.",
@@ -51,8 +51,8 @@
     "hospital": "Nom de l'hôpital/établissement :"
   },
   "consultations": {
-    "openedConsultations": "Consultations ouvertes",
-    "browserNotSupported": "Votre navigateur n'est pas supporté pour une téléconsultation. Essayez d'ouvrir le lien dans Safari (IOS) ou Chrome. Si vous ouvrez ce lien depuis Outlook (IOS), vous devriez avoir une option pour ouvrir cette page dans un autre navigateur depuis le menu (...) en bas de cette page.",
+    "openedConsultations": "Sessions ouvertes",
+    "browserNotSupported": "Votre navigateur n'est pas supporté pour une session à distance. Essayez d'ouvrir le lien dans Safari (IOS) ou Chrome. Si vous ouvrez ce lien depuis Outlook (IOS), vous devriez avoir une option pour ouvrir cette page dans un autre navigateur depuis le menu (...) en bas de cette page.",
     "yourBrowserIsNotCompatible": "Votre navigateur n'est pas compatible avec notre application, veuillez le mettre à jour ou utiliser un appareil plus récent. Pour cette télécommunication, vous avez besoin :",
     "aCamera": "d'une caméra ;",
     "aMicrophone": "d'un microphone ;",
@@ -65,7 +65,7 @@
     "forLinuxComputers": "Pour les ordinateurs Linux : Chrome, Firefox"
   },
   "history": {
-    "historyOfConsultations": "Historique des consultations"
+    "historyOfConsultations": "Historique des sessions"
   },
   "incomingCall": {
     "videoCall": "Appel vidéo",
@@ -89,7 +89,7 @@
     "accessibleTime2": "9h à 17h les week-ends et jours fériés.",
     "theCaregiverImad": "Le soignant imad s’assure avant de solliciter le service {{branding}} pour son patient que la situation répond aux prérequis suivants : ",
     "itIsNot": "Il ne s’agit pas d’une urgence vitale",
-    "patientHasConstent": "Le patient a donné son consentement pour cet appel vidéo",
+    "patientHasConstent": "L'utilisateur de service a donné son consentement pour cet appel vidéo",
     "theAttendingPhysician": "Le médecin traitant n’est pas disponible ou a donné son accord pour cet appel",
     "thePatientWasRecently": "Le patient a été récemment hospitalisé aux {{branding}} (< 1 mois)",
     "information": "INFORMATIONS"
@@ -97,29 +97,29 @@
   "login": {
     "back": "Retour",
     "home": "Home",
-    "translationRequestAccepted": "Merci pour la confirmation, vous allez recevoir très prochainement les informations par mail.",
+    "translationRequestAccepted": "Merci pour la confirmation, vous allez recevoir très prochainement les informations.",
     "translationRequestRefused": "Merci pour votre retour, nous allons informer le soignant de cette indisponibilité.",
-    "homeIsAHUGTeleconsultation": "{{branding}} est un système de téléconsultation. Vous êtes sur le point de rejoindre votre consultation, veuillez ne pas quitter cette page.",
+    "homeIsAHUGTeleconsultation": "{{branding}} est un système de d'appels à distance. Vous êtes sur le point de rejoindre votre session, veuillez ne pas quitter cette page.",
     "termsText": "Vous devez accepter les",
     "termsSecondText": "avant de pouvoir utiliser {{branding}}",
     "warning": "Attention",
-    "thisApplicationIsIntented": "Cette application est prévue pour fonctionner via un lien d'invitation. Cliquez sur ce lien au préalable afin d'ouvrir une consultation.",
+    "thisApplicationIsIntented": "Cette application est prévue pour fonctionner via un lien d'invitation. Cliquez sur ce lien au préalable afin d'ouvrir une session.",
     "closeTheApplication": "Fermer l'application",
     "anErrorHasOccurred": "Lien expiré",
-    "theInvitationIsNotOrNoLongerValide": "Ce lien d'invitation n'est plus valable ou a déjà été utilisé. Le médecin ou soignant va vous renvoyer une invitation.",
+    "theInvitationIsNotOrNoLongerValide": "Ce lien d'invitation n'est plus valable ou a déjà été utilisé. Le contact va vous renvoyer une invitation.",
     "installOurApp": "Installer notre application",
     "donwloadHomeOnTheAppStore": "Télécharger {{branding}} sur l'App Store",
-    "openTheConsultation": "Ouvrir la consultation dans l'application",
+    "openTheConsultation": "Ouvrir la session dans l'application",
     "youDoNotWantToInstall": "Vous ne souhaitez pas installer l'application ?",
     "loading": "Chargement en cours...",
     "joinViaBrowser": "Rejoindre via le navigateur",
     "ifYouHaveReceivedThisInvitation": "Si vous avez reçu cette invitation, copiez-collez le lien reçu dans votre navigateur.",
     "ifYouReceivedThisInvitation": "Si vous avez reçu cette invitation, copiez-collez le lien reçu dans votre navigateur ou copiez ici la clé d'invitation :",
-    "thisAppOnlyWorksByInivitation": "Cette application ne fonctionne que par invitation. Veuillez utiliser le lien de téléconsultation que votre soignant vous aura envoyé.",
+    "thisAppOnlyWorksByInivitation": "Cette application ne fonctionne que par invitation. Veuillez utiliser le lien de session que votre soignant vous aura envoyé.",
     "invitationKey": "Clé d'invitation",
     "joinTheConsultation": "Rejoindre la consultation",
     "pleaseWaitWhileYourRequest": "Veuillez patienter pendant le traitement de votre demande.",
-    "yourConsultationIsPlannedFor": "Votre téléconsultation est planifiée pour le",
+    "yourConsultationIsPlannedFor": "Votre session est planifiée pour le",
     "addTheEventToYourCalendar": "Ajouter l'évènement à votre agenda",
     "termsOfService": "Conditions Générales d'Utilisation",
     "supportedByThePrivateFunction": "Soutenu par la fondation privée",
@@ -131,9 +131,9 @@
     "lastName": "Nom de famille"
   },
   "translatorForm": {
-    "youAboutToJoinInviteWithPatientAndDOctor": " {{branding}} est un système de téléconsultation. Vous êtes sur le point d'accepter un rendez-vous en ligne avec un patient et le soignant.",
+    "youAboutToJoinInviteWithPatientAndDOctor": " {{branding}} est un système d'appels à distance. Vous êtes sur le point d'accepter un rendez-vous en ligne avec un patient et le soignant.",
     "caregiverName": "Nom du soignant",
-    "pleaseFillYourInfo": " Merci de remplir les informations ci-dessous afin que nous puissions communiquer avec vous les accès à la téléconsultation.",
+    "pleaseFillYourInfo": " Merci de remplir les informations ci-dessous afin que nous puissions communiquer avec vous les accès à la session.",
     "name": "Nom et Prénom",
     "email": "email",
     "directNumber": "Numéro direct",
@@ -147,12 +147,12 @@
   },
   "closeConsultation": {
     "cancel": "ANNULER",
-    "theConsultationRequest": "LA DEMANDE DE CONSULTATION",
+    "theConsultationRequest": "LA DEMANDE DE SESSION",
     "youAreAboutTo": "  Vous êtes sur le point d'annuler la demande de consultation. Si vous annulez à ce niveau, vous perdrez votre position dans la file d'attente et vous devrez refaire une demande de consultation. Souhaitez-vous vraiment annuler ?",
-    "cancelTheRequest": "Annuler la demande de consultation",
+    "cancelTheRequest": "Annuler la demande de session",
     "stayInTheQueue": "Rester dans la file d'attente",
-    "pleaseFillUpInformation": "Merci de remplir les informations ci-dessous afin que nous puissions communiquer avec vous les accès de la consultation.",
-    "youAreGoingToAcceptFutureConsultation": "{{branding}} est un système de téléconsultation. Vous êtes sur le point d'accepter un futur rendez-vous en ligne avec un patient et le soignant.",
+    "pleaseFillUpInformation": "Merci de remplir les informations ci-dessous afin que nous puissions communiquer avec vous les accès de la session.",
+    "youAreGoingToAcceptFutureConsultation": "{{branding}} est un système d'appels à distance. Vous êtes sur le point d'accepter un futur rendez-vous en ligne avec un patient et le soignant.",
     "firstnameAndLastname": "Nom et prénom",
     "direcNumber": "Numéro direct",
     "refuse": "Aucune disponibilité"
@@ -188,14 +188,14 @@
     "promptLabelPicture": "Depuis la caméra"
   },
   "requestConsultation": {
-    "demandeConsultation": "Demande téléconsultation",
-    "requireentsToMakeConsultation": "PRE-REQUIS DE DEMANDE DE TELECONSULTATION",
+    "demandeConsultation": "Demande session",
+    "requireentsToMakeConsultation": "PRE-REQUIS DE DEMANDE DE SESSION",
     "theCallIsNotFor": "L’appel ne concerne pas une urgence vitale",
     "thePatientHas": "Le patient a consenti à effectuer l’appel",
     "theAttendingPhysician": "Le médecin traitant n’est pas disponible ou a donné son accord",
     "patientFollowing": "PATIENT À LA SUITE D’UNE HOSPITALISATION {{branding}}",
-    "patientsLastname": "Nom du patient",
-    "patientFirstname": "Prénom de patient",
+    "patientsLastname": "Nom de l'utilisateur de service",
+    "patientFirstname": "Prénom de l'utilisateur de service",
     "sex": "Sexe",
     "feminine": "Féminin",
     "male": "Masculin",
@@ -247,7 +247,7 @@
     "profile": "Profil"
   },
   "dashboard": {
-    "consultations": "Consultations",
+    "consultations": "Sessions",
     "history": "Historique",
     "handled_by": "Prise en charge par :",
     "requested_at": "Demandé à :",
