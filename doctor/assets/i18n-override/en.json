@@ -67,7 +67,9 @@
     "IMADTeam": "IMADTeam",
     "joinVideoCall": "Join video",
     "inviteExpert": "Invite a colleague",
-    "requestedBy": "Requested by"
+    "requestedBy": "Requested by",
+    "viewMore": "View more",
+    "viewLess": "View less"
   },
   "consultations": {
     "noPatientName": "Undefined",
@@ -191,6 +193,7 @@
     "cancel": "Cancel",
     "update": "Update",
     "send": "Send",
+    "sendLinkManually": "I want to send the link manually",
     "pleaseChooseAWaitingQueue": "Please choose the queue",
     "patient": "Service user",
     "thirdParty": "Third party",

@@ -67,7 +67,9 @@
         "IMADTeam": "IMADTeam",
         "joinVideoCall": "Join video",
         "inviteExpert": "Invite a colleague",
-        "requestedBy": "Requested by"
+        "requestedBy": "Requested by",
+        "viewMore": "View more",
+        "viewLess": "View less"
     },
     "consultations": {
         "noPatientName": "Undefined",
@@ -129,9 +131,15 @@
     },
     "cgu": {
         "termsAndConditions": "Terms & Conditions (T&C)",
-        "backToHome": "Return to Home",
+        "backToHome": "Back",
+        "submit": "Submit",
+        "youHaveTo": "You have to accept",
+        "terms": "Terms and Condition",
+        "before": "before you can use HCW@Home.",
+        "pleaseAccept": "You have to accept {{terms}} before you can use HCW@Home",
         "selectCountry": "This terms applies to the country:",
-        "notConfigured": "Terms and conditions have not yet been configured."
+        "notConfigured": "Terms and conditions have not yet been configured.",
+        "description": "Access condition"
     },
     "forgotPassword": {
         "home": "HOME",
@@ -167,6 +175,7 @@
         "pleaseChooseTheSex": "Please choose gender",
         "waitingQueue": "Shared waiting queue",
         "mySelf": "None",
+        "sendLinkManually": "I want to send the link manually",
         "pleaseOnlyFillUpAnEmailOrAnMobilePhoneNumberEx": "Please enter only email or mobile number (+41 or +33)",
         "pleaseEnterValidEmailOrPhoneNumber": "Please enter an email or mobile number in the format +41 or +33",
         "pleaseOnlyFillUpAnEmailOrAnMobilePhoneNumber": "Please fill in only one  email or mobile number.",
