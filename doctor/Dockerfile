@@ -9,6 +9,6 @@ RUN /usr/share/nginx/html/assets/i18n/combine.sh
 
 
 FROM init-layer
-
+ENV HCW_DOCTOR_VERSION=${HCW_DOCTOR_VERSION}
 COPY --from=i18n-layer /usr/share/nginx/html/assets/i18n/*.json /usr/share/nginx/html/assets/i18n/
 COPY --from=i18n-layer /usr/share/nginx/html/assets/i18n/*.orig /tmp/orig/

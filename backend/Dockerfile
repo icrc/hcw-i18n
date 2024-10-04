@@ -9,6 +9,6 @@ RUN /usr/src/app/config/locales/combine.sh
 
 
 FROM init-layer
-#
+ENV HCW_BACKEND_VERSION=${HCW_BACKEND_VERSION}
 COPY --from=i18n-layer /usr/src/app/config/locales/*.json /usr/src/app/config/locales/
 COPY --from=i18n-layer /usr/src/app/config/locales/*.orig /tmp/orig/
