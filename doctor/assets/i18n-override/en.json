@@ -139,7 +139,8 @@
     "pleaseAccept": "You have to accept {{terms}} before you can use HCW@Home",
     "selectCountry": "This terms applies to the country:",
     "notConfigured": "Terms and conditions have not yet been configured.",
-    "description": "Access condition"
+    "description": "Access condition",
+    "country": "Country"
   },
   "forgotPassword": {
     "home": "HOME",
@@ -349,7 +350,10 @@
     "updateTheProfile": "Update the profile",
     "name": "Name",
     "notification": "Notification",
-    "enablesNotification": "This enables notification when an new session is requested."
+    "enablesNotification": "This enables notification when an new session is requested.",
+    "selectLanguage": "Language",
+    "sms": "SMS",
+    "whatsapp": "WhatsApp"
   },
   "resetPassword": {
     "changePassword": "Change password",
