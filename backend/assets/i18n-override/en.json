@@ -71,5 +71,6 @@
   "consultation link": "Session link",
   "invite error": "Error sending Invite",
   "please use this link": "Please use this link to join the %(branding)s session: %(expertLink)s",
-  "consultation branding": "%(branding)s"
+  "consultation branding": "%(branding)s",
+  "consultation past time": "Consultation Time cannot be in the past"
 }

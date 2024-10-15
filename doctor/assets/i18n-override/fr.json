@@ -418,15 +418,15 @@
   },
   "cgu": {
     "notConfigured": "Les termes et conditions n'ont pas encore été configurés.",
-        "selectCountry": "Définissez votre pays et votre langue :",
-        "backToHome": "Retour",
-        "termsAndConditions": "Conditions Générales d'Utilisation (CGU)",
-        "submit": "Soumettre",
-        "before": "avant de pouvoir utiliser l'application.",
-        "terms": "les conditions d'utilisation",
-        "youHaveTo": "Vous devez accepter",
-        "description": "Conditions d'accès",
-        "pleaseAccept": "Vous devez accepter {{terms}} avant de pouvoir utiliser l'application"
+    "selectCountry": "Définissez votre pays et votre langue :",
+    "backToHome": "Retour",
+    "termsAndConditions": "Conditions Générales d'Utilisation (CGU)",
+    "submit": "Soumettre",
+    "before": "avant de pouvoir utiliser l'application.",
+    "terms": "les conditions d'utilisation",
+    "youHaveTo": "Vous devez accepter",
+    "description": "Conditions d'accès",
+    "pleaseAccept": "Vous devez accepter {{terms}} avant de pouvoir utiliser l'application"
   },
   "support": {
     "thisFormAllowsYouToReportAProblem": "Ce formulaire vous permet de remonter un problème rencontré pendant l'utilisation de {{branding}}. Avant de rapporter un incident, merci de vérifier que vous utilisez bien {{branding}} dans les conditions optimales :",
