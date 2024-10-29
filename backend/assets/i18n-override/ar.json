@@ -44,5 +44,17 @@
   "invalid invite": "رابط الدعوة هذا غير صالح",
   "de": "الألمانية",
   "forgot password email subject": "نسيت كلمة المرور",
-  "forgot password email": "لقد طلبت إعادة تعيين كلمة المرور الخاصة بك. يرجى النقر على الرابط أدناه لتغيير كلمة المرور الخاصة بك %(url)s. هذا الرابط سيعمل لمدة 5 دقائق فقط."
+  "forgot password email": "لقد طلبت إعادة تعيين كلمة المرور الخاصة بك. يرجى النقر على الرابط أدناه لتغيير كلمة المرور الخاصة بك %(url)s. هذا الرابط سيعمل لمدة 5 دقائق فقط.",
+  "consultation link": "Session link",
+  "invite error": "Error sending Invite",
+  "please use this link": "Please use this link to join the %(branding)s session: %(expertLink)s",
+  "consultation branding": "%(branding)s",
+  "consultation past time": "Consultation Time cannot be in the past",
+  "minute": "دقيقة",
+  "minutes": "دقائق",
+  "hour": "ساعة",
+  "hours": "ساعات",
+  "day": "يوم",
+  "days": "أيام",
+  "in %(count)s %(unit)s": "%(unit)s %(count)s في"
 }

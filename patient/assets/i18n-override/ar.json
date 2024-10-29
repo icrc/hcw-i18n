@@ -323,5 +323,11 @@
   },
   "appComponent": {
     "serverError": "لقد حدث خطأ ما"
+  },
+  "metadata": {
+    "Age": "عمر",
+    "Country": "دولة",
+    "File ID": "معرف الملف",
+    "Facility": "منشأة"
   }
 }

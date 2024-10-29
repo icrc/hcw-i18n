@@ -16,10 +16,10 @@
   "guest invite": "You have been invited to a %(branding)s session at the following link: %(url)s",
   "scheduled patient invite": "Hello, you have been invited to a %(branding)s session at %(inviteTime)s. We recommend that you test the compatibility of your device in advance using the following link.\n\n%(testingUrl)s",
   "scheduled guest invite": "Hello, you have been invited to a % (branding)s session at %(inviteTime)s. We recommend that you test the compatibility of your device in advance using the following link. %(testingUrl)s",
-  "first invite reminder": "D-1 reminder Your %(branding)s session will take place tomorrow at %(inviteTime)s",
-  "second invite reminder": "Your %(branding)s session will start in 10 minutes: %(url)s",
-  "first guest invite reminder": "D-1 reminder Your %(branding)s session will take place tomorrow at %(inviteTime)s",
-  "second guest invite reminder": "Your session will start in 10 minutes: %(url)s",
+  "first invite reminder": "D-1 reminder Your %(branding)s session will take place %(timePhrase)s at %(inviteTime)s",
+  "second invite reminder": "Your %(branding)s session will start %(timePhrase)s: %(url)s",
+  "first guest invite reminder": "D-1 reminder Your %(branding)s session will take place %(timePhrase)s at %(inviteTime)s",
+  "second guest invite reminder": "Your session will start %(timePhrase)s: %(url)s",
   "your consultation link": "Your session link %(branding)s",
   "translation request email subject": "Interpreter request between %(doctorLanguage)s and %(patientLanguage)s",
   "translation request email": "Dear interpreter, \n\nWe have received a request from a caregiver for an interpreter on the %(branding)s platform: \nCaregiver language: %(doctorLanguage)s \nPatient language: %(patientLanguage)s \nDate: as soon as possible \nIn order to confirm or your availability or not, please click on the link below %(url)s \n\nIf, after 48 hours, no one confirms their availability, we will assume that no one is available. \n\n\nThank you",
@@ -72,5 +72,12 @@
   "invite error": "Error sending Invite",
   "please use this link": "Please use this link to join the %(branding)s session: %(expertLink)s",
   "consultation branding": "%(branding)s",
-  "consultation past time": "Consultation Time cannot be in the past"
+  "consultation past time": "Consultation Time cannot be in the past",
+  "minute": "minute",
+  "minutes": "minutes",
+  "hour": "hour",
+  "hours": "hours",
+  "day": "day",
+  "days": "days",
+  "in %(count)s %(unit)s": "in %(count)s %(unit)s"
 }
