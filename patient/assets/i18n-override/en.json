@@ -48,7 +48,11 @@
     "sex": "Sex",
     "area": "Area",
     "requested_at": "Requested at",
-    "hospital": "Facility:"
+    "hospital": "Facility:",
+    "joinCallTitle": "Join call",
+    "joinCallDescription": "The call for this session is already on going, do you want to join the call now?",
+    "joinCallCancel": "Cancel",
+    "joinCallSubmit": "Join"
   },
   "consultations": {
     "openedConsultations": "Open sessions",
