@@ -21,4 +21,4 @@ move_files "doctor" "/usr/share/nginx/html/assets/i18n/"
 move_files "patient" "/usr/share/nginx/html/assets/i18n/"
 move_files "backend" "/usr/src/app/config/locales/"
 # not done as admin is not yet translated.
-#move_files "admin" "/usr/share/nginx/html/assets/i18n/"
+move_files "admin" "/usr/share/nginx/html/assets/translate/"
