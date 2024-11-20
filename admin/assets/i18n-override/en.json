@@ -1,0 +1,9 @@
+{
+  "roles": {
+    "doctor": "Expert",
+    "requester": "Requestor",
+    "nurse": "Requestor",
+    "admin": "Admin",
+    "scheduler": "Scheduler"
+  }
+}
