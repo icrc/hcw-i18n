@@ -199,7 +199,7 @@
     "send": "SEND",
     "aFile": "A FILE",
     "takeAPhoto": "Send or take a photo",
-    "fromThePhone": "Send a PDF file",
+    "fromThePhone": "Send a DOCX/PDF file",
     "leaveAudioMessage": "Leave an audio message",
     "cancel": "CANCEL",
     "promptLabelPhoto": "From photo gallery",
@@ -316,7 +316,8 @@
   "common": {
     "back_to_dashboard": "Back To Dashboard",
     "reconnected": "You are reconnected",
-    "connectionFailed": "The connection to the server is not functioning properly, and you can no longer receive session requests. If the issue persists, refresh the page."
+    "refresh": "Refresh",
+    "connectionFailed": "The connection to the server is not functioning properly, and you can no longer receive consultation requests. If the issue persists, refresh the page."
   },
   "metadata": {
     "Age": "Age",

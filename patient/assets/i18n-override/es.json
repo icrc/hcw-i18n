@@ -180,7 +180,7 @@
   },
   "chooseAttachement": {
     "aFile": "UN ARCHIVO",
-    "fromThePhone": "Enviar un archivo PDF",
+    "fromThePhone": "Enviar un archivo DOCX/PDF",
     "send": "ENVIAR",
     "leaveAudioMessage": "Dejar un mensaje de audio",
     "takeAPhoto": "Enviar o tomar una foto",

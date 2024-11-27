@@ -52,7 +52,7 @@
   "invite error": "Fehler beim Senden der Einladung",
   "consultation link": "Konsultationslink",
   "infected file": "Die Datei konnte nicht gesendet werden. Sie enthält wahrscheinlich Malware. Wir empfehlen Ihnen, sie von Ihrer Festplatte zu löschen.",
-  "invalid file type": "Die Datei konnte nicht gesendet werden. Zulässig sind nur die Dateitypen PDF, JPEG und PNG.",
+  "invalid file type": "Die Datei konnte nicht gesendet werden. Zulässig sind nur die Dateitypen DOCX, PDF, JPEG und PNG.",
   "no file": "Die Datei konnte nicht gesendet werden, da keine Datei bereitgestellt wurde.",
   "max file size": "Die Datei kann nicht gesendet werden, da die Größe das konfigurierte Limit überschreitet.",
   "notification for offline action text for doctor": "Sie erhalten diese Nachricht, weil Sie offline sind und jemand Ihnen in einer Beratung ein Update gesendet hat. Sie erhalten diese Nachricht erst wieder, wenn Sie sich das nächste Mal mit der Plattform verbinden.",
