@@ -199,7 +199,7 @@
     "send": "ENVOYER",
     "aFile": "UN FICHIER",
     "takeAPhoto": "Envoyer ou prendre une photo",
-    "fromThePhone": "Envoyer un fichier PDF",
+    "fromThePhone": "Envoyer un fichier DOCX/PDF",
     "leaveAudioMessage": "Laisser un message audio",
     "cancel": "ANNULER",
     "promptLabelPhoto": "Depuis la galerie",
