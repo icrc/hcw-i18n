@@ -180,7 +180,7 @@
     },
     "chooseAttachement": {
         "aFile": "ملف",
-        "fromThePhone": "أرسل ملف DOCX/PDF",
+        "fromThePhone": "أرسل ملف PDF",
         "send": "إرسال",
         "leaveAudioMessage": "ترك رسالة صوتية",
         "takeAPhoto": "أرسل أو التقط صورة",
