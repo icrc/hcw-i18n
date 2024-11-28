@@ -225,5 +225,103 @@
   "fa": "الفارسی",
   "ti": "التغرينية",
   "ru": "الروسية",
-  "it": "الايطالي"
+  "it": "الايطالي",
+  "request_consultation": {
+    "upload_document": "تحميل المستند",
+    "enter_text": "أدخل النص",
+    "message_optional": "الرسالة (اختياري)",
+    "enter_patient_hospitality": "أدخل مرفق مستخدم الخدمة",
+    "patient_hospitality": "مرفق مستخدم الخدمة",
+    "select_country": "اختر البلد",
+    "country": "البلد",
+    "enter_age": "أدخل العمر",
+    "age": "العمر",
+    "gender_required": "الجنس مطلوب",
+    "select_gender": "حدد الجنس",
+    "enter_patient_lastname": "أدخل اسم المستخدم الأخير",
+    "patient_lastname_required": "اسم مستخدم الخدمة الأخير مطلوب",
+    "patient_lastname": "اسم مستخدم الخدمة الأخير",
+    "enter_patient_firstname": "أدخل اسم مستخدم الخدمة الأول",
+    "patient_firstname_required": "الاسم الأول لمستخدم الخدمة مطلوب",
+    "patient_firstname": "الاسم الأول لمستخدم الخدمة",
+    "expert_area_required": "مجال الخبرة مطلوب",
+    "select_expert_area": "حدد مجال الخبرة",
+    "request_form_title": "بمجرد تقديم الطلب، سيتم إعادة توجيهك تلقائيًا إلى طلب الجلسة. سيكون بإمكانك إلغاء الطلب حتى يتولى أحد الخبراء التعامل معه.",
+    "consultation_request_form": "نموذج طلب جلسة",
+    "request_consultation": "طلب جلسة"
+  },
+  "dashboard": {
+    "no_consultation_history": "ليس لديك جلسة بعد.",
+    "no_consultation": "ليس لديك جلسة بعد. استخدم الزر أدناه لفتح طلب جلسة جديدة.",
+    "request_new_consultation": "طلب جلسة جديدة",
+    "cancel_consultation": "إلغاء الجلسة",
+    "no_message": "<لا توجد رسالة>",
+    "canceled": "تم الغاء",
+    "requesting": "طالب",
+    "resume": "استأنفت",
+    "hospital": "منشأة:",
+    "sex": "الجنس:",
+    "country": "البلد:",
+    "area": "المنطقة:",
+    "closed_at": "مغلق في:",
+    "requested_at": "تم الطلب في:",
+    "handled_by": "تم التعامل معه بواسطة:",
+    "history": "تاريخ",
+    "consultations": "الجلسات"
+  },
+  "common": {
+    "connectionFailed": "لا يعمل الاتصال بالخادم بشكل صحيح، ولم يعد بإمكانك تلقي طلبات الجلسة. إذا استمرت المشكلة، فقم بتحديث الصفحة.",
+    "reconnected": "لقد تم إعادة الاتصال بك",
+    "back_to_dashboard": "العودة إلى لوحة المعلومات"
+  },
+  "country_select": {
+    "search": "بحث",
+    "select_country": "اختر البلد"
+  },
+  "profile": {
+    "profile": "حساب تعريفي"
+  },
+  "header": {
+    "accessAsDoctor": "الدخول كمستخدم",
+    "logOut": "تسجيل الخروج",
+    "profile": "حساب تعريفي"
+  },
+  "register": {
+    "invalid_email": "عنوان البريد الإلكتروني غير صالح",
+    "email_required": "البريد الإلكتروني مطلوب",
+    "firstName_required": "الاسم الأول مطلوب",
+    "lastName_required": "الاسم الأخير مطلوب",
+    "phone_required": "رقم الهاتف مطلوب",
+    "organization_required": "المنظمة مطلوبة",
+    "country_required": "البلد مطلوب",
+    "own_account": "هل لديك حساب بالفعل؟ قم بتسجيل الدخول هنا",
+    "submit_registration": "إرسال التسجيل",
+    "terms": "الشروط والأحكام",
+    "by_checking_box": "من خلال النقر على مربع الاختيار، فإنك تقبل",
+    "gender": "الجنس",
+    "select_country": "اختر البلد",
+    "country": "البلد",
+    "enter_organization": "أدخل المنظمة",
+    "organization": "منظمة",
+    "enter_phone_number": "أدخل رقم الهاتف",
+    "phone_number": "رقم الهاتف",
+    "enter_lastname": "أدخل الاسم الأخير",
+    "lastname": "الاسم الأخير",
+    "enter_firstName": "أدخل الإسم الأول",
+    "firstName": "الاسم الأول",
+    "enter_email": "أدخل البريد الإلكتروني",
+    "email": "بريد إلكتروني",
+    "account_request": "طلب حساب"
+  },
+  "authenticate": {
+    "access_permits": "يسمح لك هذا الوصول بطلب جلسة على {{branding}}.",
+    "sso_text": "قم بتسجيل الدخول باستخدام بيانات تسجيل الدخول الفردية الخاصة بك",
+    "welcome_back": "مرحبًا بعودتك!",
+    "no_account": "ليس لديك حساب؟ اطلب حساب هنا",
+    "login_with": "الارتباط المؤسسي",
+    "authenticate": "المصادقة"
+  },
+  "appComponent": {
+    "serverError": "لقد حدث خطأ ما"
+  }
 }
