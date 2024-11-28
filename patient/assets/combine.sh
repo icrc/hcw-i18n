@@ -1,7 +1,7 @@
 #!/bin/bash
 
 ## This script combine the language files
-# simply create a file <lang>.override.json and the overrided language
+# simply create a file <lang>.override.json and the overridden language
 
 
 cd "$(dirname "$0")" || exit

@@ -1,0 +1,1 @@
+put ar.json here as some translations are missing in hcw
