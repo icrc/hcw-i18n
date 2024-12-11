@@ -1,7 +1,4 @@
 {
-  "awaitingConsultation": {
-    "awaitingConsultation": "Please wait while the session starts. Please keep this window open."
-  },
   "cgu": {
     "termsAndConditions": "Terms & Conditions (T&C)",
     "backToHome": "Return to Home",
@@ -53,50 +50,6 @@
     "joinCallDescription": "The call for this session is already on going, do you want to join the call now?",
     "joinCallCancel": "Cancel",
     "joinCallSubmit": "Join"
-  },
-  "consultations": {
-    "openedConsultations": "Open sessions",
-    "browserNotSupported": "Your browser is not supported for a session. Try to open the link in Safari (IOS) or Chrome. If you are opening this link from Outlook (IOS), you should have an option to open this page in another browser from the (...) menu at the bottom of this page.",
-    "yourBrowserIsNotCompatible": "Your browser is not compatible with our application, please update it or use a newer device. For this telecommunication, you need:",
-    "aCamera": "a camera;",
-    "aMicrophone": "a microphone;",
-    "fromARecentBrowser": "of a recent browser.",
-    "theBrowsersCurrentlySupported": "The latest versions of the following browsers are currently supported:",
-    "forIOSPhones": "For iOS phones and tablets: Safari",
-    "forAndroidPhones": "For Android phones and tablets: Chrome",
-    "forMacOSComputers": "For macOS computers: Safari, Chrome, Firefox",
-    "forWindowsComputers": "For Windows computers: Chrome, Firefox",
-    "forLinuxComputers": "For Linux computers: Chrome, Firefox"
-  },
-  "history": {
-    "historyOfConsultations": "Sessions history"
-  },
-  "incomingCall": {
-    "videoCall": "Video call",
-    "accept": "Accept",
-    "refuse": "Reject"
-  },
-  "info": {
-    "general": "GENERAL",
-    "geninformationeral": "General information",
-    "duringTheTransition": "During the transition between hospital and home, which is a period of increased fragility for Service users, home caregivers and local doctors sometimes require information from the Geneva University Hospitals (HUG) Integrated Service user File (DPI), in order to strengthen continuity of care and allow the Service user to be kept at home as much as possible.",
-    "home": "{{branding}}",
-    "aimsToStrengthen": "aims to strengthen this continuity of care between {{branding}} and the home, especially during the acute transitional care period (SAT) by providing an informed medical response by HUG doctors to Imad caregivers’ questions. This pilot project in which you are participating is a project coordinated by HUG in collaboration with imad. For the moment, it only involves Service users discharged from a recent hospitalisation at HUG (&lt;1 month) with follow-up treatment at home by a caregiver from the Eaux-Vives Home Maintenance Centre (CMD), or supported as part of the Cogeria project in partnership with the CMD Servette. This pilot has been deployed by ",
-    "mayToTheEnd": "May to end of October 2019",
-    "itIsFundedBy": "It is funded by",
-    "theHUGPrivate": "the Private Foundation of {{branding}}",
-    "andTheGeneral": "and the General Directorate of Health of the State of Geneva, whom we would like to thank. The doctors providing this service are experienced heads of clinics from",
-    "firstAidPhysicians": "Doctor’s First Aid Service",
-    "theServiceIsAccessible": "The service is accessible from",
-    "accessibleTime1": "5 p.m. to 9 p.m. Monday to Friday",
-    "andFrom": "and",
-    "accessibleTime2": "9 a.m. to 5 p.m. at weekends and on public holidays.",
-    "theCaregiverImad": "Before requesting the {{branding}} service for their Service user, the imad caregiver should ensure that the following prerequisites have been met: ",
-    "itIsNot": "This is not a life-threatening emergency",
-    "patientHasConstent": "The Service user has given consent for this video call",
-    "theAttendingPhysician": "The attending requester is not available or has given his consent for this call",
-    "thePatientWasRecently": "The Service user was recently hospitalised at {{branding}} (&lt; 1 month)",
-    "information": "INFORMATION"
   },
   "login": {
     "back": "Back",
@@ -204,21 +157,6 @@
     "cancel": "CANCEL",
     "promptLabelPhoto": "From photo gallery",
     "promptLabelPicture": "From camera"
-  },
-  "requestConsultation": {
-    "demandeConsultation": "Session request",
-    "requireentsToMakeConsultation": "SESSION REQUEST PRE-REQUISITES",
-    "theCallIsNotFor": "The call is not about a life-threatening emergency",
-    "thePatientHas": "The Service user has consented to make the call",
-    "theAttendingPhysician": "The attending requester is not available or has given his consent",
-    "patientFollowing": "SERVICE USER FOLLOWING A {{branding}} SESSION",
-    "patientsLastname": "Name of the Service user",
-    "patientFirstname": "First name of Service user",
-    "sex": "Gender",
-    "feminine": "Female",
-    "male": "Male",
-    "dateOfBirth": "Date of birth",
-    "validateRequest": "VALIDATE THE REQUEST"
   },
   "appComponent": {
     "serverError": "Something went wrong"
@@ -331,8 +269,10 @@
   "de": "Deutsch",
   "ar": "عربي",
   "ta": "தமிழ்",
+  "am": "Հայերեն",
   "fa": "فارسی",
   "ti": "ትግርኛ",
   "ru": "Русский",
-  "it": "italiano"
+  "it": "italiano",
+  "uk": "Украинский"
 }

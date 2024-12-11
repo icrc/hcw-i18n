@@ -1,26 +1,7 @@
 {
-  "incomingCall": {
-    "refuse": "Rechazar",
-    "videoCall": "Videollamada",
-    "accept": "Aceptar"
-  },
   "cgu": {
     "backToHome": "Volver al inicio",
     "termsAndConditions": "Condiciones generales de uso (CGU)"
-  },
-  "consultations": {
-    "forMacOSComputers": "Para ordenadores macOS: Safari, Chrome, Firefox",
-    "browserNotSupported": "Navegador no compatible",
-    "theBrowsersCurrentlySupported": "Los navegadores admitidos actualmente son las últimas versiones de los siguientes navegadores:",
-    "yourBrowserIsNotCompatible": "Su navegador no es compatible con nuestra aplicación, actualícela o utilice un dispositivo más nuevo. Para esta telecomunicación, necesita:",
-    "fromARecentBrowser": "de un navegador reciente.",
-    "openedConsultations": "Consultas abiertas",
-    "aMicrophone": "de un micrófono;",
-    "forAndroidPhones": "Para teléfonos y tabletas Android: Chrome",
-    "forWindowsComputers": "Para ordenadores Windows: Chrome, Firefox",
-    "forIOSPhones": "Para teléfonos y tabletas iOS: Safari",
-    "aCamera": "de una cámara;",
-    "forLinuxComputers": "Para ordenadores Linux: Chrome, Firefox"
   },
   "consultation": {
     "plsKeepThisOpenPage": "Mantenga esta página abierta, la teleconsulta comenzará en unos minutos.",
@@ -45,21 +26,6 @@
     "requestForConsultation": "SOLICITUD DE TELECONSULTA",
     "videoCallStarted": "Se ha iniciado la llamada de audio",
     "audioCallEnded": "Fin de la llamada de audio"
-  },
-  "requestConsultation": {
-    "patientFollowing": "PACIENTE TRAS UNA HOSPITALIZACIÓN {{branding}}",
-    "male": "Masculino",
-    "demandeConsultation": "Solicitud de teleconsulta",
-    "thePatientHas": "El paciente ha aceptado realizar la llamada",
-    "patientFirstname": "Nombre del cliente",
-    "patientsLastname": "Nombre del paciente",
-    "dateOfBirth": "Fecha de nacimiento",
-    "validateRequest": "VALIDAR LA SOLICITUD",
-    "feminine": "Femenino",
-    "requireentsToMakeConsultation": "PRERREQUISITO PARA LA SOLICITUD DE UNA TELECONSULTA",
-    "theAttendingPhysician": "El médico que debe tratarle no está disponible o no ha dado su consentimiento",
-    "sex": "Sexo",
-    "theCallIsNotFor": "La llamada no se trata de una emergencia vital"
   },
   "login": {
     "back": "Back",
@@ -100,9 +66,6 @@
     "video": "vídeo",
     "callInProgress": "Llamada en curso"
   },
-  "history": {
-    "historyOfConsultations": "Historial de consultas"
-  },
   "closingScreen": {
     "theConsultationIsNowOver": "La teleconsulta ha terminado",
     "areYouSatisfied": "¿Está satisfecho con la aplicación {{branding}}?",
@@ -126,30 +89,6 @@
     "connectionWithServer": "Conexión con el servidor",
     "testInProgress": "Prueba en curso",
     "theConnectionIs": "La conexión se ha realizado con éxito"
-  },
-  "info": {
-    "duringTheTransition": "Durante la transición entre el hospital y el hogar, un período de gran fragilidad para los pacientes, a veces, el personal sanitario a domicilio y los médicos del pueblo necesitan una transmisión de información basada en el Registro integrado del paciente (Dossier Patient Intégré, DPI) de los Hospitales Universitarios de Ginebra (HUG) para reforzar la continuidad de la atención y permitir, en la medida de los posible, que los pacientes permanezcan en casa.",
-    "aimsToStrengthen": "tiene por objetivo reforzar esta continuidad de la atención entre {{branding}} y el hogar, sobre todo, durante el período de cuidados intensivos de transición (SAT, por sus siglas en francés) al proporcionar una respuesta médica fundamentada por parte de los médicos de los HUG a las preguntas del personal sanitario del Imad. Este proyecto piloto en el que está participando es un proyecto coordinado por los HUG en colaboración con el imad. Por el momento, solo se trata de pacientes dados de alta de una hospitalización reciente en el HUG (&lt;1 mes) a los que se les realiza un seguimiento en su domicilio por parte de un profesional sanitario del Centro de Mantenimiento Domiciliario (CMD) de Eaux-Vives o que son atendidos en el marco del proyecto Cogeria implementado en colaboración con el CMD de la Servette. Esta prueba piloto ha sido implementada ",
-    "patientHasConstent": "El paciente ha dado su consentimiento para esta videollamada.",
-    "mayToTheEnd": "De mayo a finales de octubre de 2019",
-    "firstAidPhysicians": "Servicio de médicos de primeros auxilios",
-    "theAttendingPhysician": "El médico que debe tratarle no está disponible o no ha dado su consentimiento para esta llamada",
-    "theCaregiverImad": "Antes de solicitar el servicio {{branding}} para su paciente, el profesional sanitario del imad se asegura de que la situación cumple con los siguientes prerrequisitos: ",
-    "theHUGPrivate": "la Fundación Privada de {{branding}}",
-    "andFrom": "y de",
-    "itIsNot": "No se trata de una emergencia vital",
-    "accessibleTime2": "De 9 a 17 h los fines de semana y festivos.",
-    "theServiceIsAccessible": "Se puede acceder al servicio desde",
-    "general": "GENERAL",
-    "home": "{{branding}}",
-    "information": "INFORMACIÓN",
-    "thePatientWasRecently": "El paciente ha sido hospitalizado recientemente en {{branding}} (&lt;1 mes)",
-    "andTheGeneral": "y la Dirección General de Salud del Estado de Ginebra, a quien queremos darle las gracias. Los médicos que brindan este servicio son jefes de clínicas experimentados del",
-    "itIsFundedBy": "Está financiado por",
-    "accessibleTime1": "De 17 a 21 h, de lunes a viernes"
-  },
-  "awaitingConsultation": {
-    "awaitingConsultation": "Espere mientras comienza la teleconsulta. Mantenga esta ventana abierta."
   },
   "translatorForm": {
     "acceptRequest": "Aceptar la cita",
@@ -191,11 +130,13 @@
   "fr": "Français",
   "en": "English",
   "es": "Español",
+  "am": "Հայերեն",
   "de": "Deutsch",
   "ar": "عربي",
   "ta": "தமிழ்",
   "fa": "فارسی",
   "ti": "ትግርኛ",
   "ru": "Русский",
-  "it": "italiano"
+  "it": "italiano",
+  "uk": "Украинский"
 }
