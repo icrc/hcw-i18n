@@ -96,7 +96,8 @@
         "share": "Share invite by Email or mobile phone",
         "shareBy": "Share invite by link",
         "requestedBy": "Requested by",
-        "filters": "Filters"
+        "filters": "Filters",
+        "exportButton": "Export"
     },
     "consultation": {
         "start": "START",
@@ -236,7 +237,8 @@
         "et": "Tigrigna",
         "sg": "Tamil",
         "ta": "Tamil",
-        "ti": "Tigrinya"
+        "ti": "Tigrinya",
+        "uk": "Ukrainian"
     },
     "overlay": {
         "close": "Close",
@@ -405,7 +407,8 @@
         "patientFirstnameAndLastname": "Patient name",
         "patientBirthday": "Patient birthday",
         "nurse": "Nurse",
-        "new_consultation_form": "New consultation form"
+        "new_consultation_form": "New consultation form",
+        "help": "Help"
     },
     "confirmationDialog": {
         "yesText": "Confirm",
