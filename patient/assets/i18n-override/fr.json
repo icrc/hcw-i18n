@@ -1,7 +1,4 @@
 {
-  "awaitingConsultation": {
-    "awaitingConsultation": "Veuillez patienter pendant que la session démarre. Merci de garder cette fenêtre ouverte."
-  },
   "cgu": {
     "termsAndConditions": "Conditions Générales d'Utilisation (CGU)",
     "backToHome": "J'ai compris",
@@ -54,50 +51,6 @@
     "joinCallDescription": "L'appel pour cette session est déjà en cours, souhaitez-vous rejoindre l'appel maintenant ?",
     "joinCallTitle": "Rejoindre l'appel"
   },
-  "consultations": {
-    "openedConsultations": "Sessions ouvertes",
-    "browserNotSupported": "Votre navigateur n'est pas supporté pour une session à distance. Essayez d'ouvrir le lien dans Safari (IOS) ou Chrome. Si vous ouvrez ce lien depuis Outlook (IOS), vous devriez avoir une option pour ouvrir cette page dans un autre navigateur depuis le menu (...) en bas de cette page.",
-    "yourBrowserIsNotCompatible": "Votre navigateur n'est pas compatible avec notre application, veuillez le mettre à jour ou utiliser un appareil plus récent. Pour cette télécommunication, vous avez besoin :",
-    "aCamera": "d'une caméra ;",
-    "aMicrophone": "d'un microphone ;",
-    "fromARecentBrowser": "d'un navigateur récent.",
-    "theBrowsersCurrentlySupported": "Les navigateurs actuellement supportés sont les dernières versions des navigateurs suivants :",
-    "forIOSPhones": "Pour les téléphones et tablettes iOS : Safari",
-    "forAndroidPhones": "Pour les téléphones et tablettes Android : Chrome",
-    "forMacOSComputers": "Pour les ordinateurs macOS : Safari, Chrome, Firefox",
-    "forWindowsComputers": "Pour les ordinateurs Windows : Chrome, Firefox",
-    "forLinuxComputers": "Pour les ordinateurs Linux : Chrome, Firefox"
-  },
-  "history": {
-    "historyOfConsultations": "Historique des sessions"
-  },
-  "incomingCall": {
-    "videoCall": "Appel vidéo",
-    "accept": "Accepter",
-    "refuse": "Refuser"
-  },
-  "info": {
-    "general": "GENERAL",
-    "geninformationeral": "Informations générales",
-    "duringTheTransition": "Lors de la transition entre l’hôpital et le domicile, période de grande fragilité pour les patients, les soignants à domicile et les médecins de ville ont parfois besoin d’un relais d’informations basées sur le Dossier Patient Intégré (DPI) des Hôpitaux Universitaires de Genève (HUG) afin de renforcer la continuité des soins et permettre dans la mesure du possible un maintien du patient à domicile.",
-    "home": "{{branding}}",
-    "aimsToStrengthen": "vise à renforcer cette continuité des soins entre les {{branding}} et le domicile notamment durant la période de soins aigus de transition (SAT) en apportant une réponse médicale éclairée par des médecins HUG aux questions des soignants de l’Imad. Ce projet pilote auquel vous participez est un projet coordonné par les HUG en collaboration avec l’imad. Il concerne pour le moment uniquement les patients sortis d’une récente hospitalisation aux HUG (< 1 mois) et suivis à domicile par un soignant du Centre de Maintien à Domicile (CMD) des Eaux-Vives ou pris en charge dans le cadre du projet Cogeria déployé en partenariat avec le CMD la Servette. Ce pilote est déployé de ",
-    "mayToTheEnd": "Mai à fin Octobre 2019",
-    "itIsFundedBy": "Il est financé par",
-    "theHUGPrivate": "la Fondation Privée des HUG",
-    "andTheGeneral": "et la Direction Générale de la Santé de l’état de Genève que nous remercions. Les médecins assurant ce service sont des chefs de clinique expérimentés du",
-    "firstAidPhysicians": "Service de Médecins de Premiers Recours",
-    "theServiceIsAccessible": "Le service est accessible de",
-    "accessibleTime1": "17h à 21h du lundi au vendredi",
-    "andFrom": "et de",
-    "accessibleTime2": "9h à 17h les week-ends et jours fériés.",
-    "theCaregiverImad": "Le soignant imad s’assure avant de solliciter le service {{branding}} pour son patient que la situation répond aux prérequis suivants : ",
-    "itIsNot": "Il ne s’agit pas d’une urgence vitale",
-    "patientHasConstent": "L'utilisateur de service a donné son consentement pour cet appel vidéo",
-    "theAttendingPhysician": "Le médecin traitant n’est pas disponible ou a donné son accord pour cet appel",
-    "thePatientWasRecently": "Le patient a été récemment hospitalisé aux {{branding}} (< 1 mois)",
-    "information": "INFORMATIONS"
-  },
   "login": {
     "back": "Retour",
     "home": "Home",
@@ -110,14 +63,6 @@
     "thisApplicationIsIntented": "Cette application est prévue pour fonctionner via un lien d'invitation. Cliquez sur ce lien au préalable afin d'ouvrir une session.",
     "closeTheApplication": "Fermer l'application",
     "anErrorHasOccurred": "Lien expiré",
-    "theInvitationIsNotOrNoLongerValide": "Ce lien d'invitation n'est plus valable ou a déjà été utilisé. Le contact va vous renvoyer une invitation.",
-    "installOurApp": "Installer notre application",
-    "donwloadHomeOnTheAppStore": "Télécharger {{branding}} sur l'App Store",
-    "openTheConsultation": "Ouvrir la session dans l'application",
-    "youDoNotWantToInstall": "Vous ne souhaitez pas installer l'application ?",
-    "loading": "Chargement en cours...",
-    "joinViaBrowser": "Rejoindre via le navigateur",
-    "ifYouHaveReceivedThisInvitation": "Si vous avez reçu cette invitation, copiez-collez le lien reçu dans votre navigateur.",
     "ifYouReceivedThisInvitation": "Si vous avez reçu cette invitation, copiez-collez le lien reçu dans votre navigateur ou copiez ici la clé d'invitation :",
     "thisAppOnlyWorksByInivitation": "Cette application ne fonctionne que par invitation. Veuillez utiliser le lien de session que votre soignant vous aura envoyé.",
     "invitationKey": "Clé d'invitation",
@@ -125,12 +70,8 @@
     "pleaseWaitWhileYourRequest": "Veuillez patienter pendant le traitement de votre demande.",
     "yourConsultationIsPlannedFor": "Votre session est planifiée pour le",
     "addTheEventToYourCalendar": "Ajouter l'évènement à votre agenda",
-    "termsOfService": "Conditions Générales d'Utilisation",
-    "supportedByThePrivateFunction": "Soutenu par la fondation privée",
     "theRemoteServerIsNotReachable": "Le serveur distant n'est pas joignable, veuillez vérifier votre connectivité",
     "pleaseEnterYourInvitationKey": "Merci d'entrer votre clé d'invitation",
-    "youAlreadyOwnTheApplication": "Vous avez déjà l'application ?",
-    "unsupportedBrowser": "Votre navigateur n'est pas supporté pour une téléconsultation. Essayez d'ouvrir le lien dans Safari (IOS) ou Chrome. Si vous ouvrez ce lien depuis Outlook (IOS), vous devriez avoir une option pour ouvrir cette page dans un autre navigateur depuis le menu (...) en bas de cette page.",
     "firstName": "Prénom",
     "lastName": "Nom de famille"
   },
@@ -155,10 +96,6 @@
     "youAreAboutTo": "  Vous êtes sur le point d'annuler la demande de consultation. Si vous annulez à ce niveau, vous perdrez votre position dans la file d'attente et vous devrez refaire une demande de consultation. Souhaitez-vous vraiment annuler ?",
     "cancelTheRequest": "Annuler la demande de session",
     "stayInTheQueue": "Rester dans la file d'attente",
-    "pleaseFillUpInformation": "Merci de remplir les informations ci-dessous afin que nous puissions communiquer avec vous les accès de la session.",
-    "youAreGoingToAcceptFutureConsultation": "{{branding}} est un système d'appels à distance. Vous êtes sur le point d'accepter un futur rendez-vous en ligne avec un patient et le soignant.",
-    "firstnameAndLastname": "Nom et prénom",
-    "direcNumber": "Numéro direct",
     "refuse": "Aucune disponibilité"
   },
   "test": {
@@ -170,7 +107,9 @@
     "cameraDenied": "L'accès au microphone semble fonctionner mais l'accès à la caméra est refusé.",
     "micDenied": "L'accès à la caméra semble fonctionner mais l'accès au microphone est refusé.",
     "youCanStillJoin": "Vous pouvez néanmoins rejoindre la consultation, mais l'appel vidéo/audio risque d'échouer.",
-    "loading": "Chargement..."
+    "loading": "Chargement...",
+    "yourDeviceSeems": "Votre appareil semble parfaitement compatible avec le système de téléconsultation. Si l'aperçu vidéo n'est pas de qualité suffisante ou est saccadé, veuillez vérifier que le signal de votre équipement est suffisant.",
+    "joinTheConsultation": "Rejoindre la session"
   },
   "videoRoom": {
     "call": "Appel",
@@ -191,21 +130,6 @@
     "cancel": "ANNULER",
     "promptLabelPhoto": "Depuis la galerie",
     "promptLabelPicture": "Depuis la caméra"
-  },
-  "requestConsultation": {
-    "demandeConsultation": "Demande session",
-    "requireentsToMakeConsultation": "PRE-REQUIS DE DEMANDE DE SESSION",
-    "theCallIsNotFor": "L’appel ne concerne pas une urgence vitale",
-    "thePatientHas": "Le patient a consenti à effectuer l’appel",
-    "theAttendingPhysician": "Le médecin traitant n’est pas disponible ou a donné son accord",
-    "patientFollowing": "PATIENT À LA SUITE D’UNE HOSPITALISATION {{branding}}",
-    "patientsLastname": "Nom de l'utilisateur de service",
-    "patientFirstname": "Prénom de l'utilisateur de service",
-    "sex": "Sexe",
-    "feminine": "Féminin",
-    "male": "Masculin",
-    "dateOfBirth": "Date de naissance",
-    "validateRequest": "VALIDER LA DEMANDE"
   },
   "appComponent": {
     "serverError": "Something went wrong"
@@ -318,7 +242,9 @@
   "ar": "عربي",
   "ta": "தமிழ்",
   "fa": "فارسی",
+  "am": "Հայերեն",
   "ti": "ትግርኛ",
   "ru": "Русский",
-  "it": "italiano"
+  "it": "italiano",
+  "uk": "Украинский"
 }
