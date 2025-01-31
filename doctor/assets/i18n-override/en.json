@@ -440,7 +440,8 @@
   "selectLanguage": {
     "en": "English",
     "fr": "Français",
-    "uk": "Українська"
+    "uk": "Українська",
+    "sv": "Svenska"
   },
   "metadata": {
     "Age": "Age",
