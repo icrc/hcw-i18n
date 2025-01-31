@@ -1,20 +1,5 @@
 {
   "login": {
-    "login.home": "HOME",
-    "login.email": "Email",
-    "login.institutionalConnection": "Connexion institutionnelle",
-    "login.loginWithALocalAccount": "Connexion avec un compte local :",
-    "login.emailAddress": "Adresse email",
-    "login.pleaseProvideAValidEmail": "Merci de saisir une adresse e-mail valide",
-    "login.required": "requis",
-    "login.password": "Mot de passe",
-    "login.login": "Se connecter",
-    "login.iForgotMyPassword": "J'ai oublié mon mot de passe",
-    "login.pleaseFillUpTheRecievedSMS": "Veuillez renseigner le code de vérification reçu par SMS :",
-    "login.verificationCode": "Code de vérification",
-    "login.send": "Envoyer",
-    "login.sendCodeAgain": "Renvoyer le code",
-    "login.youReachedTheMaximumAttemptAmount": "Vous avez dépassé le maximum autorisé de tentatives",
     "youReachedTheMaximumAttemptAmount": "Vous avez atteint le nombre maximum de tentatives",
     "sendCodeAgain": "Renvoyer le code",
     "send": "Envoyer",
@@ -40,7 +25,8 @@
     "invites": "Invitations",
     "testVideoSound": "Test son/vidéo",
     "support": "Support",
-    "connectionFailed": "La connexion avec le serveur ne fonctionne pas correctement, vous ne pouvez plus recevoir les demandes de consultation. Si le problème persiste, raffraichissez la page de votre navigateur."
+    "connectionFailed": "La connexion avec le serveur ne fonctionne pas correctement, vous ne pouvez plus recevoir les demandes de consultation. Si le problème persiste, raffraichissez la page de votre navigateur.",
+    "refresh": "Rafraîchir"
   },
   "chat": {
     "inviteExpert": "Inviter un collègue",
@@ -90,7 +76,6 @@
     "time": "Heure",
     "duration": "Durée",
     "translator": "Interprète",
-    "guest": "Guest",
     "sendAgainANewInvitation": "Envoyer une nouvelle invitation",
     "sendAgainTheInvitation": "Renvoyer l'invitation",
     "unread": "Non lus",
@@ -100,7 +85,8 @@
     "online": "En ligne",
     "inviteExpert": "Inviter un collègue",
     "share": "Partager l'invitation par email ou par SMS",
-    "shareBy": "Inviter via un lien"
+    "shareBy": "Inviter via un lien",
+    "exportButton": "Exporter"
   },
   "consultation": {
     "expert_link": "Lien de l'expert",
@@ -165,6 +151,8 @@
     "sex": "Sexe",
     "male": "Masculin",
     "female": "Féminin",
+    "other": "Autre",
+    "unknown": "Inconnu",
     "pleaseChooseTheSex": "Veuillez choisir le sexe",
     "waitingQueue": "File d'attente partagée",
     "mySelf": "Aucun",
@@ -187,11 +175,10 @@
     "cancel": "Annuler",
     "update": "Mettre à jour",
     "send": "Envoyer",
-    "sendLinkManually": "Je veux envoyer le lien manuellement",
     "pleaseChooseAWaitingQueue": "Veuillez choisir la file d'attente",
     "patient": "Patient",
     "thirdParty": "Tiers",
-    "dateTime": "",
+    "dateTime": "Date et heure",
     "inviteExpert": "Inviter un collègue",
     "notPermitted": "Ce numéro de téléphone n'est pas autorisé sur cette plateforme.",
     "invalidEmailAddress": "L'email est invalide",
@@ -224,7 +211,14 @@
     "et": "Tigrigna",
     "sg": "Tamoul",
     "ta": "Tamoul",
-    "ti": "Tigrigna"
+    "ti": "Tigrigna",
+    "am": "Arménienne",
+    "chooseTime": "Choisissez une heure",
+    "selectTimezone": "Sélectionner le fuseau horaire",
+    "chooseDate": "Choisissez une date",
+    "sendLinkManually": "Je veux envoyer le lien manuellement",
+    "uk": "Ukrainien",
+    "sv": "Suédois"
   },
   "overlay": {
     "close": "Clôturer",
@@ -315,10 +309,7 @@
     "pleaseFillUpThePhoneNumberWithFormat": "Veuillez saisir le numéro de téléphone au format +41XX...",
     "pleaseOnlyFillUpAnEmailOrAnMobilePhoneNumber": "Veuillez renseigner uniquement un des deux champs Email ou Numéro de mobile",
     "cancel": "Annuler",
-    "send": "Envoyer",
-    "enablesNotification": "Cette option active l'envoi de notification SMS quand une consultation est demandée.",
-    "notification": "Notification",
-    "name": "Nom"
+    "send": "Envoyer"
   },
   "profile": {
     "profile": "Profil",
@@ -341,7 +332,12 @@
     "updateTheProfile": "mettre à jour le profil",
     "enablesNotification": "Cette option active l'envoi de notification SMS quand une consultation est demandée.",
     "notification": "Notification",
-    "name": "Nom"
+    "name": "Nom",
+    "whatsapp": "WhatsApp",
+    "sms": "SMS",
+    "selectLanguage": "Langue",
+    "messageServiceSuccess": "Succès !",
+    "messageServiceError": "Quelque chose s'est mal passé"
   },
   "resetPassword": {
     "changePassword": "Changement du mot de passe",
@@ -374,7 +370,8 @@
     "patientBirthday": "Date de naissance de l'utilisateur",
     "nurse": "Infirmier",
     "new_consultation_form": "Formulaire de demande de session",
-    "profile": "Profil"
+    "profile": "Profil",
+    "help": "Aide"
   },
   "confirmationDialog": {
     "yesText": "Confirm",
@@ -401,7 +398,8 @@
     "terms": "les conditions d'utilisation",
     "youHaveTo": "Vous devez accepter",
     "description": "Conditions d'accès",
-    "pleaseAccept": "Vous devez accepter {{terms}} avant de pouvoir utiliser l'application"
+    "pleaseAccept": "Vous devez accepter {{terms}} avant de pouvoir utiliser l'application",
+    "country": "Pays"
   },
   "sendInviteLink": {
     "sent": "Le lien d'invitation a été envoyé avec succès au participant",
