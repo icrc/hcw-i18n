@@ -27,6 +27,8 @@ for file in ??.json ; do
         echo "Error during combining lang ${lang}, check if json is valid"
         exit 1
       fi
+    else
+      echo "No orig for ${lang}"
     fi
   fi
 done
