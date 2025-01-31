@@ -48,7 +48,7 @@
     "pleaseWaitWhileYourRequest": "Espere mientras se procesa su solicitud."
   },
   "videoRoom": {
-    "caller": "ICRC",
+    "caller": "TeleConnect",
     "refuse": "Rechazar",
     "accept": "Aceptar",
     "callInProgress": "Llamada en curso"

@@ -84,7 +84,7 @@
     "yourDeviceSeems": "Il tuo dispositivo sembra essere perfettamente compatibile con il sistema di teleconsulto. Se l'anteprima video non è di qualità soddisfacente o risulta frammentata, verifica che il segnale dell'apparecchiatura sia adeguato."
   },
   "videoRoom": {
-    "caller": "ICRC",
+    "caller": "TeleConnect",
     "accept": "Accetta",
     "refuse": "Rifiuta",
     "callInProgress": "Chiamata in corso"

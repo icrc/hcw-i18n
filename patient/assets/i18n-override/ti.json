@@ -84,7 +84,7 @@
     "yourDeviceSeems": "መሳርሒኻ ምስ ሲስተም ዝሰማማዕ ይመስል፣ እቲ ኳሊቲ ናይ ቪድዮ ብቁዕ ወይ እኹል እንተዘየልዩ ናይ መሳርሒኻ መስመር እኹል እዩ።"
   },
   "videoRoom": {
-    "caller": "ICRC",
+    "caller": "TeleConnect",
     "accept": "ተቀበል",
     "refuse": "ነጸገ",
     "callInProgress": "ይጽዉዕ ኣሎ"
