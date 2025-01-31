@@ -13,3 +13,8 @@ RUN cp -n /usr/share/nginx/html/assets/i18n/i18n-override/*.json /usr/share/ngin
 FROM init-layer
 COPY --from=i18n-layer /usr/share/nginx/html/assets/i18n/*.json /usr/share/nginx/html/assets/i18n/
 COPY --from=i18n-layer /usr/share/nginx/html/assets/i18n/*.orig /tmp/orig/
+
+USER root
+RUN chmod a+rX /etc/nginx/ssl && chmod a+r /etc/nginx/ssl/ssl-cert-snakeoil.*
+USER nginx
+
