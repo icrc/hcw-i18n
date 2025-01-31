@@ -139,7 +139,7 @@
         "cameraDenied": "Tillgång till mikrofonen verkar fungera men åtkomst till kameran nekas."
     },
     "videoRoom": {
-        "call": "Samtal",
+        "caller": "ICRC",
         "audioCall": "Ljudsamtal",
         "videoCall": "Videosamtal",
         "audio": "ljud",

@@ -68,6 +68,7 @@
     "youCanStillJoin": "Sie können weiterhin an der Beratung teilnehmen, aber der Video-/Audioanruf schlägt möglicherweise fehl."
   },
   "videoRoom": {
+    "caller": "ICRC",
     "videoCall": "Videoanruf",
     "audioCall": "Audioanruf"
   },

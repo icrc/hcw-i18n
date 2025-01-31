@@ -114,7 +114,7 @@
     "permissionError": "We have encountered a problem for accessing to your camera or your microphone. Please ensure the devices are properly connected."
   },
   "videoRoom": {
-    "call": "Call",
+    "caller": "ICRC",
     "audioCall": "Audio call",
     "videoCall": "Video call",
     "accept": "Accept",
