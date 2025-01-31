@@ -18,6 +18,7 @@
     "consultation": "CONSULTATION",
     "capInProgress": "EN COURS",
     "youAreNowInConsultation": "Vous êtes désormais en session avec",
+    "youAreInConsultation": "Vous êtes désormais en session",
     "phone": "Tel :",
     "requestForConsultation": "DEMANDE DE TELECONSULTATION",
     "youAreInWaiting": "Vous êtes en attente, merci de patienter.",
@@ -112,11 +113,8 @@
     "joinTheConsultation": "Rejoindre la session"
   },
   "videoRoom": {
-    "call": "Appel",
     "audioCall": "Appel audio",
     "videoCall": "Appel vidéo",
-    "audio": "audio",
-    "video": "vidéo",
     "accept": "Accepter",
     "refuse": "Refuser",
     "callInProgress": "Appel en cours"
@@ -126,7 +124,6 @@
     "aFile": "UN FICHIER",
     "takeAPhoto": "Envoyer ou prendre une photo",
     "fromThePhone": "Envoyer un fichier DOCX/PDF",
-    "leaveAudioMessage": "Laisser un message audio",
     "cancel": "ANNULER",
     "promptLabelPhoto": "Depuis la galerie",
     "promptLabelPicture": "Depuis la caméra"
@@ -135,7 +132,6 @@
     "serverError": "Something went wrong"
   },
   "authenticate": {
-    "authenticate": "Authentification",
     "login_with": "Connexion institutionnelle",
     "no_account": "Pas encore de compte ? Demandez en un ici",
     "welcome_back": "Bienvenue !",
@@ -194,7 +190,8 @@
     "cancel_consultation": "Annuler la consultation",
     "request_new_consultation": "Demander une nouvelle consultation",
     "no_consultation": "Vous n'avez pas encore de consultation active. Utilisez le bouton ci-dessus pour demander une nouvelle consultation.",
-    "no_consultation_history": "Vous n'avez pas encore de consultation clôturée."
+    "no_consultation_history": "Vous n'avez pas encore de consultation clôturée.",
+    "export": "Exporter"
   },
   "request_consultation": {
     "consultation_request_form": "Formulaire de demande de consultation",
@@ -213,8 +210,6 @@
     "enter_age": "Saisir l'age",
     "country": "Pays",
     "select_country": "Choisissez le pays",
-    "patient_hospitality": "Hôpital / établissement du patient",
-    "enter_patient_hospitality": "Saisir l'hôpital / l'établissement du patient",
     "message_optional": "Message (optionnel)",
     "enter_text": "Saisir du texte",
     "upload_document": "Téléverser un document",
@@ -227,7 +222,8 @@
   "common": {
     "back_to_dashboard": "Retour au tableau de bord",
     "reconnected": "Vous êtes reconnecté",
-    "connectionFailed": "La connexion avec le serveur ne fonctionne pas correctement, vous ne recevrez plus les demandes de consultation. Si le problème persiste, veuillez raffraichir la page."
+    "connectionFailed": "La connexion avec le serveur ne fonctionne pas correctement, vous ne recevrez plus les demandes de consultation. Si le problème persiste, veuillez raffraichir la page.",
+    "refresh": "Rafraîchir"
   },
   "metadata": {
     "Age": "Age",

@@ -18,6 +18,7 @@
     "consultation": "SESSION",
     "capInProgress": "IN PROCESS",
     "youAreNowInConsultation": "You are now in session with",
+    "youAreInConsultation": "You are now in session",
     "phone": "Tel.:",
     "requestForConsultation": "REQUEST FOR SESSION",
     "youAreInWaiting": "We are putting you through, please wait.",
@@ -60,17 +61,10 @@
     "termsText": "You must accept the",
     "termsSecondText": "before being able to use {{branding}}",
     "warning": "Warning",
+    "theInvitationIsNotOrNoLongerValide": "This invitation link is no longer valid or has already been used. The requester will send you another invitation.",
     "thisApplicationIsIntented": "This application is intended to work via an invitation link. Click on this link beforehand to open a session.",
     "closeTheApplication": "Close the application",
     "anErrorHasOccurred": "Link expired",
-    "theInvitationIsNotOrNoLongerValide": "This invitation link is no longer valid or has already been used. Another invitation will be sent",
-    "installOurApp": "Install our application",
-    "donwloadHomeOnTheAppStore": "Download {{branding}} on the App Store",
-    "openTheConsultation": "Open the session in the application",
-    "youDoNotWantToInstall": "You do not want to install the application?",
-    "loading": "Loading...",
-    "joinViaBrowser": "Join via browser",
-    "ifYouHaveReceivedThisInvitation": "If you have received this invitation, copy and paste the received link into your browser.",
     "ifYouReceivedThisInvitation": "If you received this invitation, copy and paste the received link into your browser or copy the invitation key here:",
     "thisAppOnlyWorksByInivitation": "This application only works by invitation. Please use the session link that your caregiver has sent you.",
     "invitationKey": "Invitation key",
@@ -78,12 +72,8 @@
     "pleaseWaitWhileYourRequest": "Please wait while your request is being processed.",
     "yourConsultationIsPlannedFor": "Your session is planned for",
     "addTheEventToYourCalendar": "Add the event to your calendar",
-    "termsOfService": "Terms & Conditions",
-    "supportedByThePrivateFunction": "Supported by the private foundation",
     "theRemoteServerIsNotReachable": "The remote server cannot be reached, please check your connectivity",
     "pleaseEnterYourInvitationKey": "Please enter your invitation key",
-    "youAlreadyOwnTheApplication": "Already have the application?",
-    "unsupportedBrowser": "Your browser is not supported for a session. Try to open the link in Safari (IOS) or Chrome. If you are opening this link from Outlook (IOS), you should have an option to open this page in another browser from the (...) menu at the bottom of this page.",
     "firstName": "First Name",
     "lastName": "Last Name"
   },
@@ -108,27 +98,12 @@
     "youAreAboutTo": "  You are about to cancel the session request. If you cancel at this level, you will lose your position in the queue and you will have to re-request a session. <br /> <br /> <br /> Are you sure you want to cancel?",
     "cancelTheRequest": "Cancel the request",
     "stayInTheQueue": "Remain in the queue",
-    "pleaseFillUpInformation": "Please fill in the information below so that we can contact you with access to the session.",
-    "youAreGoingToAcceptFutureConsultation": "{{branding}} is a video/audio call system. You are about to accept a future online appointment with a Service user and caregiver.",
-    "firstnameAndLastname": "First and last name",
-    "direcNumber": "Direct number",
     "refuse": "No availability"
   },
   "test": {
     "loading": "Loading...",
     "joinTheConsultation": "Join the session",
-    "ifThisIsTheFirst": "If this is the first time that you are joining a session, we advise you to test your configuration using the button below.",
-    "welcomeToTheHome": "Welcome to the {{branding}} platform. This page helps to ensure that your device will perform as expected on the day of the consultation. Click on the button below to check compatibility. You will need to accept requests for access to your camera and your microphone.",
-    "testMyEquipment": "Test my hardware",
-    "testInProgress": "Test in process",
-    "yourDeviceAppears": "Your device seems to be having problems with this system. We advise you to try using another browser if possible, to check your updates, or try on another device.",
-    "videoElementCreated": "Video element created",
-    "streamCreated": "Flow created",
-    "connectionWithServer": "Connection with the server",
-    "stopTheTest": "Stop the test",
     "yourDeviceSeems": "Your device seems to be perfectly compatible with this system. If the video preview is not of sufficient quality or is choppy, please check that your equipment signal is sufficient.",
-    "testStarting": "Starting the test",
-    "theConnectionIs": "The connection was successful",
     "youCanStillJoin": "You can still join session but video/audio call might fails.",
     "micDenied": "Access to camera seems working but access to the microphone is denied.",
     "cameraDenied": "Access to microphone seems working but access to the camera is denied.",
@@ -142,8 +117,6 @@
     "call": "Call",
     "audioCall": "Audio call",
     "videoCall": "Video call",
-    "audio": "audio",
-    "video": "video",
     "accept": "Accept",
     "refuse": "Reject",
     "callInProgress": "Call in progress"
@@ -153,7 +126,6 @@
     "aFile": "A FILE",
     "takeAPhoto": "Send or take a photo",
     "fromThePhone": "Send a DOCX/PDF file",
-    "leaveAudioMessage": "Leave an audio message",
     "cancel": "CANCEL",
     "promptLabelPhoto": "From photo gallery",
     "promptLabelPicture": "From camera"
@@ -162,7 +134,6 @@
     "serverError": "Something went wrong"
   },
   "authenticate": {
-    "authenticate": "Authenticate",
     "login_with": "Institutional Connection",
     "no_account": "No account ? Request account here",
     "welcome_back": "Welcome back!",
@@ -213,6 +184,10 @@
     "area": "Area:",
     "country": "Country:",
     "sex": "Sex:",
+    "male": "Male",
+    "female": "Female",
+    "other": "Other",
+    "unknown": "Unknown",
     "hospital": "Facility:",
     "resume": "Resume",
     "requesting": "requesting",
@@ -221,7 +196,8 @@
     "cancel_consultation": "Cancel session",
     "request_new_consultation": "Request new session",
     "no_consultation": "You have no session yet. Use the button below to open new session request.",
-    "no_consultation_history": "You have no session in history yet."
+    "no_consultation_history": "You have no session in history yet.",
+    "export": "Export"
   },
   "request_consultation": {
     "consultation_request_form": "Session request form",
@@ -240,8 +216,6 @@
     "enter_age": "Enter Age",
     "country": "Country",
     "select_country": "Select Country",
-    "patient_hospitality": "Service user Facility",
-    "enter_patient_hospitality": "Enter Service user Facility",
     "message_optional": "Message (Optional)",
     "enter_text": "Enter text",
     "upload_document": "Upload Document",
@@ -256,6 +230,11 @@
     "reconnected": "You are reconnected",
     "refresh": "Refresh",
     "connectionFailed": "The connection to the server is not functioning properly, and you can no longer receive consultation requests. If the issue persists, refresh the page."
+  },
+  "acknowledgeInvite": {
+    "testButton": "Test Call",
+    "successMessage": "Success!",
+    "subTitle": "Thank you for acknowledging this invite! You can now test your browser compatibility.\n"
   },
   "metadata": {
     "Age": "Age",
@@ -274,5 +253,6 @@
   "ti": "ትግርኛ",
   "ru": "Русский",
   "it": "italiano",
-  "uk": "Українські"
+  "uk": "Українські",
+  "sv": "Swedish"
 }
