@@ -249,6 +249,7 @@
     "sendMyFeedback": "Envoyer mon feedback"
   },
   "invitations": {
+    "title": "INVITATIONS",
     "newInvite": "Nouvelle invitation",
     "noConsultationInvite": "Aucune invitation de téléconsultation",
     "phoneNumber": "Numéro de téléphone",
@@ -278,7 +279,8 @@
     "revoke": "Supprimer",
     "cancelRevoke": "Ne pas supprimer",
     "revokeConfirmTitle": "Supprimer une invitation",
-    "status": "Etat"
+    "status": "Etat",
+    "immediately": "Immédiatement"
   },
   "sideChat": {
     "startTheConsultation": "Démarrer la consultation"
