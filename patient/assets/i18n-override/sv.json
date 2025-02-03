@@ -49,7 +49,8 @@
         "joinCallTitle": "Gå med i samtalet",
         "joinCallDescription": "Samtalet för denna session pågår redan, vill du gå med i samtalet nu?",
         "joinCallCancel": "Avboka",
-        "joinCallSubmit": "Ansluta sig till"
+        "joinCallSubmit": "Ansluta sig till",
+        "youAreInConsultation": "Du är nu i session"
     },
     "login": {
         "back": "Tillbaka",
@@ -63,13 +64,6 @@
         "closeTheApplication": "Stäng programmet",
         "anErrorHasOccurred": "Länken ej längre giltig",
         "theInvitationIsNotOrNoLongerValide": "Denna inbjudningslänk är inte längre giltig eller har redan använts. Ytterligare en inbjudan kommer att skickas",
-        "installOurApp": "Installera vår applikation",
-        "donwloadHomeOnTheAppStore": "Ladda ner {{branding}} på App Store",
-        "openTheConsultation": "Öppna sessionen i applikationen",
-        "youDoNotWantToInstall": "Vill du inte installera programmet?",
-        "loading": "Loading...",
-        "joinViaBrowser": "Gå med via webbläsaren",
-        "ifYouHaveReceivedThisInvitation": "Om du har fått den här inbjudan, kopiera och klistra in den mottagna länken i din webbläsare.",
         "ifYouReceivedThisInvitation": "Om du fick den här inbjudan, kopiera och klistra in den mottagna länken i din webbläsare eller kopiera inbjudningsnyckeln här:",
         "thisAppOnlyWorksByInivitation": "Denna applikation fungerar endast efter inbjudan. Använd sessionslänken som din vårdgivare har skickat till dig.",
         "invitationKey": "Inbjudningsnyckel",
@@ -77,14 +71,10 @@
         "pleaseWaitWhileYourRequest": "Vänta medan din förfrågan bearbetas.",
         "yourConsultationIsPlannedFor": "Din session är planerad till",
         "addTheEventToYourCalendar": "Lägg till händelsen i din kalender",
-        "termsOfService": "Allmänna villkor",
-        "supportedByThePrivateFunction": "Stöds av den privata stiftelsen",
         "theRemoteServerIsNotReachable": "Fjärrservern kan inte nås, kontrollera din anslutning",
         "pleaseEnterYourInvitationKey": "Vänligen ange din inbjudningsnyckel",
-        "youAlreadyOwnTheApplication": "Har du redan applikationen?",
         "firstName": "Förnamn",
         "lastName": "Efternamn",
-        "unsupportedBrowser": "Din webbläsare stöds inte för en session. Försök att öppna länken i Safari (IOS) eller Chrome. Om du öppnar den här länken från Outlook (IOS), bör du ha ett alternativ att öppna den här sidan i en annan webbläsare från (...)-menyn längst ner på denna sida.",
         "thisApplicationIsIntented": "Denna applikation är avsedd att fungera via en inbjudningslänk. Klicka på denna länk i förväg för att öppna en session."
     },
     "translatorForm": {
@@ -108,42 +98,25 @@
         "youAreAboutTo": "  Du är på väg att avbryta sessionsbegäran. Om du avbryter på den här nivån förlorar du din position i kön och du måste återbeställa en session. <br /> <br /> <br /> Är du säker på att du vill avbryta?",
         "cancelTheRequest": "Avbryt begäran",
         "stayInTheQueue": "Stanna kvar i kön",
-        "pleaseFillUpInformation": "Vänligen fyll i informationen nedan så att vi kan kontakta dig med tillgång till sessionen.",
-        "youAreGoingToAcceptFutureConsultation": "{{branding}} är ett video-/ljudsamtalssystem. Du är på väg att acceptera ett framtida onlinemöte med en tjänstanvändare och vårdgivare.",
-        "firstnameAndLastname": "För- och efternamn",
-        "direcNumber": "Direktnummer",
         "refuse": "Ingen tillgänglighet"
     },
     "test": {
         "loading": "Läser in...",
         "joinTheConsultation": "Gå med i sessionen",
-        "ifThisIsTheFirst": "Om det är första gången du går med i en session, rekommenderar vi att du testar din konfiguration med knappen nedan.",
-        "testMyEquipment": "Testa min hårdvara",
-        "testInProgress": "Test pågår",
-        "yourDeviceAppears": "Din enhet verkar ha problem med det här systemet. Vi rekommenderar att du försöker använda en annan webbläsare om möjligt, för att kontrollera dina uppdateringar eller prova på en annan enhet.",
-        "videoElementCreated": "Videoelement skapat",
-        "streamCreated": "Flöde skapat",
-        "connectionWithServer": "Anslutning till servern",
-        "stopTheTest": "Stoppa testet",
         "yourDeviceSeems": "Din enhet verkar vara perfekt kompatibel med detta system. Om videoförhandsvisningen inte är av tillräcklig kvalitet eller är hackig, kontrollera att din utrustningssignal är tillräcklig.",
-        "testStarting": "Startar testet",
-        "theConnectionIs": "Anslutningen lyckades",
         "youCanStillJoin": "Du kan fortfarande gå med i sessionen men video-/ljudsamtal kan misslyckas.",
         "micDenied": "Tillgång till kameran verkar fungera men åtkomst till mikrofonen nekas.",
         "bothDenied": "Tillgång till kamera och mikrofon nekas.",
         "askForPermission": "Be om lov",
         "connectivityIssue": "Vi har problem med anslutningen",
         "permissionError": "Systemet måste ha tillgång till din kamera och mikrofon för att fungera korrekt. Se till att acceptera begäran om tillstånd.",
-        "welcomeToTheHome": "Välkommen till {{branding}}-plattformen. Den här sidan hjälper till att säkerställa att din enhet kommer att fungera som förväntat på dagen för konsultationen. Klicka på knappen nedan för att kontrollera kompatibiliteten. Du måste acceptera förfrågningar om åtkomst till din kamera och din mikrofon.",
         "micAndCamRequesting": "Systemet måste ha tillgång till din kamera och mikrofon för att fungera korrekt. Se till att acceptera begäran om tillstånd.",
         "cameraDenied": "Tillgång till mikrofonen verkar fungera men åtkomst till kameran nekas."
     },
     "videoRoom": {
-        "caller": "TeleConnect",
+        "call": "Samtal",
         "audioCall": "Ljudsamtal",
         "videoCall": "Videosamtal",
-        "audio": "ljud",
-        "video": "video",
         "accept": "Acceptera",
         "refuse": "Avvisa",
         "callInProgress": "Samtal pågår"
@@ -153,7 +126,6 @@
         "aFile": "EN FIL",
         "takeAPhoto": "Skicka eller ta ett foto",
         "fromThePhone": "Skicka en DOCX/PDF-fil",
-        "leaveAudioMessage": "Lämna ett ljudmeddelande",
         "cancel": "AVBOKA",
         "promptLabelPhoto": "Från fotogalleri",
         "promptLabelPicture": "Från kameran"
@@ -162,7 +134,6 @@
         "serverError": "Något gick fel"
     },
     "authenticate": {
-        "authenticate": "Autentisera",
         "login_with": "Institutionell anslutning",
         "no_account": "Inget konto? Begär konto här",
         "welcome_back": "Välkommen tillbaka!",
@@ -221,7 +192,12 @@
         "cancel_consultation": "Avbryt session",
         "request_new_consultation": "Begär ny session",
         "no_consultation": "Du har ingen session ännu. Använd knappen nedan för att öppna en ny sessionsbegäran.",
-        "no_consultation_history": "Du har ingen session i historiken än."
+        "no_consultation_history": "Du har ingen session i historiken än.",
+        "male": "Manlig",
+        "female": "Kvinnlig",
+        "other": "Andra",
+        "unknown": "Okänd",
+        "export": "Exportera"
     },
     "request_consultation": {
         "consultation_request_form": "Formulär för sessionsbegäran",
@@ -240,8 +216,6 @@
         "enter_age": "Ange ålder",
         "country": "Land",
         "select_country": "Välj land",
-        "patient_hospitality": "Klient facilitet",
-        "enter_patient_hospitality": "Ange klient facilitet",
         "message_optional": "Meddelande (valfritt)",
         "enter_text": "Skriv in text",
         "upload_document": "Ladda upp dokument",
@@ -274,5 +248,11 @@
     "ti": "Tigrinya",
     "ru": "ryska",
     "it": "italienska",
-    "uk": "ukrainska"
+    "uk": "ukrainska",
+    "acknowledgeInvite": {
+        "testButton": "Testsamtal",
+        "successMessage": "Fungerar!",
+        "subTitle": "Tack för att du tackar ja till denna inbjudan! Du kan nu testa din webbläsares kompatibilitet.\n"
+    },
+    "sv": "svenska"
 }

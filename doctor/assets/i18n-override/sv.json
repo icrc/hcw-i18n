@@ -200,12 +200,14 @@
         "sg": "tamil",
         "ti": "tigrinya",
         "uk": "ukrainska",
-        "sv": "Svenska"
+        "sv": "Svenska",
+        "unknown": "Okänd",
+        "other": "Andra",
+        "am": "armeniska"
     },
     "invitations": {
         "accepted": "Accepterad",
         "sendAgainTheSMSOrEmailInvite": "Skicka SMS- eller e-postinbjudan igen",
-        "cancelThisInvitationToJoinAConsultation": "Avbryt denna inbjudan för att gå med i en session",
         "newInvite": "Ny inbjudan",
         "noConsultationInvite": "Ingen sessionsinbjudan",
         "phoneNumber": "Telefonnummer",
@@ -233,7 +235,30 @@
         "cancelRevoke": "Ta inte bort",
         "revokeConfirmTitle": "Ta bort en inbjudan",
         "status": "Ange",
-        "immediately": "Omedelbart"
+        "immediately": "Omedelbart",
+        "sending": "Sändning",
+        "failed": "Misslyckades",
+        "delivered": "Levereras",
+        "undelivered": "Ej levererad",
+        "receiving": "Mottagande",
+        "received": "Mottagen",
+        "scheduled": "Schemalagt",
+        "read": "Läs",
+        "acknowledged": "Bekräftad",
+        "scheduledForInvite": "Schemalagd för inbjudan",
+        "partiallyDelivered": "Delvis levererad",
+        "edit": "Redigera",
+        "expertTooltip": "Expert",
+        "participant": "Deltagare",
+        "sms": "SMS",
+        "whatsapp": "WhatsApp",
+        "email": "E-post",
+        "manual": "Manuell",
+        "title": "INBJUDNINGAR",
+        "pending": "I avvaktan på",
+        "queued": "I kö",
+        "guestTooltip": "Gäst",
+        "communicationMethod": "Kommunikationsmetod"
     },
     "resetPassword": {
         "youAreOnThisPage": "Du är på den här sidan för att du följde en länk för att uppdatera ditt lösenord. Vänligen fyll i ditt nya lösenord nedan.",
@@ -252,22 +277,6 @@
         "anUnknownErrorHasBeenEncountered": "Ett okänt fel har påträffats. Försök igen.",
         "home": "HEM"
     },
-    "support": {
-        "thisFormAllowsYouToReportAProblem": "Detta formulär låter dig rapportera ett problem som uppstår när du använder @{{branding}} . Innan du rapporterar en incident, verifiera att du använder @{{branding}} under bästa möjliga förhållanden:",
-        "pleaseFillUpThisForm": "Vänligen fyll i detta formulär från den dator du använder applikationen @{{branding}} . För att hjälpa oss med diagnostiken kommer din IP-adress, namnet och versionen av din webbläsare att rapporteras.",
-        "plsProvideDetailsAboutTheProblems": "Vänligen ange detaljer om problemet som stött på, genom att exemplet \"trycka på samtalsknappen från en session returnerade ingen åtgärd.\"",
-        "incidentReportHome": "Incidentrapport @{{branding}}",
-        "yourBrowserIsUpToDate": "Din webbläsare är uppdaterad.",
-        "youTriedThePageTestAudioSound": "Du provade sidan Testa ljud/ljudordning för att försöka hjälpa dig själv.",
-        "problemEncountered": "Beskrivning av problem påträffat",
-        "whatWasYouDoing": "Vad gjorde du innan problemet?",
-        "plsProvideDetailsOfWhat": "Vänligen ange detaljer om vad du gjorde innan du stötte på problemet, till exempel \"Jag var med i sessionen för att skicka textmeddelanden\".",
-        "theFollowingInformation": "Följande information kommer vi att rapportera",
-        "browserVersion": "Webbläsarversion:",
-        "yourIpAddress": "Din IP-adress:",
-        "yourEmail": "Din e-post:",
-        "send": "Skicka"
-    },
     "consultations": {
         "noPatientName": "Odefinierad",
         "noConsultation": "Ingen session",
@@ -280,7 +289,6 @@
         "time": "Tid",
         "duration": "Varaktighet",
         "translator": "Tolk",
-        "guest": "Gäst",
         "sendAgainANewInvitation": "Skicka en ny inbjudan igen",
         "sendAgainTheInvitation": "Skicka inbjudan igen",
         "unread": "Oläst",
@@ -293,7 +301,9 @@
         "shareBy": "Dela inbjudan via länk",
         "requestedBy": "Begärd av",
         "filters": "Filter",
-        "exportButton": "Exportera"
+        "exportButton": "Exportera",
+        "participant": "Deltagare",
+        "guestTooltip": "Gäst"
     },
     "consultation": {
         "aCall": "ETT SAMTAL",
@@ -421,17 +431,48 @@
         "noText": "Avbryt",
         "confirmationTitle": "Bekräftelse!"
     },
-    "videoRoom": {
-        "consultation": "SESSION"
-    },
-    "dateTimePicker": {
-        "cancelBtnLabel": "Avbryt"
-    },
     "sendInviteLink": {
         "subTitle": "Kopiera länken nedan och dela med klienten på valfritt sätt. Varning, denna länk är endast användbar en gång.",
         "label": "Inbjudningslänk",
         "close": "Stäng",
         "copied": "Kopierade till urklipp",
-        "sent": "Inbjudningslänken har skickats till deltagaren"
+        "sent": "Inbjudningslänken har skickats till deltagaren",
+        "title": "Bjud in via länk"
+    },
+    "tour": {
+        "prevBtnTitle": "Föreg",
+        "endBtnTitle": "Avsluta",
+        "invitesMenuTitle": "Hantera inbjudningar",
+        "invitesMenuContent": "Inbjudningar tillåter klienter att gå med dig på den här applikationen. Skapa eller återkalla inbjudningar när som helst från det här området.",
+        "newInviteButtonTitle": "Ny inbjudan",
+        "newInviteButtonContent": "Klicka på \"Ny inbjudan\" för att öppna formuläret.",
+        "remotePatientInviteTitle": "Bjud in en fjärrkient",
+        "remotePatientInviteContent": "Klicka på \"Fjärrkilent\" så att patienten kan gå med dig i denna applikation.",
+        "inviteFormContactInputTitle": "Klientinformation",
+        "inviteFormSendLinkManuallyTitle": "Skicka länken manuellt",
+        "waitingRoomMenuTitle": "Klientväntrum",
+        "openedConsultationsMenuTitle": "Långtidskonsultationer",
+        "consultationsHistoryMenuTitle": "Sluten konsultation",
+        "consultationsHistoryMenuContent": "När du bestämmer dig för att avsluta en konsultation kommer din klient inte längre att kunna utbyta meddelanden med dig. Konsultationen kommer att finnas kvar i historiken i 24 timmar innan den raderas från systemet av säkerhetsskäl.",
+        "headerProfileMenuTitle": "Tillgång till din profil",
+        "headerProfileMenuContent": "Du kan hantera viss information från din profilsida.",
+        "startTourTitle": "Välkommen till {{branding}}",
+        "startTourDescription": "{{branding}} hjälper dig att få kontakt med klienter. Den här rundturen hjälper dig att förstå konceptet. Du kan hoppa över rundturen när som helst genom att stänga denna hjälp.",
+        "startTourDismissBtnTitle": "Hoppa över",
+        "startTourSubmitBtnTitle": "Nästa",
+        "endTourTitle": "Profilsida",
+        "endTourSubmitBtnTitle": "Ok",
+        "nextBtnTitle": "Nästa",
+        "inviteFormContactInputContent": "Fyll i klientinformationen för att enkelt känna igen vilken klient som väntar på en fjärrkonsultation. Du kan skicka inbjudningslänken via SMS, e-post eller WhatsApp, beroende på mjukvarukonfigurationen och klientens land.",
+        "inviteFormSendLinkManuallyContent": "Om du föredrar att dela länken med din klient manuellt, markera den här rutan. Efter att du har skickat kommer du att kunna kopiera länken och dela den (t.ex. i ett e-postmeddelande du själv skriver). Var noga med att inte använda länken själv för att testa den, eftersom länken bara är användbar en gång.",
+        "waitingRoomMenuContent": "När din klient har använt länken och begärt att få gå med i konsultationen kommer du att meddelas med ett ljud och se den inkommande klienten i denna kö. Håll ansökan öppen för att minska risken att missa en konsultation.",
+        "openedConsultationsMenuContent": "När du har hanterat en konsultation kan du välja att hålla den öppen så att din klient kan fortsätta kommunicera med dig och skicka meddelanden. Du kan se sådana konsultationer i det här avsnittet.",
+        "endTourDescription": "Du kan ändra språk eller aktivera SMS-aviseringar om något händer när du inte är ansluten till den här applikationen."
+    },
+    "selectLanguage": {
+        "fr": "franska",
+        "uk": "ukrainska",
+        "sv": "Svenska",
+        "en": "engelska"
     }
 }
