@@ -67,7 +67,7 @@
   "forgot password email": "Du har begärt att få återställa ditt lösenord. Klicka på länken nedan för att ändra ditt lösenord %(url)s . Den här länken fungerar bara i 5 minuter.",
   "consultation link": "Sessionslänk",
   "invite error": "Det gick inte att skicka inbjudan",
-  "please use this link": "Använd denna länk för att gå med i %(branding)s-sessionen: %(expertLink)s",
+  "please use this link": "Använd denna länk för att gå med i sessionen: %(expertLink)s",
   "consultation branding": "%(branding)s",
   "consultation past time": "Konsultationstiden kan inte ligga i det förflutna",
   "minute": "minut",
