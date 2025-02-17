@@ -244,7 +244,7 @@
     "startDateTime": "Date/heure de début",
     "endDateTime": "Date/heure de fin",
     "duration": "Durée",
-    "areYouSatisfiedWithTheHomeApp": "Êtes-vous satisfait de l'application {{branding}} ?",
+    "areYouSatisfiedWithTheHomeApp": "Votre utilisation de {{branding}} a-t-elle contribué à améliorer la qualité des soins fournis à ce bénéficiaire ?",
     "doYouWantToLeaveUsAComment": "Voulez-vous nous laisser un commentaire ?",
     "yourComment": "Votre commentaire",
     "thanksForYourFeedback": "Merci de votre feedback.",

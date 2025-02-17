@@ -267,7 +267,7 @@
     "startDateTime": "Start date/time",
     "endDateTime": "End date/time",
     "duration": "Duration",
-    "areYouSatisfiedWithTheHomeApp": "Are you satisfied with the {{branding}} app?",
+    "areYouSatisfiedWithTheHomeApp": "Did your use of {{branding}} help improve the quality of care provided to this beneficiary?",
     "doYouWantToLeaveUsAComment": "Do you want to leave us a comment?",
     "yourComment": "Your comment",
     "thanksForYourFeedback": "Thanks for your feedback.",
