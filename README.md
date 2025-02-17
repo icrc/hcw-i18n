@@ -2,6 +2,7 @@
 
 Will create Docker images based on [HCW](https://github.com/HCW-home) applications with custom translations, enabling HCW applications to be used in various contexts beyond health.
 
+
 The main i18n changes are:
 - `consultation` replaced by `session`
 - `patient` replaced by `service user`
