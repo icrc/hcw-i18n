@@ -65,19 +65,7 @@
     "termsText": "يجب عليك قبول",
     "termsSecondText": "قبل أن تتمكن من الاستخدام {{branding}}",
     "firstName": "الاسم الأول",
-    "lastName": "اسم العائلة",
-    "termsOfService": "الشروط العامة للاستخدام",
-    "theInvitationIsNotOrNoLongerValide": "لم يعد رابط الدعوة هذا صالحًا أو تم استخدامه بالفعل. سيتم إرسال دعوة أخرى",
-    "donwloadHomeOnTheAppStore": "تحميل   {{branding}}  من متجر التطبيقات",
-    "loading": "جارٍ التحميل...",
-    "openTheConsultation": "افتح الجلسة في التطبيق",
-    "youDoNotWantToInstall": "لا ترغب في تثبيت هذا التطبيق؟",
-    "supportedByThePrivateFunction": "بدعم من المؤسسة الخاصة",
-    "installOurApp": "تثبيت تطبيقنا",
-    "ifYouHaveReceivedThisInvitation": "إذا تلقيت هذه الدعوة، فانسخ والصق الرابط الذي تلقيته في متصفحك.",
-    "joinViaBrowser": "الالتحاق باستخدام برنامج التصفح",
-    "youAlreadyOwnTheApplication": "هل لديكم التطبيق؟",
-    "unsupportedBrowser": "لا يدعم متصفحك جلسة معينة. حاول فتح الرابط في Safari (IOS) أو Chrome. إذا كنت تفتح هذا الرابط من Outlook (IOS)، فيجب أن يكون لديك خيار لفتح هذه الصفحة في متصفح آخر من القائمة (...) الموجودة أسفل هذه الصفحة."
+    "lastName": "اسم العائلة"
   },
   "videoRoom": {
     "caller": "TeleConnect",
@@ -169,6 +157,7 @@
     "invalid_email": "عنوان البريد الإلكتروني غير صالح",
     "account_request": "طلب حساب",
     "email": "بريد إلكتروني",
+    "enter_email": "أدخل البريد الإلكتروني",
     "firstName": "الاسم الأول",
     "enter_firstName": "أدخل الإسم الأول",
     "by_checking_box": "من خلال النقر على مربع الاختيار، فإنك تقبل"
@@ -247,7 +236,7 @@
   "de": "الألمانية",
   "ar": "العربية",
   "ta": "التاميل",
-  "am": "Հայերեն",
+  "hy": "Հայերեն",
   "fa": "الفارسی",
   "ti": "التغرينية",
   "ru": "الروسية",

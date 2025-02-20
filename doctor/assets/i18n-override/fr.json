@@ -86,9 +86,7 @@
     "inviteExpert": "Inviter un collègue",
     "share": "Partager l'invitation par email ou par SMS",
     "shareBy": "Inviter via un lien",
-    "exportButton": "Exporter",
-    "guestTooltip": "Invité",
-    "participant": "Participant"
+    "exportButton": "Exporter"
   },
   "consultation": {
     "expert_link": "Lien de l'expert",
