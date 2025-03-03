@@ -41,7 +41,8 @@
     "joinCallDescription": "نداء لهذه الاستشارة قائم بالفعل، هل ترغب في الانضمام إلى المكالمة الآن؟",
     "joinCallTitle": "انضم إلى المكالمة",
     "joinCallCancel": "إلغاء",
-    "joinCallSubmit": "انضم"
+    "joinCallSubmit": "انضم",
+    "youAreInConsultation": "أنت الآن في الجلسة"
   },
   "login": {
     "back": "العودة إلى الصفحة السابقة",
@@ -65,7 +66,8 @@
     "termsText": "يجب عليك قبول",
     "termsSecondText": "قبل أن تتمكن من الاستخدام {{branding}}",
     "firstName": "الاسم الأول",
-    "lastName": "اسم العائلة"
+    "lastName": "اسم العائلة",
+    "theInvitationIsNotOrNoLongerValide": "رابط الدعوة هذا لم يعد صالحًا أو تم استخدامه بالفعل. سيرسل لك الطالب دعوة أخرى."
   },
   "videoRoom": {
     "caller": "TeleConnect",
@@ -190,7 +192,12 @@
     "cancel_consultation": "إلغاء الجلسة",
     "request_new_consultation": "طلب جلسة جديدة",
     "no_consultation": "ليس لديك جلسة بعد. استخدم الزر أدناه لفتح طلب جلسة جديدة.",
-    "no_consultation_history": "ليس لديك جلسة بعد."
+    "no_consultation_history": "ليس لديك جلسة بعد.",
+    "male": "ذكر",
+    "other": "آخر",
+    "unknown": "غير معروف",
+    "female": "أنثى",
+    "export": "تصدير"
   },
   "request_consultation": {
     "age": "العمر",
@@ -223,8 +230,8 @@
   "metadata": {
     "Age": "العمر",
     "Country": "دولة",
-    "Custom Id": "معرف مخصص",
-    "Facility": "منشأة"
+    "Facility": "منشأة",
+    "FileID": "معرف الملف"
   },
   "country_select": {
     "select_country": "اختر البلد",
@@ -241,5 +248,13 @@
   "ti": "التغرينية",
   "ru": "الروسية",
   "it": "الايطالي",
-  "uk": "Українські"
+  "uk": "Українські",
+  "acknowledgeInvite": {
+    "failureMessage": "غير صالح",
+    "errorDescription": "هذا الرابط للإقرار لم يعد صالحًا أو تم استخدامه بالفعل.",
+    "testButton": "اختبار الاتصال",
+    "successMessage": "نجاح!",
+    "subTitle": "شكراً لك على قبول هذه الدعوة! يمكنك الآن اختبار توافق المتصفح الخاص بك."
+  },
+  "sv": "السويدية"
 }

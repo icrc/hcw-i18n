@@ -229,7 +229,7 @@
     "back_to_dashboard": "Back To Dashboard",
     "reconnected": "You are reconnected",
     "refresh": "Refresh",
-    "connectionFailed": "The connection to the server is not functioning properly, and you can no longer receive consultation requests. If the issue persists, refresh the page."
+    "connectionFailed": "The connection to the server is not functioning properly, and you can no longer receive session requests. If the issue persists, refresh the page."
   },
   "acknowledgeInvite": {
     "testButton": "Test Call",
