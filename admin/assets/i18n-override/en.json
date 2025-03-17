@@ -1,8 +1,8 @@
 {
   "roles": {
     "doctor": "Expert",
-    "requester": "Requestor",
-    "nurse": "Requestor",
+    "requester": "Request Expert",
+    "nurse": "Request Expert",
     "admin": "Admin",
     "scheduler": "Scheduler"
   },
