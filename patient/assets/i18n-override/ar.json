@@ -75,7 +75,10 @@
     "accept": "قبول",
     "callInProgress": "جارٍ الاتصال",
     "videoCall": "مكالمة فيديو",
-    "audioCall": "مكالمة صوتية"
+    "audioCall": "مكالمة صوتية",
+    "permissionNeeded": "مطلوب إذن",
+    "needAccess": "نحتاج إلى الوصول إلى الميكروفون أو الكاميرا لمتابعة المكالمة.",
+    "ok": "حسنًا"
   },
   "closingScreen": {
     "theConsultationIsNowOver": "انتهت الجلسة الآن",

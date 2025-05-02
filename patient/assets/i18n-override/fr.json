@@ -118,7 +118,10 @@
     "videoCall": "Appel vidéo",
     "accept": "Accepter",
     "refuse": "Refuser",
-    "callInProgress": "Appel en cours"
+    "callInProgress": "Appel en cours",
+    "permissionNeeded": "Permission requise",
+    "needAccess": "Nous avons besoin d'accéder à votre microphone ou à votre caméra pour continuer l'appel.",
+    "ok": "OK"
   },
   "chooseAttachement": {
     "send": "ENVOYER",
