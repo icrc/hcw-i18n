@@ -80,7 +80,7 @@
   "translation request email": "Hej  tolk,\n\nVi har fått en förfrågan om en tolk på %(branding)s plattform:\nMigrationsrådgivarens språk: %(doctorLanguage)s\nKlientens språk: %(patientLanguage)s\nDatum: så snart som möjligt\nFör att bekräfta din tillgänglighet eller inte, klicka på länken nedan %(url)s\n\nOm ingen efter 48 timmar bekräftar sin tillgänglighet antar vi att ingen är tillgänglig.\n\n\nTack",
   "notification for offline action text for doctor": "Du får det här meddelandet eftersom du är offline och någon skickade en uppdatering under en session. Du kommer inte att få detta meddelande längre förrän din nästa anslutning till plattformen.",
   "infected file": "Det går inte att skicka filen, filen innehåller förmodligen skadlig programvara. Du uppmuntras att radera den från din hårddisk.",
-  "patient is ready": "En tjänstanvändare står i väntekö. Du kan ange en uppskattad väntetid genom att använda följande länk %(url)s",
+  "patient is ready": "En användare väntar i kön eller har skrivit till dig i TeleConnect-chatten. Du kan granska ärendet genom att klicka här: %(url)s",
   "visit": "Besök",
   "acknowledge invite": "Bekräfta inbjudan"
 }

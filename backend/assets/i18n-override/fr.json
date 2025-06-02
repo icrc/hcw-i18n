@@ -56,7 +56,7 @@
   "translator is ready subject": "Demande d'interprète acceptée",
   "translator is ready": "Bonjour,\nl'interprète a accepté votre invitation à votre session. Merci de vous connecter à %(branding)s pour lancer sa prise en charge.",
   "doctor delay in minutes": "Merci pour votre patience, je vais prendre la session dans approximativement %(delay)s minutes.",
-  "patient is ready": "Un utilisateur du service est en attente. Vous pouvez fournir une estimation du temps d'attente en utilisant le lien suivant %(url)s",
+  "patient is ready": "Un utilisateur du service est en file d’attente ou vous a écrit dans le chat TeleConnect. Vous pouvez consulter le cas en cliquant ici : %(url)s",
   "forgot password email subject": "Mot de passe oublié",
   "forgot password email": "Vous nous avez indiqué que vous avez oublié votre mot de passe. Merci de cliquer sur le lien suivant afin de changer votre mot de passe %(url)s . Ce lien ne fonctionnera que 5 minutes.",
   "consultation link": "Lien de session",

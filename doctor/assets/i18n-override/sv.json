@@ -474,5 +474,34 @@
     "uk": "ukrainska",
     "sv": "Svenska",
     "en": "engelska"
+  },
+  "pdf": {
+    "consultationReport": "Sessionsrapport",
+    "patientInformation": "Användarinformation",
+    "firstname": "Förnamn",
+    "lastname": "Efternamn",
+    "gender": "Kön",
+    "requesterInformation": "Begärarens information",
+    "expertInformation": "Expertinformation",
+    "consultationInformation": "Sessionsinformation",
+    "startDateTime": "Startdatum/-tid",
+    "endDateTime": "Slutdatum/-tid",
+    "duration": "Varaktighet",
+    "chatHistory": "Chattlogg",
+    "attachedFile": "[Bifogad fil]",
+    "audioCall": "Ljudsamtal",
+    "videoCall": "Videosamtal",
+    "accepted": "accepterat",
+    "missed": "missat",
+    "call": "samtal",
+    "finished": "avslutat",
+    "fileName": "sessionsrapport"
+  },
+  "error": {
+    "defaultTitle": "Fel",
+    "defaultMessage": "Ett oväntat fel uppstod. Försök igen senare.",
+    "blockedTitle": "Begäran blockerad",
+    "blockedMessage": "Din begäran blockerades av en säkerhetspolicy. Kontakta supporten om problemet kvarstår.",
+    "networkMessage": "Ett nätverksfel uppstod. Kontrollera din anslutning och försök igen."
   }
 }

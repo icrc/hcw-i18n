@@ -22,7 +22,7 @@
   "second guest invite reminder": "Your session will start in %(timePhrase)s: %(url)s",
   "your consultation link": "Your session link %(branding)s",
   "notification for offline action text for doctor": "You receive this message because you are offline and somebody sent an update in a session. You will not receive this message anymore until your next connection to the platform.",
-  "patient is ready": "A service user is in waiting queue. You can provide an estimation waiting time by using the following link %(url)s",
+  "patient is ready": "A service user is waiting in the queue or has written to you in the TeleConnect chat. You can check the case by clicking here: %(url)s",
   "please use this link": "Please use this link to join the session: %(expertLink)s",
   "translation request email subject": "Interpreter request between %(doctorLanguage)s and %(patientLanguage)s",
   "translation request email": "Dear interpreter, \n\nWe have received a request from a caregiver for an interpreter on the %(branding)s platform: \nCaregiver language: %(doctorLanguage)s \nPatient language: %(patientLanguage)s \nDate: as soon as possible \nIn order to confirm or your availability or not, please click on the link below %(url)s \n\nIf, after 48 hours, no one confirms their availability, we will assume that no one is available. \n\n\nThank you",

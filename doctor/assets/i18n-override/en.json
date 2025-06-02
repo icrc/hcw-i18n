@@ -625,6 +625,35 @@
     "uk": "Українська",
     "sv": "Svenska"
   },
+  "pdf": {
+    "consultationReport": "Session report",
+    "patientInformation": "Service User information",
+    "firstname": "Firstname",
+    "lastname": "Lastname",
+    "gender": "Gender",
+    "requesterInformation": "Requester information",
+    "expertInformation": "Expert information",
+    "consultationInformation": "Session information",
+    "startDateTime": "Start date/time",
+    "endDateTime": "End date/time",
+    "duration": "Duration",
+    "chatHistory": "Chat history",
+    "attachedFile": "[Attached file]",
+    "audioCall": "Audio call",
+    "videoCall": "Video call",
+    "accepted": "accepted",
+    "missed": "missed",
+    "call": "call",
+    "finished": "finished",
+    "fileName": "session-report"
+  },
+  "error": {
+    "defaultTitle": "Error",
+    "defaultMessage": "An unexpected error occurred. Please try again later.",
+    "blockedTitle": "Request blocked",
+    "blockedMessage": "Your request was blocked by a security policy. Please contact support if the problem persists.",
+    "networkMessage": "A network error occurred. Please check your connection and try again."
+  },
   "metadata": {
     "Age": "Age",
     "Country": "Country",

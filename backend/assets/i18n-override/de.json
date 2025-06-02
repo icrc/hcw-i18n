@@ -43,7 +43,7 @@
   "translation request refused subject": "Dolmetscheranfrage abgelehnt",
   "translator is ready subject": "Dolmetscheranfrage abgelehnt",
   "translator is ready": "Hallo,\n \nDer Dolmetscher hat Ihre Einladung zu Ihrem Beratungsgespräch angenommen. Bitte melden Sie sich bei %(branding)s an, um den Support zu starten.",
-  "patient is ready": "Ein Patient steht in der Warteschleife. Sie können eine geschätzte Wartezeit angeben, indem Sie den folgenden Link %(url)s verwenden",
+  "patient is ready": "Ein*e Nutzer*in wartet in der Warteschlange oder hat Ihnen im TeleConnect-Chat geschrieben. Sie können den Fall prüfen, indem Sie hier klicken: %(url)s",
   "doctor delay in minutes": "Danke für Ihre Anfrage, ich werde mich um diese Beratung in etwa %(delay)s Minuten kümmern.",
   "forgot password email subject": "Passwort vergessen",
   "forgot password email": "Sie haben ein Passwort zurücksetzen angefordert. Bitte klicken Sie auf den Link unten, um Ihr Passwort zu ändern %(url)s . Dieser Link ist nur für 5 Minuten gültig.",

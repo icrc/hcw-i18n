@@ -119,7 +119,10 @@
     "videoCall": "Videosamtal",
     "accept": "Acceptera",
     "refuse": "Avvisa",
-    "callInProgress": "Samtal pågår"
+    "callInProgress": "Samtal pågår",
+    "permissionNeeded": "Behörighet krävs",
+    "needAccess": "Vi behöver åtkomst till din mikrofon eller kamera för att fortsätta samtalet.",
+    "ok": "Okej"
   },
   "chooseAttachement": {
     "send": "SKICKA",
