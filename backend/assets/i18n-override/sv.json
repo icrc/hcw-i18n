@@ -15,7 +15,7 @@
   "patient invite": "Du har blivit inbjuden till en %(branding)s session på följande länk: %(url)s",
   "scheduled patient invite": "Hej, du har blivit inbjuden till en %(branding)s-session %(inviteTime)s. Vi rekommenderar att du testar din enhets kompatibilitet i förväg med hjälp av följande länk.\n\n%(testingUrl)s",
   "scheduled guest invite": "Hej, du har blivit inbjuden till en % (branding)s session %(inviteTime)s. Vi rekommenderar att du testar din enhets kompatibilitet i förväg med hjälp av följande länk. %(testingUrl)s",
-  "first invite reminder": "Påminnelse! Ditt %(branding)s-möte kommer att äga rum om %(timePhrase)s dem %(inviteTime)s",
+  "first invite reminder": "Påminnelse! Ditt %(branding)s-möte kommer att äga rum om %(timePhrase)s den %(inviteTime)s",
   "guest invite": "Du har blivit inbjuden till en %(branding)s session på följande länk: %(url)s",
   "second invite reminder": "Din session startar om %(timePhrase)s: %(url)s",
   "first guest invite reminder": "Påminnelse!  Ditt %(branding)s-möte kommer att äga rum om %(timePhrase)s dem %(inviteTime)s",
@@ -82,5 +82,8 @@
   "infected file": "Det går inte att skicka filen, filen innehåller förmodligen skadlig programvara. Du uppmuntras att radera den från din hårddisk.",
   "patient is ready": "En användare väntar i kön eller har skrivit till dig i TeleConnect-chatten. Du kan granska ärendet genom att klicka här: %(url)s",
   "visit": "Besök",
-  "acknowledge invite": "Bekräfta inbjudan"
+  "acknowledge invite": "Bekräfta inbjudan",
+  "join": "Starta",
+  "verification code message": "Din verifieringskod är %(code)s. Koden är giltig i %(minuter)s minuter",
+  "virus scan": "Fel under virussökning av filer"
 }
