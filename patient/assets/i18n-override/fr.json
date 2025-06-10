@@ -74,7 +74,8 @@
     "theRemoteServerIsNotReachable": "Le serveur distant n'est pas joignable, veuillez vérifier votre connectivité",
     "pleaseEnterYourInvitationKey": "Merci d'entrer votre clé d'invitation",
     "firstName": "Prénom",
-    "lastName": "Nom de famille"
+    "lastName": "Nom de famille",
+    "expertLoginTitle" : "Veuillez fournir vos informations personnelles avant de pouvoir rejoindre la téléconsultation."
   },
   "translatorForm": {
     "youAboutToJoinInviteWithPatientAndDOctor": " {{branding}} est un système d'appels à distance. Vous êtes sur le point d'accepter un rendez-vous en ligne avec un patient et le soignant.",

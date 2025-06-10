@@ -67,7 +67,7 @@
     "termsSecondText": "قبل أن تتمكن من الاستخدام {{branding}}",
     "firstName": "الاسم الأول",
     "lastName": "اسم العائلة",
-    "theInvitationIsNotOrNoLongerValide": "رابط الدعوة هذا لم يعد صالحًا أو تم استخدامه بالفعل. سيرسل لك الطالب دعوة أخرى."
+    "expertLoginTitle": "يرجى تقديم معلوماتك الشخصية قبل أن تتمكن من الانضمام إلى الاستشارة عن بُعد."
   },
   "videoRoom": {
     "caller": "TeleConnect",
