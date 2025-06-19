@@ -75,7 +75,8 @@
     "pleaseEnterYourInvitationKey": "Vänligen ange din inbjudningsnyckel",
     "firstName": "Förnamn",
     "lastName": "Efternamn",
-    "thisApplicationIsIntented": "Denna applikation är avsedd att fungera via en inbjudningslänk. Klicka på denna länk i förväg för att öppna en session."
+    "thisApplicationIsIntented": "Denna applikation är avsedd att fungera via en inbjudningslänk. Klicka på denna länk i förväg för att öppna en session.",
+    "expertLoginTitle": "Vänligen ange din personliga information innan du kan delta i telekonsultationen."
   },
   "translatorForm": {
     "youAboutToJoinInviteWithPatientAndDOctor": " {{branding}} är ett fjärrsamtal för video/ljud. Du är på väg att acceptera ett onlinemöte med en tjänstanvändare och vårdgivare.",

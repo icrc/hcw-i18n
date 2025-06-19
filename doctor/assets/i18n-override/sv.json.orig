@@ -70,15 +70,7 @@
     "inviteExpert": "Bjud in en kollega",
     "requestedBy": "Begärd av",
     "viewMore": "Se mer",
-    "viewLess": "Visa mindre",
-    "needAccess": "Vi behöver åtkomst till din mikrofon för att fortsätta samtalet. Vänligen tillåt åtkomst till mikrofonen.",
-    "retryPermission": "Försök igen med behörighet",
-    "cancelCall": "Avbryt samtal",
-    "permissionRequired": "Mikrofonbehörighet krävs",
-    "addNoteTitle": "Lägg till anteckning",
-    "addNotePlaceholder": "Skriv din anteckning...",
-    "cancelAddNote": "Avbryt",
-    "saveNote": "Spara"
+    "viewLess": "Visa mindre"
   },
   "profile": {
     "profile": "Profil",
@@ -184,7 +176,6 @@
     "chooseDate": "Välj ett datum",
     "selectTimezone": "Välj Tidszon",
     "chooseTime": "Välj en tid",
-    "linkSent": "Inbjudan skickad",
     "ar": "arabiska",
     "fr": "franska",
     "fa": "persiska",

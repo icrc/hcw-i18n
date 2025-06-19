@@ -60,7 +60,15 @@
     "IMADTeam": "IMADTeam",
     "joinVideoCall": "Rejoindre vidéo",
     "viewLess": "Voir moins",
-    "viewMore": "Voir plus"
+    "viewMore": "Voir plus",
+    "needAccess": "Nous avons besoin d'accès à votre microphone pour poursuivre l'appel. Veuillez autoriser l'accès au microphone.",
+    "retryPermission": "Réessayer l'autorisation",
+    "cancelCall": "Annuler l'appel",
+    "permissionRequired": "Autorisation du microphone requise",
+    "addNoteTitle": "Ajouter une note",
+    "addNotePlaceholder": "Tapez votre note...",
+    "cancelAddNote": "Annuler",
+    "saveNote": "Enregistrer"
   },
   "consultations": {
     "filters": "Filtres",
@@ -214,6 +222,7 @@
     "ti": "Tigrigna",
     "am": "Arménienne",
     "chooseTime": "Choisissez une heure",
+    "linkSent": "Invitation envoyée",
     "selectTimezone": "Sélectionner le fuseau horaire",
     "chooseDate": "Choisissez une date",
     "sendLinkManually": "Je veux envoyer le lien manuellement",
