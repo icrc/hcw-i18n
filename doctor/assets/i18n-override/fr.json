@@ -450,6 +450,7 @@
   "pdf": {
     "consultationReport": "Rapport de session",
     "patientInformation": "Informations sur l'usager",
+    "doctorInformation": "Informations sur l'appelant",
     "firstname": "Prénom",
     "lastname": "Nom de famille",
     "gender": "Sexe",

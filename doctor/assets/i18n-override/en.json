@@ -641,6 +641,7 @@
     "lastname": "Lastname",
     "gender": "Gender",
     "requesterInformation": "Requester information",
+    "doctorInformation": "Caller information",
     "expertInformation": "Expert information",
     "consultationInformation": "Session information",
     "startDateTime": "Start date/time",

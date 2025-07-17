@@ -487,6 +487,7 @@
   "pdf": {
     "consultationReport": "Sessionsrapport",
     "patientInformation": "Användarinformation",
+    "doctorInformation": "Uppringarens information",
     "firstname": "Förnamn",
     "lastname": "Efternamn",
     "gender": "Kön",
