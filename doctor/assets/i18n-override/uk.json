@@ -70,7 +70,15 @@
     "inviteExpert": "Запросити колегу",
     "requestedBy": "Запитано від",
     "viewMore": "Дивитися більше",
-    "viewLess": "Дивитися менше"
+    "viewLess": "Дивитися менше",
+    "needAccess": "Нам потрібен доступ до вашого мікрофону для продовження дзвінка. Будь ласка, надайте доступ до мікрофону.",
+    "retryPermission": "Повторити дозвіл",
+    "cancelCall": "Скасувати дзвінок",
+    "permissionRequired": "Потрібен дозвіл на мікрофон",
+    "addNoteTitle": "Додати нотатку",
+    "addNotePlaceholder": "Введіть вашу нотатку...",
+    "cancelAddNote": "Скасувати",
+    "saveNote": "Зберегти"
   },
   "consultations": {
     "noPatientName": "Не визначено",
@@ -214,6 +222,7 @@
     "chooseDate": "Оберіть дату",
     "selectTimezone": "Оберіть часовий пояс",
     "chooseTime": "Оберіть час",
+    "linkSent": "Запрошення надіслано",
     "ar": "Арабська",
     "fr": "Французька",
     "fa": "Перська",
@@ -624,6 +633,35 @@
     "fr": "Français",
     "uk": "Українська",
     "sv": "Svenska"
+  },
+  "pdf": {
+    "consultationReport": "Звіт про сесію",
+    "patientInformation": "Інформація про користувача",
+    "firstname": "Ім’я",
+    "lastname": "Прізвище",
+    "gender": "Стать",
+    "requesterInformation": "Інформація про ініціатора",
+    "expertInformation": "Інформація про експерта",
+    "consultationInformation": "Інформація про сесію",
+    "startDateTime": "Дата/час початку",
+    "endDateTime": "Дата/час завершення",
+    "duration": "Тривалість",
+    "chatHistory": "Історія чату",
+    "attachedFile": "[Доданий файл]",
+    "audioCall": "Аудіодзвінок",
+    "videoCall": "Відеодзвінок",
+    "accepted": "прийнято",
+    "missed": "пропущено",
+    "call": "дзвінок",
+    "finished": "завершено",
+    "fileName": "звіт-сесії"
+  },
+  "error": {
+    "defaultTitle": "Помилка",
+    "defaultMessage": "Сталася непередбачена помилка. Спробуйте пізніше.",
+    "blockedTitle": "Запит заблоковано",
+    "blockedMessage": "Ваш запит було заблоковано політикою безпеки. Зверніться до служби підтримки, якщо проблема не зникає.",
+    "networkMessage": "Сталася помилка мережі. Перевірте з'єднання і спробуйте ще раз."
   },
   "metadata": {
     "Age": "Вік",

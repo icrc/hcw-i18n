@@ -74,7 +74,8 @@
     "theRemoteServerIsNotReachable": "Le serveur distant n'est pas joignable, veuillez vérifier votre connectivité",
     "pleaseEnterYourInvitationKey": "Merci d'entrer votre clé d'invitation",
     "firstName": "Prénom",
-    "lastName": "Nom de famille"
+    "lastName": "Nom de famille",
+    "expertLoginTitle": "Veuillez fournir vos informations personnelles avant de pouvoir rejoindre la téléconsultation."
   },
   "translatorForm": {
     "youAboutToJoinInviteWithPatientAndDOctor": " {{branding}} est un système d'appels à distance. Vous êtes sur le point d'accepter un rendez-vous en ligne avec un patient et le soignant.",
@@ -118,7 +119,10 @@
     "videoCall": "Appel vidéo",
     "accept": "Accepter",
     "refuse": "Refuser",
-    "callInProgress": "Appel en cours"
+    "callInProgress": "Appel en cours",
+    "permissionNeeded": "Permission requise",
+    "needAccess": "Nous avons besoin d'accéder à votre microphone ou à votre caméra pour continuer l'appel.",
+    "ok": "OK"
   },
   "chooseAttachement": {
     "send": "ENVOYER",

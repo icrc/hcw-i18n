@@ -67,7 +67,7 @@
     "termsSecondText": "قبل أن تتمكن من الاستخدام {{branding}}",
     "firstName": "الاسم الأول",
     "lastName": "اسم العائلة",
-    "theInvitationIsNotOrNoLongerValide": "رابط الدعوة هذا لم يعد صالحًا أو تم استخدامه بالفعل. سيرسل لك الطالب دعوة أخرى."
+    "expertLoginTitle": "يرجى تقديم معلوماتك الشخصية قبل أن تتمكن من الانضمام إلى الاستشارة عن بُعد."
   },
   "videoRoom": {
     "caller": "TeleConnect",
@@ -75,7 +75,10 @@
     "accept": "قبول",
     "callInProgress": "جارٍ الاتصال",
     "videoCall": "مكالمة فيديو",
-    "audioCall": "مكالمة صوتية"
+    "audioCall": "مكالمة صوتية",
+    "permissionNeeded": "مطلوب إذن",
+    "needAccess": "نحتاج إلى الوصول إلى الميكروفون أو الكاميرا لمتابعة المكالمة.",
+    "ok": "حسنًا"
   },
   "closingScreen": {
     "theConsultationIsNowOver": "انتهت الجلسة الآن",
@@ -248,13 +251,5 @@
   "ti": "التغرينية",
   "ru": "الروسية",
   "it": "الايطالي",
-  "uk": "Українські",
-  "acknowledgeInvite": {
-    "failureMessage": "غير صالح",
-    "errorDescription": "هذا الرابط للإقرار لم يعد صالحًا أو تم استخدامه بالفعل.",
-    "testButton": "اختبار الاتصال",
-    "successMessage": "نجاح!",
-    "subTitle": "شكراً لك على قبول هذه الدعوة! يمكنك الآن اختبار توافق المتصفح الخاص بك."
-  },
-  "sv": "السويدية"
+  "uk": "Українські"
 }

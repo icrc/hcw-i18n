@@ -75,7 +75,8 @@
         "theRemoteServerIsNotReachable": "The remote server cannot be reached, please check your connectivity",
         "pleaseEnterYourInvitationKey": "Please enter your invitation key",
         "firstName": "First Name",
-        "lastName": "Last Name"
+        "lastName": "Last Name",
+        "expertLoginTitle": "Please provide your personal information before you can join the teleconsultation."
     },
     "translatorForm": {
         "youAboutToJoinInviteWithPatientAndDOctor": " {{branding}} is a teleconsultation system. You are about to accept an online appointment with a patient and caregiver.",
@@ -119,7 +120,10 @@
         "videoCall": "Video call",
         "accept": "Accept",
         "refuse": "Reject",
-        "callInProgress": "Call in progress"
+        "callInProgress": "Call in progress",
+        "permissionNeeded": "Permission Needed",
+        "needAccess": "We need access to your microphone or camera to continue the call.",
+        "ok": "OK"
     },
     "chooseAttachement": {
         "send": "SEND",
@@ -237,6 +241,28 @@
         "subTitle": "Thank you for acknowledging this invite! You can now test your browser compatibility.",
         "failureMessage": "Invalid",
         "errorDescription": "This acknowledgement link is no longer valid or has already been used."
+    },
+    "pdf": {
+        "consultationReport": "Consultation report",
+        "patientInformation": "Patient information",
+        "firstname": "Firstname",
+        "lastname": "Lastname",
+        "gender": "Gender",
+        "requesterInformation": "Requester information",
+        "expertInformation": "Expert information",
+        "consultationInformation": "Consultation information",
+        "startDateTime": "Start date/time",
+        "endDateTime": "End date/time",
+        "duration": "Duration",
+        "chatHistory": "Chat history",
+        "audioCall": "Audio call",
+        "videoCall": "Video call",
+        "accepted": "accepted",
+        "missed": "missed",
+        "call": "call",
+        "finished": "finished",
+        "attachedFile": "[Attached file]",
+        "fileName": "consultation-report"
     },
     "metadata": {
         "Age": "Age",
