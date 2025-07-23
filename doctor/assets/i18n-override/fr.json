@@ -447,35 +447,6 @@
     "uk": "Українська",
     "sv": "Svenska"
   },
-  "pdf": {
-    "consultationReport": "Rapport de session",
-    "patientInformation": "Informations sur l'usager",
-    "firstname": "Prénom",
-    "lastname": "Nom de famille",
-    "gender": "Sexe",
-    "requesterInformation": "Informations du demandeur",
-    "expertInformation": "Informations de l'expert",
-    "consultationInformation": "Informations de la session",
-    "startDateTime": "Date/heure de début",
-    "endDateTime": "Date/heure de fin",
-    "duration": "Durée",
-    "chatHistory": "Historique de la conversation",
-    "attachedFile": "[Fichier joint]",
-    "audioCall": "Appel audio",
-    "videoCall": "Appel vidéo",
-    "accepted": "accepté",
-    "missed": "manqué",
-    "call": "appel",
-    "finished": "terminé",
-    "fileName": "rapport-de-session"
-  },
-  "error": {
-    "defaultTitle": "Erreur",
-    "defaultMessage": "Une erreur inattendue s'est produite. Veuillez réessayer plus tard.",
-    "blockedTitle": "Requête bloquée",
-    "blockedMessage": "Votre requête a été bloquée par une politique de sécurité. Veuillez contacter le support si le problème persiste.",
-    "networkMessage": "Une erreur réseau s'est produite. Veuillez vérifier votre connexion et réessayer."
-  },
   "metadata": {
     "Age": "Age",
     "Country": "Pays",
