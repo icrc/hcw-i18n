@@ -55,7 +55,7 @@
   "invalid file type": "Die Datei konnte nicht gesendet werden. Zulässig sind nur die Dateitypen DOCX, PDF, JPEG und PNG.",
   "no file": "Die Datei konnte nicht gesendet werden, da keine Datei bereitgestellt wurde.",
   "max file size": "Die Datei kann nicht gesendet werden, da die Größe das konfigurierte Limit überschreitet.",
-  "notification for offline action text for doctor": "Sie erhalten diese Nachricht, weil Sie offline sind und jemand Ihnen in einer Beratung ein Update gesendet hat. Sie erhalten diese Nachricht erst wieder, wenn Sie sich das nächste Mal mit der Plattform verbinden.",
+  "notification for offline action text for doctor": "Sie erhalten diese Nachricht, weil Sie offline sind und jemand Ihnen in einer Beratung ein Update gesendet hat. Sie erhalten diese Nachricht erst wieder, wenn Sie sich das nächste Mal mit der Plattform verbinden.\n\n %(url)s",
   "notification for offline action text for nurse": "Sie erhalten diese Nachricht, weil Sie offline sind und jemand Ihnen in einer Beratung ein Update gesendet hat. Sie erhalten diese Nachricht erst wieder, wenn Sie sich das nächste Mal mit der Plattform verbinden.",
   "notification for offline action text": "Sie erhalten diese Nachricht, weil Sie offline sind und jemand in einer Konsultation ein Update gesendet hat. Sie erhalten diese Nachricht erst wieder, wenn Sie sich das nächste Mal mit der Plattform verbinden. Um sich wieder zu verbinden, können Sie den folgenden Link verwenden %(url)s",
   "notification for offline action subject": "%(branding)s Update zur Beratung im Offline-Modus",

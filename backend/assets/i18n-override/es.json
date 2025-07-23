@@ -69,7 +69,7 @@
   "consultation link": "Enlace de consulta",
   "please use this link": "Utilice este enlace para unirse a la consulta: %(expertLink)s",
   "consultation branding": "Consulta %(branding)s",
-  "notification for offline action text for doctor": "Recibes este mensaje porque estás desconectado y alguien envía una actualización en una consulta. No recibirás más este mensaje hasta tu próxima conexión a la plataforma.\n\n %(url)s ",
+  "notification for offline action text for doctor": "Recibes este mensaje porque estás desconectado y alguien envía una actualización en una consulta. No recibirás más este mensaje hasta tu próxima conexión a la plataforma.\n\n %(url)s",
   "notification for offline action subject": "%(branding)s Actualización sobre la consulta sin conexión",
   "notification for offline action text": "Recibes este mensaje porque estás desconectado y alguien envía una actualización en una consulta. No recibirás más este mensaje hasta tu próxima conexión a la plataforma. Para volver a conectarse, puede utilizar el siguiente enlace %(url)s",
   "notification for offline action text for nurse": "Recibes este mensaje porque estás desconectado y alguien envía una actualización en una consulta. No recibirás más este mensaje hasta tu próxima conexión a la plataforma.",

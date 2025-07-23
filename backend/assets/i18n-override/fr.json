@@ -65,7 +65,7 @@
   "notification for offline action subject": "%(branding)s Message reçu hors ligne",
   "notification for offline action text": "Vous recevez ce message car vous êtes hors ligne et une tierce personne a envoyé une mise à jour dans une session. Vous ne recevrez plus ce message jusqu'a ce que vous vous connectez à nouveau sur la plateforme. Pour vous connectez, vous pouvez utiliser ce lien %(url)s",
   "notification for offline action text for nurse": "Vous recevez ce message car vous êtes hors ligne et quelqu'un vous a envoyé une mise à jour lors d'une session. Vous ne recevrez plus ce message jusqu'à votre prochaine connexion à la plateforme.",
-  "notification for offline action text for doctor": "Vous recevez ce message car vous êtes hors ligne et quelqu'un vous a envoyé une mise à jour lors d'une session. Vous ne recevrez plus ce message jusqu'à votre prochaine connexion à la plateforme.",
+  "notification for offline action text for doctor": "Vous recevez ce message car vous êtes hors ligne et quelqu'un vous a envoyé une mise à jour lors d'une session. Vous ne recevrez plus ce message jusqu'à votre prochaine connexion à la plateforme.\n\n %(url)s",
   "infected file": "Impossible d'envoyer le fichier, le fichier contient probablement un malware. Nous vous encourageons à le supprimer de votre disque dur.",
   "invalid file type": "Impossible d'envoyer le fichier, seuls les types de fichiers DOCX, PDF, JPEG et PNG sont autorisés.",
   "no file": "Impossible d'envoyer le fichier, aucun fichier n'a été fourni.",

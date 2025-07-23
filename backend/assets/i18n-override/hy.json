@@ -21,7 +21,7 @@
   "first guest invite reminder": "D-1 հիշեցում: Ձեր %(branding)s հեռավար խորհրդակցությունը տեղի կունենա %(timePhrase)s՝ %(inviteTime)s:",
   "second guest invite reminder": "Ձեր խորհրդակցությունը կմեկնարկի %(timePhrase)s: %(url)s",
   "your consultation link": "Ձեր հեռավար խորհրդակցության հղումը %(branding)s",
-  "notification for offline action text for doctor": "Դուք ստանում եք այս հաղորդագրությունը, քանի որ անցանց եք, և ինչ-որ մեկը թարմացում է ուղարկել խորհրդակցությունում: Դուք այլևս այս հաղորդագրությունը չեք ստանա մինչև հարթակում հաջորդ միացումը:",
+  "notification for offline action text for doctor": "Դուք ստանում եք այս հաղորդագրությունը, քանի որ անցանց եք, և ինչ-որ մեկը թարմացում է ուղարկել խորհրդակցությունում: Դուք այլևս այս հաղորդագրությունը չեք ստանա մինչև հարթակում հաջորդ միացումը.\n\n %(url)s",
   "patient is ready": "Հիվանդը սպասման հերթում է: Դուք կարող եք տրամադրել սպասման ժամանակի գնահատական՝ օգտագործելով հետևյալ հղումը %(url)s",
   "please use this link": "Խնդրում ենք օգտագործել այս հղումը՝ խորհրդակցությանը միանալու համար: %(expertLink)s",
   "translation request email subject": "Թարգմանչի հարցում %(doctorLanguage)s և %(patientLanguage)s միջև",
