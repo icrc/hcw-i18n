@@ -42,7 +42,7 @@
     "hospital": "Nombre del hospital/instalación:",
     "joinCallDescription": "La llamada para esta consulta ya está abierta, ¿quieres unirte a la llamada ahora?",
     "joinCallSubmit": "Unirse"
-},
+  },
   "login": {
     "back": "Back",
     "theRemoteServerIsNotReachable": "No se puede acceder al servidor remoto, compruebe su conectividad",
@@ -78,8 +78,7 @@
     "videoCall": "Videollamada",
     "permissionNeeded": "Se necesita permiso",
     "needAccess": "Necesitamos acceso a su micrófono o cámara para continuar la llamada.",
-    "ok": "OK",
-    "caller": "TeleConnect"
+    "ok": "OK"
   },
   "closingScreen": {
     "theConsultationIsNowOver": "La teleconsulta ha terminado",

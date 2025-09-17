@@ -94,7 +94,9 @@
     "inviteExpert": "Inviter un collègue",
     "share": "Partager l'invitation par email ou par SMS",
     "shareBy": "Inviter via un lien",
-    "exportButton": "Exporter"
+    "exportButton": "Exporter",
+    "guestTooltip": "Invité(e)",
+    "participant": "Participant(e)"
   },
   "consultation": {
     "expert_link": "Lien de l'expert",
@@ -291,26 +293,26 @@
     "immediately": "Immédiatement",
     "pending": "En attente",
     "sending": "Envoi",
-    "queued": "En file d'attente",
-    "failed": "Echec",
-    "delivered": "Remis",
-    "undelivered": "Non remis",
-    "receiving": "Réception",
+    "communicationMethod": "Flux de communication",
     "received": "Reçu",
-    "scheduled": "Planifié",
     "read": "Lu",
-    "partiallyDelivered": "livré partiellement",
     "edit": "Editer",
     "guestTooltip": "Invité",
-    "participant": "Participant",
-    "communicationMethod": "Flux de communication",
     "sms": "SMS",
     "whatsapp": "WhatsApp",
     "email": "Email",
     "manual": "Manuel",
-    "acknowledged": "Confirmé",
+    "delivered": "Remis",
+    "undelivered": "Non remis",
+    "receiving": "Réception",
+    "scheduled": "Planifié",
     "scheduledForInvite": "Invitation planifiée",
-    "expertTooltip": "Expert"
+    "expertTooltip": "Expert",
+    "participant": "Participant",
+    "queued": "En file d'attente",
+    "failed": "Echec",
+    "acknowledged": "Confirmé",
+    "partiallyDelivered": "livré partiellement"
   },
   "sideChat": {
     "startTheConsultation": "Démarrer la consultation"
@@ -482,5 +484,42 @@
     "startTourDismissBtnTitle": "Passer la visite",
     "startTourSubmitBtnTitle": "Suivant",
     "endTourTitle": "Page de profil"
+  },
+  "error": {
+    "defaultMessage": "Une erreur inattendue s'est produite. Veuillez réessayer ultérieurement.",
+    "blockedMessage": "Votre demande a été bloquée par une politique de sécurité. Veuillez contacter le support si le problème persiste.",
+    "defaultTitle": "Erreur",
+    "networkMessage": "Une erreur réseau s'est produite. Veuillez vérifier votre connexion et réessayer.",
+    "blockedTitle": "Demande bloquée"
+  },
+  "pdf": {
+    "consultationReport": "Rapport de consultation",
+    "patientInformation": "Informations sur le patient",
+    "firstname": "Prénom",
+    "startDateTime": "Date/heure de début",
+    "missed": "manqué(e)",
+    "call": "appel",
+    "finished": "fini(e)",
+    "lastname": "Nom de famille",
+    "requesterInformation": "Informations sur le demandeur",
+    "expertInformation": "Informations d'experts",
+    "gender": "Genre",
+    "consultationInformation": "Informations sur la consultation",
+    "duration": "Durée",
+    "endDateTime": "Date/heure de fin",
+    "chatHistory": "Historique des discussions",
+    "attachedFile": "[Fichier joint]",
+    "audioCall": "Appel audio",
+    "videoCall": "Appel vidéo",
+    "accepted": "accepté",
+    "doctorInformation": "Informations sur le médecin"
+  },
+  "roles": {
+    "admin": "Admin",
+    "doctor": "Médecin",
+    "patient": "Patient(e)",
+    "nurse": "Demandeur",
+    "requester": "Demandeur",
+    "scheduler": "Planificateur/-trice"
   }
 }

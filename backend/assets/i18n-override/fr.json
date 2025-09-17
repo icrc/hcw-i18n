@@ -83,5 +83,6 @@
   "uk": "Ukrainien",
   "acknowledge invite": "Accepter l'invitation",
   "virus scan": "Erreur lors de l'analyse antivirus du fichier",
-  "join": "Rejoindre"
+  "join": "Rejoindre",
+  "verification code message": "Votre code de vérification est %(code)s. Ce code est valable %(minutes)s minutes"
 }

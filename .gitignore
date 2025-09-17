@@ -1,3 +1,4 @@
 /.idea/
 /secrets.env
 /admin/assets/i18n-override/en.json
+/doctor/assets/i18n-override/es.json.orig
