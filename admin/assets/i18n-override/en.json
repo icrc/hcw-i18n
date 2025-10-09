@@ -202,7 +202,7 @@
     "action": "Action",
     "queueName": "Queue name",
     "disableFeedback": "Disable patient feedback",
-    "disableProvidingTimeEstimate": "Disable providing time estimation",
+    "disableProvidingTimeEstimate": "Disable incoming consultation notification",
     "shareWhenOpened": "Share even when opened"
   }
 }
