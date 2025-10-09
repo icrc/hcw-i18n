@@ -215,7 +215,7 @@
     "required": "Обов'язково",
     "invalidEmailAddress": "Недійсна електронна адреса",
     "notPermitted": "Цей номер телефону не дозволено використовувати на цій платформі.",
-    "inviteLovedOneOrProfessional": "Запросити близьку людину або іншого опікуна",
+    "inviteLovedOneOrProfessional": "Запросіть близьку людину, доглядальника або перекладача",
     "emailOrSMS": "Електронна пошта або SMS",
     "inviteTranslator": "Запросити перекладача",
     "translationOrganization": "Перекладацька організація",
