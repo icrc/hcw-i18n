@@ -17,7 +17,6 @@
     "home": "ACCUEIL"
   },
   "app": {
-    "reconnected": "Vous êtes reconnecté",
     "dashboard": "Tableau de bord",
     "waitingRoom": "Salle d'attente",
     "openedConsultation": "Sessions ouvertes",
@@ -25,8 +24,9 @@
     "invites": "Invitations",
     "testVideoSound": "Test son/vidéo",
     "support": "Support",
+    "refresh": "Rafraîchir",
+    "reconnected": "Vous êtes reconnecté",
     "connectionFailed": "La connexion avec le serveur ne fonctionne pas correctement, vous ne pouvez plus recevoir les demandes de consultation. Si le problème persiste, raffraichissez la page de votre navigateur.",
-    "refresh": "Rafraîchir"
   },
   "chat": {
     "inviteExpert": "Inviter un collègue",
@@ -68,7 +68,14 @@
     "addNoteTitle": "Ajouter une note",
     "addNotePlaceholder": "Tapez votre note...",
     "cancelAddNote": "Annuler",
-    "saveNote": "Enregistrer"
+    "saveNote": "Enregistrer",
+    "takeOwnership": "Prendre la propriété",
+    "transferOwnershipTitle": "Transférer la propriété",
+    "transferOwnershipQuestion": "Êtes-vous sûr de vouloir prendre la propriété de cette session ?",
+    "transferOwnershipConfirm": "Oui, prendre la propriété",
+    "transferOwnershipCancel": "Annuler",
+    "transferOwnershipSuccess": "Propriété transférée avec succès",
+    "transferOwnershipError": "Échec du transfert de propriété"
   },
   "consultations": {
     "filters": "Filtres",
@@ -96,12 +103,15 @@
     "shareBy": "Inviter via un lien",
     "exportButton": "Exporter",
     "guestTooltip": "Invité(e)",
-    "participant": "Participant(e)"
+    "participant": "Participant(e)",
+    "handledBy": "Pris en charge par",
+    "closedBy": "Fermé par"
   },
   "consultation": {
     "expert_link": "Lien de l'expert",
     "start": "COMMENCER",
     "aCall": "UN APPEL",
+    "anotherDoctorInCall": "Un autre expert est actuellement en appel",
     "joinVideoCall": "Rejoindre vidéo",
     "videoCall": "Appel vidéo",
     "audioCall": "Appel audio",
@@ -244,8 +254,8 @@
     "consultationSummary": "RÉSUMÉ DE LA CONSULATION",
     "nurse": "Infirmier",
     "none": "Aucun",
-    "patientFirstnameAndLastname": "Nom du patient",
-    "patientBirthday": "Date de naissance du patient",
+    "patientFirstnameAndLastname": "Nom de l'utilisateur de service",
+    "patientBirthday": "Date de naissance de l'utilisateur de service",
     "notdefined": "Non définie",
     "sex": "Sexe",
     "email": "Email",
@@ -493,26 +503,29 @@
     "blockedTitle": "Demande bloquée"
   },
   "pdf": {
-    "consultationReport": "Rapport de consultation",
-    "patientInformation": "Informations sur le patient",
+    "consultationReport": "Rapport de session",
+    "patientInformation": "Informations sur l'utilsateur de service",
     "firstname": "Prénom",
-    "startDateTime": "Date/heure de début",
-    "missed": "manqué(e)",
-    "call": "appel",
-    "finished": "fini(e)",
     "lastname": "Nom de famille",
-    "requesterInformation": "Informations sur le demandeur",
-    "expertInformation": "Informations d'experts",
     "gender": "Genre",
-    "consultationInformation": "Informations sur la consultation",
-    "duration": "Durée",
+    "requesterInformation": "Informations sur le demandeur",
+    "doctorInformation": "Informations sur l'expert",
+    "expertInformation": "Informations d'experts",
+    "consultationInformation": "Informations sur la session",
+    "startDateTime": "Date/heure de début",
     "endDateTime": "Date/heure de fin",
+    "duration": "Durée",
+    "queue": "Queue",
+    "closedBy": "Fermé par",
     "chatHistory": "Historique des discussions",
     "attachedFile": "[Fichier joint]",
     "audioCall": "Appel audio",
     "videoCall": "Appel vidéo",
     "accepted": "accepté",
-    "doctorInformation": "Informations sur le médecin"
+    "missed": "manqué(e)",
+    "call": "appel",
+    "finished": "fini(e)",
+    "fileName": "session-report"
   },
   "roles": {
     "admin": "Admin",

@@ -32,6 +32,7 @@
     "filtersApplied": "Застосовані фільтри:",
     "filters": "Фільтри",
     "sent_by": "Запрошення надіслано від",
+    "handled_by": "Оброблено",
     "queue": "Черга",
     "myself": "Я сам",
     "somebodyElse": "Хтось інший",
@@ -78,7 +79,14 @@
     "addNoteTitle": "Додати нотатку",
     "addNotePlaceholder": "Введіть вашу нотатку...",
     "cancelAddNote": "Скасувати",
-    "saveNote": "Зберегти"
+    "saveNote": "Зберегти",
+    "takeOwnership": "Отримати право власності",
+    "transferOwnershipTitle": "Передача права власності",
+    "transferOwnershipQuestion": "Ви впевнені, що хочете отримати право власності на цю сесію?",
+    "transferOwnershipConfirm": "Так, отримати право власності",
+    "transferOwnershipCancel": "Скасувати",
+    "transferOwnershipSuccess": "Право власності успішно передано",
+    "transferOwnershipError": "Не вдалося передати право власності"
   },
   "consultations": {
     "noPatientName": "Не визначено",
@@ -106,11 +114,14 @@
     "filters": "Фільтри",
     "exportButton": "Експорт",
     "participant": "Учасник",
-    "guestTooltip": "Гість"
+    "guestTooltip": "Гість",
+    "handledBy": "Оброблено",
+    "closedBy": "Закрито"
   },
   "consultation": {
     "start": "ПОЧАТОК",
     "aCall": "ДЗВІНОК",
+    "anotherDoctorInCall": "Інший експерт зараз на дзвінку",
     "joinVideoCall": "Приєднатися до відео",
     "videoCall": "Відеодзвінок",
     "audioCall": "Аудіодзвінок",
@@ -412,6 +423,7 @@
   "overlay": {
     "close": "Закрити",
     "resume": "Продовжити",
+    "takeOwnership": "Отримати право власності",
     "terminate": "ЗАВЕРШИТИ",
     "theConsultation": "КОНСУЛЬТАЦІЮ",
     "theConsultationWillBeDisplayedIntoHistoryDuring24Hours": "Консультація буде відображатися в історії протягом 24 годин, і ви більше не зможете спілкуватися.",
@@ -501,6 +513,7 @@
     "timeInMinutes": "Через (хвилини)",
     "maxDelay": "Затримка не може перевищувати 60 хвилин",
     "send": "Надіслати",
+    "goToConsultation": "Пропустити та перейти до сесії",,
     "alreadyStarted": "Вже розпочато",
     "invalidUrl": "Недійсне посилання",
     "tokenExpired": "Термін дії токена минув"
@@ -588,7 +601,8 @@
   "confirmationDialog": {
     "yesText": "Підтвердити",
     "noText": "Скасувати",
-    "confirmationTitle": "Підтвердження!"
+    "confirmationTitle": "Підтвердження!",
+    "acceptAndStartConsultation": "Прийняти та почати сесію?"
   },
   "sendInviteLink": {
     "title": "Запросити за посиланням",
@@ -633,6 +647,46 @@
     "fr": "Français",
     "uk": "Українська",
     "sv": "Svenska"
+  },
+  "pdf": {
+    "consultationReport": "Звіт сесії",
+    "patientInformation": "Інформація про пацієнта",
+    "firstname": "Ім'я",
+    "lastname": "Прізвище",
+    "gender": "Стать",
+    "requesterInformation": "Інформація про запитувача",
+    "doctorInformation": "Інформація про лікаря",
+    "expertInformation": "Інформація про експерта",
+    "consultationInformation": "Інформація про сесію",
+    "startDateTime": "Дата/час початку",
+    "endDateTime": "Дата/час завершення",
+    "duration": "Тривалість",
+    "queue": "Черга",
+    "closedBy": "Закрито",
+    "chatHistory": "Історія чату",
+    "attachedFile": "[Прикріплений файл]",
+    "audioCall": "Аудіодзвінок",
+    "videoCall": "Відеодзвінок",
+    "accepted": "прийнято",
+    "missed": "пропущено",
+    "call": "дзвінок",
+    "finished": "завершено",
+    "fileName": "звіт_сесії"
+  },
+  "error": {
+    "defaultTitle": "Помилка",
+    "defaultMessage": "Сталася непередбачена помилка. Будь ласка, спробуйте пізніше.",
+    "blockedTitle": "Запит заблоковано",
+    "blockedMessage": "Ваш запит був заблокований політикою безпеки. Будь ласка, зверніться до підтримки, якщо проблема зберігається.",
+    "networkMessage": "Сталася помилка мережі. Перевірте підключення та спробуйте ще раз."
+  },
+  "roles": {
+    "admin": "Адмін",
+    "doctor": "Лікар",
+    "patient": "Пацієнт",
+    "nurse": "Медсестра",
+    "requester": "Запитувач",
+    "scheduler": "Планувальник"
   },
   "metadata": {
     "Age": "Вік",

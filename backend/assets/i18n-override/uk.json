@@ -84,5 +84,7 @@
   "acknowledge invite": "Прийміть запрошення",
   "join": "Приєднуйтесь",
   "verification code message": "Ваш код підтвердження: %(code)s. Цей код дійсний протягом %(minutes)s хвилин",
-  "virus scan": "Помилка під час сканування файлу на віруси"
+  "virus scan": "Помилка під час сканування файлу на віруси",
+  "ownership transfer message": "Право власності передано від %(previousOwner)s до %(newOwner)s",
+  "ownership unassigned": "не призначено"
 }
