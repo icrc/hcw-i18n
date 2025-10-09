@@ -26,7 +26,7 @@
     "support": "Support",
     "refresh": "Rafraîchir",
     "reconnected": "Vous êtes reconnecté",
-    "connectionFailed": "La connexion avec le serveur ne fonctionne pas correctement, vous ne pouvez plus recevoir les demandes de consultation. Si le problème persiste, raffraichissez la page de votre navigateur.",
+    "connectionFailed": "La connexion avec le serveur ne fonctionne pas correctement, vous ne pouvez plus recevoir les demandes de consultation. Si le problème persiste, raffraichissez la page de votre navigateur."
   },
   "chat": {
     "inviteExpert": "Inviter un collègue",
