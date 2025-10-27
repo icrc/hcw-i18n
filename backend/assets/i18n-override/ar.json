@@ -21,6 +21,7 @@
   "sa": "عرب",
   "your consultation link": "رابط جلستك %(branding)s",
   "doctor rescheduled call": "أعاد الخبير جدولة المكالمة في %(scheduledTime)s %(timezone)s",
+  "notification for offline action text for doctor": "تتلقى هذه الرسالة لأنك غير متصل بالإنترنت وقد أرسل شخص ما تحديثًا في إحدى الجلسات. لن تتلقى هذه الرسالة مرة أخرى حتى اتصالك التالي بالمنصة.\n\n %(url)s",
   "patient invite": "لقد تمت دعوتك إلى جلسة %(branding)s على الرابط التالي: %(url)s",
   "scheduled patient invite": "مرحبًا، لقد تمت دعوتك لحضور جلسة %(branding)s في الساعة %(inviteTime)s. شكرًا لتأكيد هذا التاريخ باستخدام الرابط التالي.\n\n%(testingUrl)s",
   "fr": "الفرنسية",
