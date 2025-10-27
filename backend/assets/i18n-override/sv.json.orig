@@ -85,5 +85,7 @@
   "acknowledge invite": "Bekräfta inbjudan",
   "join": "Starta",
   "verification code message": "Din verifieringskod är %(code)s. Koden är giltig i %(minuter)s minuter",
-  "virus scan": "Fel under virussökning av filer"
+  "virus scan": "Fel under virussökning av filer",
+  "ownership transfer message": "Ägarskap överfört från %(previousOwner)s till %(newOwner)s",
+  "ownership unassigned": "inte tilldelad"
 }

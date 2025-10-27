@@ -132,7 +132,21 @@
     "cameraSelection": "Camera selection",
     "close": "Close",
     "callError": "Unable to initiate call, server returned",
-    "expert_link": "Expert Link"
+    "selfCallNotAllowed": "Cannot make a call: You are assigned as both expert and requester in this consultation. Please assign a different user to one of the roles.",
+    "expert_link": "Expert Link",
+    "cameraNotAccessible": "Your camera is not accessible. Do you want to continue without video call without your camera?",
+    "continueWithoutCamera": "Continue without camera",
+    "reschedule": "Reschedule call",
+    "rescheduleTitle": "Reschedule Session",
+    "rescheduleConfirm": "Confirm Reschedule",
+    "rescheduleSuccess": "Session rescheduled successfully. Service user will be notified.",
+    "rescheduleError": "Failed to reschedule session. Please try again.",
+    "scheduledFor": "Scheduled For",
+    "scheduledDate": "Date",
+    "scheduledTime": "Time",
+    "timezone": "Timezone",
+    "notFoundOrClosed": "This session was not found or has been closed.",
+    "notFoundOrClosedMessage": "The session you are looking for may have been closed, deleted, or you may not have permission to access it."
   },
   "dashboard": {
     "dashboard": "Dashboard",
@@ -687,6 +701,20 @@
     "nurse": "Requester",
     "requester": "Requester",
     "scheduler": "Scheduler"
+  },
+  "notFound": {
+    "title": "Page Not Found",
+    "message": "The page you are looking for does not exist or has been moved.",
+    "backToHome": "Back to Home"
+  },
+  "forbidden": {
+    "title": "Access Forbidden",
+    "message": "You don't have permission to access this resource.",
+    "backToHome": "Back to Home"
+  },
+  "common": {
+    "cancel": "Cancel",
+    "required": "Field required"
   },
   "metadata": {
     "Age": "Age",
