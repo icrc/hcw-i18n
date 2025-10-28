@@ -1,4 +1,6 @@
 #!/bin/bash
+
+set -e
 # This script will start docker services and copy initial i18n files for HCW Docker images.
 
 # copy file from docker service to the related i18n folder
@@ -22,3 +24,6 @@ move_files "patient" "/usr/share/nginx/html/assets/i18n/"
 move_files "backend" "/usr/src/app/config/locales/"
 # not done as admin is not yet translated.
 move_files "admin" "/usr/share/nginx/html/assets/translate/"
+
+
+#check-and-replace-i18n-resources.sh

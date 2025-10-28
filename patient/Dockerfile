@@ -5,9 +5,9 @@ ENV HCW_PATIENT_VERSION=${HCW_PATIENT_VERSION}
 
 FROM init-layer AS i18n-layer
 USER root
-RUN apt update && apt install -y jq && rm -rf /var/lib/apt/lists/* && rm /usr/share/nginx/html/assets/i18n/combine.sh
+RUN rm /usr/share/nginx/html/assets/i18n/combine.sh
 COPY assets /usr/share/nginx/html/assets/i18n
-RUN cp -n /usr/share/nginx/html/assets/i18n/i18n-override/*.json /usr/share/nginx/html/assets/i18n/ && /usr/share/nginx/html/assets/i18n/combine.sh
+RUN cp -n /usr/share/nginx/html/assets/i18n/i18n-override/*.json /usr/share/nginx/html/assets/i18n/ && /usr/share/nginx/html/assets/i18n/replace-i18n.sh
 
 
 FROM init-layer
