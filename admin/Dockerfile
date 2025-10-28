@@ -6,6 +6,7 @@ ENV HCW_ADMIN_VERSION=${HCW_ADMIN_VERSION}
 
 FROM init-layer AS i18n-layer
 USER root
+RUN apt update && apt install -y jq && rm -rf /var/lib/apt/lists/*
 COPY assets /usr/share/nginx/html/assets/translate
 RUN /usr/share/nginx/html/assets/translate/replace-i18n.sh
 

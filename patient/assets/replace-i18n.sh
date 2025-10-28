@@ -1,7 +1,6 @@
 #!/bin/bash
 
-## This script combine the language files
-# simply create a file <lang>.override.json and the overridden language
+set -e
 
 
 cd "$(dirname "$0")" || exit
@@ -18,9 +17,12 @@ for file in ??.json ; do
   if [ "${basename}" != "template" ] ; then
     echo "Checking ${filename}"
     if [ -f "i18n-override/${basename}.json" ]; then
+      echo "Validate file ${basename}.json"
+      cat "i18n-override/${basename}.json" | jq -e
       echo "Copy original file in ${basename}.json.orig"
-      mv "${basename}".json "${basename}".json.orig
-      cp "i18n-override/${basename}.json" ${basename}.json
+      echo "Copy and sort original file in ${basename}.json.orig"
+      cat "${basename}".json | jq --sort-keys > "${basename}".json.orig
+      cat "i18n-override/${basename}.json" | jq --sort-keys > ${basename}.json
     fi
   fi
 done

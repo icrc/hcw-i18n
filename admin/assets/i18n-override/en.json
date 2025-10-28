@@ -1,9 +1,21 @@
 {
+  "queues": {
+    "action": "Action",
+    "disableFeedback": "Disable patient feedback",
+    "disableProvidingTimeEstimate": "Disable incoming consultation notification",
+    "filter": "Filter",
+    "filterPlaceholder": "Search by name",
+    "newQueueName": "New waiting queue name",
+    "newQueuePlaceholder": "Queue name",
+    "queueName": "Queue name",
+    "shareWhenOpened": "Share even when opened",
+    "title": "Waiting queues"
+  },
   "roles": {
-    "doctor": "Expert",
-    "requester": "Request Expert",
-    "nurse": "Request Expert",
     "admin": "Admin",
+    "doctor": "Expert",
+    "nurse": "Request Expert",
+    "requester": "Request Expert",
     "scheduler": "Scheduler"
   },
   "whatsappTemplates": {
@@ -192,17 +204,5 @@
     "za": "Zhuang",
     "zh": "Chinese",
     "zu": "Zulu"
-  },
-  "queues": {
-    "title": "Waiting queues",
-    "newQueueName": "New waiting queue name",
-    "newQueuePlaceholder": "Queue name",
-    "filter": "Filter",
-    "filterPlaceholder": "Search by name",
-    "action": "Action",
-    "queueName": "Queue name",
-    "disableFeedback": "Disable patient feedback",
-    "disableProvidingTimeEstimate": "Disable incoming consultation notification",
-    "shareWhenOpened": "Share even when opened"
   }
 }
