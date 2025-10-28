@@ -21,7 +21,6 @@
   "first guest invite reminder": "Нагадування за 1 день: ваша телемедична консультація %(branding)s відбудеться через %(timePhrase)s о %(inviteTime)s",
   "second guest invite reminder": "Ваша консультація розпочнеться через %(timePhrase)s: %(url)s",
   "your consultation link": "Ваше посилання для телемедичної консультації %(branding)s",
-  "doctor rescheduled call": "Експерт переніс дзвінок на %(scheduledTime)s %(timezone)s",
   "translation request email subject": "Запит перекладача між %(doctorLanguage)s та %(patientLanguage)s",
   "translation request email": "Шановний перекладачу, \n\nМи отримали запит від медпрацівника на перекладача на платформі %(branding)s: \nМова медпрацівника: %(doctorLanguage)s \nМова пацієнта: %(patientLanguage)s \nДата: якомога швидше \nДля підтвердження вашої доступності або недоступності, будь ласка, натисніть на посилання нижче %(url)s \n\nЯкщо через 48 годин ніхто не підтвердить доступність, ми припустимо, що ніхто недоступний. \n\n\nДякуємо",
   "scheduled translation request email": "Шановний перекладачу, \n\nМи отримали запит від медпрацівника на перекладача на платформі %(branding)s: \nМова медпрацівника: %(doctorLanguage)s \nМова пацієнта: %(patientLanguage)s \nДата: %(inviteTime)s \n\nДля підтвердження вашої доступності або недоступності, будь ласка, натисніть на посилання нижче \n%(url)s \n\nЯкщо через 48 годин ніхто не підтвердить доступність, ми припустимо, що ніхто недоступний. \n\nДякуємо",
@@ -86,6 +85,7 @@
   "join": "Приєднуйтесь",
   "verification code message": "Ваш код підтвердження: %(code)s. Цей код дійсний протягом %(minutes)s хвилин",
   "virus scan": "Помилка під час сканування файлу на віруси",
+  "doctor rescheduled call": "Експерт переніс дзвінок на %(scheduledTime)s %(timezone)s",
   "ownership transfer message": "Право власності передано від %(previousOwner)s до %(newOwner)s",
   "ownership unassigned": "не призначено"
 }

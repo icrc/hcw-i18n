@@ -20,7 +20,7 @@ for file in ??.json ; do
     if [ -f "i18n-override/${basename}.json" ]; then
       echo "Copy original file in ${basename}.json.orig"
       mv "${basename}".json "${basename}".json.orig
-      jq --argfile f2 "${basename}.json.orig" '. as $f1 | $f2 | with_entries(if $f1[.key] != null then . + {value: $f1[.key]} else . end)' "i18n-override/${basename}.json" > "${basename}.json"; ret=$?
+      jq -s 'reduce .[] as $item ({}; . * $item)' "${basename}.json.orig" "i18n-override/${basename}.json" > "${basename}.json"; ret=$?
       if [ ${ret} = 0 ] ; then
         echo "Lang ${lang} combined successfully"
       else
