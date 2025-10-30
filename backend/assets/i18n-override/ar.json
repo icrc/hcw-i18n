@@ -64,7 +64,7 @@
   "pt": "البرتغالية",
   "ru": "الروسية",
   "sa": "عرب",
-  "scheduled guest invite": "مرحبًا، لقد تمت دعوتك إلى جلسة % (branding)s في %(inviteTime)s. نوصيك باختبار توافق جهازك مسبقًا باستخدام الرابط التالي. %(testingUrl)s",
+  "scheduled guest invite": "مرحبًا، لقد تمت دعوتك إلى جلسة %(branding)s في %(inviteTime)s. نوصيك باختبار توافق جهازك مسبقًا باستخدام الرابط التالي. %(testingUrl)s",
   "scheduled patient invite": "مرحبًا، لقد تمت دعوتك لحضور جلسة %(branding)s في الساعة %(inviteTime)s. شكرًا لتأكيد هذا التاريخ باستخدام الرابط التالي.\n\n%(testingUrl)s",
   "scheduled translation request email": "عزيزي المترجم،\n\nلقد تلقينا طلبًا من مقدم رعاية لتوفير مترجم على منصة %(branding)s:\n\nلغة مقدم الرعاية: %(doctorLanguage)s\n\nلغة المريض: %(patientLanguage)s\n\nالتاريخ: %(inviteTime)s\n\nللتأكد من توفرك أو عدم توفرك، يرجى النقر على الرابط أدناه\n%(url)s\n\nإذا لم يؤكد أحد توفرك بعد 48 ساعة، فسنفترض أنه لا يوجد أحد متاح.\n\nشكرًا لك",
   "second guest invite reminder": "ستبدأ جلستك في %(timePhrase)s: %(url)s",
