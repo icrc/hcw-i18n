@@ -251,11 +251,13 @@
   },
   "roles": {
     "admin": "Admin",
-    "doctor": "Caller",
+    "doctor": "Scheduler/expert",
     "nurse": "Requester",
     "patient": "Patient",
-    "requester": "Requester",
-    "scheduler": "Scheduler"
+    "requester": "Requestor",
+    "scheduler": "Scheduler",
+    "expert": "Colleague",
+    "guest": "Guest"
   },
   "ru": "Русский",
   "sv": "Swedish",

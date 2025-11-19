@@ -652,11 +652,13 @@
   },
   "roles": {
     "admin": "Admin",
-    "doctor": "Caller",
+    "doctor": "Scheduler/expert",
     "nurse": "Requester",
     "patient": "Service User",
-    "requester": "Requester",
-    "scheduler": "Scheduler"
+    "requester": "Requestor",
+    "scheduler": "Scheduler",
+    "expert": "Colleague",
+    "guest": "Guest"
   },
   "selectLanguage": {
     "en": "English",
