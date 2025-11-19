@@ -230,7 +230,7 @@
   },
   "roles": {
     "admin": "Admin",
-    "doctor": "Médecin",
+    "doctor": "Planificateur / expert",
     "nurse": "Demandeur",
     "patient": "Patient(e)",
     "requester": "Demandeur",

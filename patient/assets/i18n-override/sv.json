@@ -92,6 +92,14 @@
     "youAreNowInConsultation": "Du är nu i session med",
     "yourBrowserDoesNotSupport": "Din webbläsare stöder inte ljudelementet."
   },
+  "roles": {
+    "admin": "Admin",
+    "doctor": "Schemaläggare / expert",
+    "nurse": "Begärande",
+    "patient": "Användare",
+    "requester": "Begärande",
+    "scheduler": "Schemaläggare"
+  },
   "country_select": {
     "search": "Sök",
     "select_country": "Välj Land"

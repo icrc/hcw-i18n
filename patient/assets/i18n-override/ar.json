@@ -46,6 +46,16 @@
     "reconnected": "لقد تم إعادة الاتصال بك",
     "refresh": "ينعش"
   },
+  "roles": {
+    "admin": "مسؤول",
+    "doctor": "مجدول / خبير",
+    "nurse": "مقدّم الطلب",
+    "patient": "مستخدم الخدمة",
+    "requester": "طالب الخدمة",
+    "scheduler": "مجدول",
+    "expert": "زميل",
+    "guest": "ضيف"
+  },
   "consultation": {
     "area": "المنطقة:",
     "audioCallEnded": "انتهاء المكالمة الصوتية",

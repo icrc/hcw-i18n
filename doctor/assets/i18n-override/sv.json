@@ -463,7 +463,7 @@
   },
   "roles": {
     "admin": "Admin",
-    "doctor": "Ringare",
+    "doctor": "Schemaläggare / expert",
     "nurse": "Begärande",
     "patient": "Användare",
     "requester": "Begärande",
