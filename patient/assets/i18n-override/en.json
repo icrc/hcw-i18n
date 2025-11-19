@@ -7,7 +7,12 @@
     "testButton": "Test Call"
   },
   "appComponent": {
-    "serverError": "Something went wrong"
+    "copyUrlManually": "Please copy this URL and open it in your browser",
+    "openInBrowser": "Open in Browser",
+    "serverError": "Something went wrong",
+    "urlCopied": "URL copied to clipboard! Please paste it in your browser.",
+    "whatsappBrowserDescription": "You're viewing this in WhatsApp. Some features may not work properly. Please open in your browser for the best experience.",
+    "whatsappBrowserWarning": "Please open in browser"
   },
   "ar": "عربي",
   "authenticate": {
@@ -221,6 +226,7 @@
   },
   "request_consultation": {
     "age": "Age",
+    "consultation_creation_failed": "Failed to create the session. Please try again.",
     "consultation_request_form": "Session request form",
     "country": "Country",
     "enter_age": "Enter Age",
@@ -228,6 +234,8 @@
     "enter_patient_lastname": "Enter Service user Lastname",
     "enter_text": "Enter text",
     "expert_area_required": "Expert area is required",
+    "file_upload_failed_multiple": "Failed to upload files:",
+    "file_upload_failed_single": "Failed to upload file:",
     "gender_required": "Gender is required",
     "message_optional": "Message (Optional)",
     "patient_firstname": "Service user Firstname",
