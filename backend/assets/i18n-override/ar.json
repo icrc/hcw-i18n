@@ -4,6 +4,7 @@
   "acknowledge invite": "تأكيد الدعوة",
   "bd": "بنغلاديش",
   "browser cache": "ذاكرة التخزين المؤقت للمتصفح غير محدثة، يجب عليك تحديثها باستخدام CTRL+F5!",
+  "cannot initiate call patient not joined": "لا يمكن بدء المكالمة. لم ينضم متلقي الجلسة بعد.",
   "cn": "صينى",
   "consultation branding": "استشارة %(branding)s",
   "consultation link": "رابط الاستشارة",

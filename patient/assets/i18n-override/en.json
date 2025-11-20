@@ -252,12 +252,12 @@
   "roles": {
     "admin": "Admin",
     "doctor": "Scheduler/expert",
+    "expert": "Colleague",
+    "guest": "Guest",
     "nurse": "Requester",
     "patient": "Patient",
     "requester": "Requestor",
-    "scheduler": "Scheduler",
-    "expert": "Colleague",
-    "guest": "Guest"
+    "scheduler": "Scheduler"
   },
   "ru": "Русский",
   "sv": "Swedish",

@@ -46,16 +46,6 @@
     "reconnected": "لقد تم إعادة الاتصال بك",
     "refresh": "ينعش"
   },
-  "roles": {
-    "admin": "مسؤول",
-    "doctor": "مجدول / خبير",
-    "nurse": "مقدّم الطلب",
-    "patient": "مستخدم الخدمة",
-    "requester": "طالب الخدمة",
-    "scheduler": "مجدول",
-    "expert": "زميل",
-    "guest": "ضيف"
-  },
   "consultation": {
     "area": "المنطقة:",
     "audioCallEnded": "انتهاء المكالمة الصوتية",
@@ -219,6 +209,16 @@
     "select_expert_area": "حدد مجال الخبرة",
     "select_gender": "حدد الجنس",
     "upload_document": "تحميل المستند"
+  },
+  "roles": {
+    "admin": "مسؤول",
+    "doctor": "مجدول / خبير",
+    "expert": "زميل",
+    "guest": "ضيف",
+    "nurse": "مقدّم الطلب",
+    "patient": "مستخدم الخدمة",
+    "requester": "طالب الخدمة",
+    "scheduler": "مجدول"
   },
   "ru": "الروسية",
   "ta": "التاميل",

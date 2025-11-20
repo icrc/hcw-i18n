@@ -4,6 +4,7 @@
   "acknowledge invite": "Bekräfta inbjudan",
   "bd": "Bangladesh",
   "browser cache": "Din webbläsares cache är inte uppdaterad, du måste uppdatera den med CTRL+F5!",
+  cannot initiate call patient not joined:"Kan inte starta samtalet. Mottagaren har ännu inte anslutit till sessionen.",
   "cn": "kinesiska",
   "consultation branding": "%(branding)s",
   "consultation link": "Sessionslänk",

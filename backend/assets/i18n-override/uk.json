@@ -4,6 +4,7 @@
   "acknowledge invite": "Прийміть запрошення",
   "bd": "Бангладеш",
   "browser cache": "Кеш вашого браузера не оновлено, необхідно оновити його за допомогою CTRL+F5!",
+  "cannot initiate call patient not joined": "Неможливо розпочати дзвінок. Адресат сеансу ще не приєднався",
   "cn": "Китайська",
   "consultation branding": "Консультація %(branding)s",
   "consultation link": "Посилання на консультацію",

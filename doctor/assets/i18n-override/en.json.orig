@@ -653,6 +653,8 @@
   "roles": {
     "admin": "Admin",
     "doctor": "Doctor",
+    "expert": "Expert",
+    "guest": "Guest",
     "nurse": "Requester",
     "patient": "Patient",
     "requester": "Requester",

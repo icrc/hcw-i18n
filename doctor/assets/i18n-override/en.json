@@ -653,12 +653,12 @@
   "roles": {
     "admin": "Admin",
     "doctor": "Scheduler/expert",
+    "expert": "Colleague",
+    "guest": "Guest",
     "nurse": "Requester",
     "patient": "Service User",
     "requester": "Requestor",
-    "scheduler": "Scheduler",
-    "expert": "Colleague",
-    "guest": "Guest"
+    "scheduler": "Scheduler"
   },
   "selectLanguage": {
     "en": "English",

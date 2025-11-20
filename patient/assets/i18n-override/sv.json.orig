@@ -215,6 +215,14 @@
     "select_gender": "Ange kön",
     "upload_document": "Ladda upp dokument"
   },
+  "roles": {
+    "admin": "Admin",
+    "doctor": "Schemaläggare / expert",
+    "nurse": "Begärande",
+    "patient": "Användare",
+    "requester": "Begärande",
+    "scheduler": "Schemaläggare"
+  },
   "ru": "ryska",
   "sv": "svenska",
   "ta": "Tamil",

@@ -4,6 +4,7 @@
   "acknowledge invite": "Acknowledge invite",
   "bd": "Bangladesh",
   "browser cache": "Your browser's cache is not up to date, you must refresh it with CTRL+F5!",
+  "cannot initiate call patient not joined": "Cannot initiate call. The consultation patient has not joined yet.",
   "cn": "Chinese",
   "consultation branding": "Consultation %(branding)s",
   "consultation link": "Consultation link",

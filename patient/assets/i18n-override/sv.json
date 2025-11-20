@@ -92,14 +92,6 @@
     "youAreNowInConsultation": "Du är nu i session med",
     "yourBrowserDoesNotSupport": "Din webbläsare stöder inte ljudelementet."
   },
-  "roles": {
-    "admin": "Admin",
-    "doctor": "Schemaläggare / expert",
-    "nurse": "Begärande",
-    "patient": "Användare",
-    "requester": "Begärande",
-    "scheduler": "Schemaläggare"
-  },
   "country_select": {
     "search": "Sök",
     "select_country": "Välj Land"
@@ -222,6 +214,14 @@
     "select_expert_area": "Välj Expertområde",
     "select_gender": "Ange kön",
     "upload_document": "Ladda upp dokument"
+  },
+  "roles": {
+    "admin": "Admin",
+    "doctor": "Schemaläggare / expert",
+    "nurse": "Begärande",
+    "patient": "Användare",
+    "requester": "Begärande",
+    "scheduler": "Schemaläggare"
   },
   "ru": "ryska",
   "sv": "svenska",
