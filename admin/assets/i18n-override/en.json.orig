@@ -18,6 +18,14 @@
     "requester": "Requester",
     "scheduler": "Scheduler"
   },
+  "userForm": {
+    "enableSmsNotification": "Enable SMS/WhatsApp notifications",
+    "invalidPhoneFormat": "Please provide phone number with format +41XX...",
+    "notifPhoneNumber": "Notification phone number",
+    "notificationSettings": "Notification Settings",
+    "sms": "SMS",
+    "whatsapp": "WhatsApp"
+  },
   "whatsappTemplates": {
     "aa": "Afar",
     "ab": "Abkhazian",

@@ -2,7 +2,7 @@
   "queues": {
     "action": "Action",
     "disableFeedback": "Disable patient feedback",
-    "disableProvidingTimeEstimate": "Disable incoming consultation notification",
+    "disableProvidingTimeEstimate": "Disable providing time estimation",
     "filter": "Filter",
     "filterPlaceholder": "Search by name",
     "newQueueName": "New waiting queue name",
@@ -17,6 +17,14 @@
     "nurse": "Request Expert",
     "requester": "Request Expert",
     "scheduler": "Scheduler"
+  },
+  "userForm": {
+    "enableSmsNotification": "Enable SMS/WhatsApp notifications",
+    "invalidPhoneFormat": "Please provide phone number with format +41XX...",
+    "notifPhoneNumber": "Notification phone number",
+    "notificationSettings": "Notification Settings",
+    "sms": "SMS",
+    "whatsapp": "WhatsApp"
   },
   "whatsappTemplates": {
     "aa": "Afar",
