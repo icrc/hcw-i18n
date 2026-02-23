@@ -185,8 +185,11 @@
     "delivered": "Remis",
     "edit": "Editer",
     "email": "Email",
-    "expertTooltip": "Expert",
-    "failed": "Echec",
+    "errorGettingLink": "Erreur lors de l'obtention du lien d'invitation",
+    "expertTooltip": "Expert(e)",
+    "failed": "Échoué",
+    "getInviteLinkTooltip": "Obtenir le lien d'invitation",
+    "getLink": "Obtenir le lien",
     "guestInvite": "Invité",
     "guestTooltip": "Invité",
     "immediately": "Immédiatement",
@@ -473,6 +476,7 @@
   },
   "selectLanguage": {
     "en": "English",
+    "es": "Español",
     "fr": "Français",
     "sv": "Svenska",
     "uk": "Українська"
@@ -503,6 +507,7 @@
     "patientFirstnameAndLastname": "Nom de l'utilsateur de service",
     "profile": "Profil",
     "startTheNextConsultation": "Démarrer la session suivante",
+    "switchUser": "Changer d'utilisateur",
     "terminateTheConsultation": "Terminer la session"
   },
   "tour": {

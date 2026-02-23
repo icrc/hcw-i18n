@@ -175,8 +175,11 @@
     "delivered": "Livré",
     "edit": "Modifier",
     "email": "Email",
+    "errorGettingLink": "Erreur lors de l'obtention du lien d'invitation",
     "expertTooltip": "Expert(e)",
     "failed": "Échoué",
+    "getInviteLinkTooltip": "Obtenir le lien d'invitation",
+    "getLink": "Obtenir le lien",
     "guestInvite": "Invité",
     "guestTooltip": "Invité(e)",
     "immediately": "Immédiatement",
@@ -484,6 +487,7 @@
     "patientFirstnameAndLastname": "Nom du patient",
     "profile": "Profil",
     "startTheNextConsultation": "Démarrer la consultation suivante",
+    "switchUser": "Changer d'utilisateur",
     "terminateTheConsultation": "Terminer la consultation"
   },
   "tour": {
