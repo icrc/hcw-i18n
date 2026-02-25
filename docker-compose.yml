@@ -92,7 +92,7 @@ services:
     image: redis
 
   clamav:
-    image: clamav/clamav:1.2
+    image: clamav/clamav:1.5.1
     ports:
       - "3310:3310"
 
@@ -103,7 +103,6 @@ services:
     environment:
       - API_USER=mediasoup_user
       - REDIS_HOST=redis
-
 
 volumes:
   backend-attachments:
