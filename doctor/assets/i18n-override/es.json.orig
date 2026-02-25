@@ -230,7 +230,6 @@
     "atLeastInviteGuestOrTranslator": "Debe invitar al menos a una tercera persona. Para invitar a un intérprete, cambie el idioma del paciente.",
     "av": "Ávaro",
     "ay": "Aimara",
-    "az": "Azerí",
     "ba": "Baskir",
     "be": "Bielorruso",
     "bg": "Búlgaro",
@@ -383,7 +382,7 @@
     "pleaseChooseAWaitingQueue": "Por favor, seleccione la fila",
     "pleaseChooseLanguage": "Por favor seleccione el idioma",
     "pleaseChooseOrganization": "Por favor seleccione una organización",
-    "pleaseChooseTheSex": "Por favor seleccione género",
+    "pleaseChooseTheSex": "Por favor seleccione sexo",
     "pleaseEnterValidEmailOrPhoneNumber": "Por favor, introduzca un correo electrónico o número de teléfono móvil en el formato +41 o +33",
     "pleaseOnlyFillUpAnEmailOrAnMobilePhoneNumber": "Por favor proporcione únicamente un correo electrónico o número de teléfono móvil.",
     "pleaseOnlyFillUpAnEmailOrAnMobilePhoneNumberEx": "Por favor introduzca solo correo electrónico o número de teléfono móvil (+41 o +33)",
@@ -407,7 +406,7 @@
     "send": "Enviar",
     "sendAnInvitation": "ENVÍA UNA INVITACIÓN",
     "sendLinkManually": "Quiero enviar el enlace manualmente",
-    "sex": "Género",
+    "sex": "Sexo",
     "sg": "Sango",
     "sh": "Serbocroata",
     "si": "Cingalés",
@@ -518,6 +517,7 @@
     "audioCall": "Llamada de audio",
     "call": "llamada",
     "chatHistory": "Historial de chat",
+    "closedBy": "Cerrada por",
     "consultationInformation": "Información de consulta",
     "consultationReport": "Informe de consulta",
     "doctorInformation": "Información del médico",
@@ -527,10 +527,17 @@
     "fileName": "informe-de-consulta",
     "finished": "finalizada",
     "firstname": "Nombre",
-    "gender": "Género",
+    "gender": "Sexo",
     "lastname": "Apellido",
+    "metadata": {
+      "age": "Edad",
+      "country": "País",
+      "facilityId": "ID del centro",
+      "fileId": "ID del archivo"
+    },
     "missed": "perdida",
     "patientInformation": "Información del paciente",
+    "queue": "Fila",
     "requesterInformation": "Información del solicitante",
     "startDateTime": "Fecha/hora de inicio",
     "videoCall": "Videollamada"
@@ -610,8 +617,10 @@
     "yourTokenHasExpired": "Su token ha expirado. Solicita uno nuevo."
   },
   "roles": {
-    "admin": "Administrador",
+    "admin": "Administración",
     "doctor": "Médico",
+    "expert": "Experto",
+    "guest": "Invitado/a",
     "nurse": "Solicitante",
     "patient": "Paciente",
     "requester": "Solicitante",
@@ -681,5 +690,17 @@
     "startTourTitle": "Bienvenido a {{branding}}",
     "waitingRoomMenuContent": "Una vez que su paciente haya usado el enlace y solicitado unirse a la consulta, recibirá una notificación sonora y verá al paciente entrante en esta cola. Mantenga la aplicación abierta para reducir el riesgo de perder una consulta.",
     "waitingRoomMenuTitle": "Sala de espera de pacientes"
+  },
+    "videoRoom": {
+    "cameraError": "Ocurrió un error al acceder a tu cámara.",
+    "microphoneError": "Ocurrió un error al acceder a tu micrófono."
+  },
+  "webviewWarning": {
+    "copied": "Copiado!",
+    "copyUrl": "Copiar URL",
+    "description": "Copia el enlace a continuación y ábrelo en Safari o Chrome:",
+    "message": "Las videollamadas no son compatibles con este navegador.",
+    "title": "Navegador no compatible",
+    "urlCopied": "¡URL copiada! Abre Safari o Chrome y pega el enlace."
   }
 }

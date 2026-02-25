@@ -529,8 +529,15 @@
     "firstname": "Nombre",
     "gender": "Género",
     "lastname": "Apellido",
+    "metadata": {
+      "age": "Edad",
+      "country": "País",
+      "facilityId": "ID del centro",
+      "fileId": "ID del archivo"
+    },
     "missed": "perdida",
     "patientInformation": "Información del paciente",
+    "queue": "Fila",
     "requesterInformation": "Información del solicitante",
     "startDateTime": "Fecha/hora de inicio",
     "videoCall": "Videollamada"
@@ -612,6 +619,8 @@
   "roles": {
     "admin": "Administrador",
     "doctor": "Experto",
+    "expert": "Experto",
+    "guest": "Invitado/a",
     "nurse": "Solicitante",
     "patient": "Usuario del servicio",
     "requester": "Solicitante",
@@ -621,6 +630,7 @@
     "en": "English",
     "es": "Español",
     "fr": "Français",
+    "sv": "Svenska",
     "uk": "Українська"
   },
   "sendInviteLink": {
@@ -680,5 +690,18 @@
     "startTourTitle": "Bienvenido a {{branding}}",
     "waitingRoomMenuContent": "Una vez que su paciente haya usado el enlace y solicitado unirse a la consulta, recibirá una notificación sonora y verá al paciente entrante en esta cola. Mantenga la aplicación abierta para reducir el riesgo de perder una consulta.",
     "waitingRoomMenuTitle": "Sala de espera de pacientes"
+  },
+    "videoRoom": {
+    "cameraError": "Ocurrió un error al acceder a tu cámara.",
+    "microphoneError": "Ocurrió un error al acceder a tu micrófono."
+  },
+  "webviewWarning": {
+    "copied": "Copiado!",
+    "copyUrl": "Copiar URL",
+    "description": "Copia el enlace a continuación y ábrelo en Safari o Chrome:",
+    "message": "Las videollamadas no son compatibles con este navegador.",
+    "title": "Navegador no compatible",
+    "urlCopied": "¡URL copiada! Abre Safari o Chrome y pega el enlace."
   }
 }
+

@@ -577,6 +577,12 @@
     "firstname": "Firstname",
     "gender": "Gender",
     "lastname": "Lastname",
+    "metadata": {
+      "age": "Age",
+      "country": "Country",
+      "facilityId": "Facility ID",
+      "fileId": "File ID"
+    },
     "missed": "missed",
     "patientInformation": "Service User information",
     "queue": "Queue",
@@ -733,13 +739,17 @@
     "startTourTitle": "Welcome to {{branding}}",
     "waitingRoomMenuContent": "Here you see all service users who have opened their invitation link and are currently in the queue waiting for their session. You will be notified with a sound and see them waiting here with a green indicator.\nKeep the application open to reduce the risk of missing waiting service users!",
     "waitingRoomMenuTitle": "Waiting room"
-    },
-    "webviewWarning": {
-      "copied": "Copied!",
-      "copyUrl": "Copy URL",
-      "description": "Copy the link below and open it in Safari or Chrome:",
-      "message": "Video calls are not supported in this browser.",
-      "title": "Browser Not Supported",
-      "urlCopied": "URL copied! Open Safari or Chrome and paste the link."
-    }
+  },
+  "videoRoom": {
+    "cameraError": "An error occurred while accessing your camera.",
+    "microphoneError": "An error occurred while accessing your microphone."
+  },
+  "webviewWarning": {
+    "copied": "Copied!",
+    "copyUrl": "Copy URL",
+    "description": "Copy the link below and open it in Safari or Chrome:",
+    "message": "Video calls are not supported in this browser.",
+    "title": "Browser Not Supported",
+    "urlCopied": "URL copied! Open Safari or Chrome and paste the link."
   }
+}

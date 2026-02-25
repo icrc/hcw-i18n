@@ -331,6 +331,7 @@
     "audioCall": "Аудио қоңырау",
     "call": "қоңырау шалу",
     "chatHistory": "Чат тарихы",
+    "closedBy": "Жабылған",
     "consultationInformation": "Консультация ақпараты",
     "consultationReport": "Консультация есебі",
     "doctorInformation": "Дәрігер туралы ақпарат",
@@ -342,8 +343,15 @@
     "firstname": "Аты",
     "gender": "Жыныс",
     "lastname": "Фамилия",
+    "metadata": {
+      "age": "Жасы",
+      "country": "Ел",
+      "facilityId": "Мекеме ID",
+      "fileId": "Файл ID"
+    },
     "missed": "жоғалту",
     "patientInformation": "Пациент туралы ақпарат",
+    "queue": "Кезек",
     "requesterInformation": "Сұраныс туралы ақпарат",
     "startDateTime": "Басталу күні/уақыты",
     "videoCall": "Бейне қоңырау"

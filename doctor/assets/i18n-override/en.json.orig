@@ -577,6 +577,12 @@
     "firstname": "Firstname",
     "gender": "Gender",
     "lastname": "Lastname",
+    "metadata": {
+      "age": "Age",
+      "country": "Country",
+      "facilityId": "Facility ID",
+      "fileId": "File ID"
+    },
     "missed": "missed",
     "patientInformation": "Patient information",
     "queue": "Queue",
@@ -733,6 +739,10 @@
     "startTourTitle": "Welcome to {{branding}}",
     "waitingRoomMenuContent": "Once your patient has used the link and requested to join the consultation, you will be notified with a sound and see the incoming patient in this queue. Keep the application open to reduce the risk of missing a consultation.",
     "waitingRoomMenuTitle": "Patient waiting room"
+  },
+  "videoRoom": {
+    "cameraError": "An error occurred while accessing your camera.",
+    "microphoneError": "An error occurred while accessing your microphone."
   },
   "webviewWarning": {
     "copied": "Copied!",

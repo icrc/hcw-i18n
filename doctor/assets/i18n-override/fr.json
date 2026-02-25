@@ -386,6 +386,12 @@
     "firstname": "Prénom",
     "gender": "Genre",
     "lastname": "Nom de famille",
+    "metadata": {
+      "age": "Âge",
+      "country": "Pays",
+      "facilityId": "ID de l'établissement",
+      "fileId": "ID du fichier"
+    },
     "missed": "manqué(e)",
     "patientInformation": "Informations sur l'utilsateur de service",
     "queue": "Queue",
@@ -539,5 +545,17 @@
     "startTourTitle": "Bienvenue sur {{branding}}",
     "waitingRoomMenuContent": "Une fois que votre patient a utilisé le lien et demandé à rejoindre la consultation, vous serez averti par un son et verrez le patient entrant dans cette file d'attente. Gardez l'application ouverte pour réduire le risque de manquer une consultation.",
     "waitingRoomMenuTitle": "Salle d'attente des patients"
+  },
+    "videoRoom": {
+    "cameraError": "Une erreur s'est produite lors de l'accès à votre caméra.",
+    "microphoneError": "Une erreur s'est produite lors de l'accès à votre microphone."
+  },
+  "webviewWarning": {
+    "copied": "Copié !",
+    "copyUrl": "Copier l'URL",
+    "description": "Copiez le lien ci-dessous et ouvrez-le dans Safari ou Chrome :",
+    "message": "Les appels vidéo ne sont pas pris en charge dans ce navigateur.",
+    "title": "Navigateur non pris en charge",
+    "urlCopied": "URL copiée ! Ouvrez Safari ou Chrome et collez le lien."
   }
 }

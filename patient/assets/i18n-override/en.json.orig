@@ -8,11 +8,11 @@
   },
   "appComponent": {
     "copyUrlManually": "Please copy this URL and open it in your browser",
-    "openInBrowser": "Open in Browser",
+    "openInBrowser": "Copy Link",
     "serverError": "Something went wrong",
-    "urlCopied": "URL copied to clipboard! Please paste it in your browser.",
-    "whatsappBrowserDescription": "You're viewing this in WhatsApp. Some features may not work properly. Please open in your browser for the best experience.",
-    "whatsappBrowserWarning": "Please open in browser"
+    "urlCopied": "Link copied! Paste it in your browser.",
+    "whatsappBrowserDescription": "You're viewing this in WhatsApp. Some features may not work properly. Copy the link and open it in your browser.",
+    "whatsappBrowserWarning": "Open in your browser"
   },
   "ar": "عربي",
   "authenticate": {
