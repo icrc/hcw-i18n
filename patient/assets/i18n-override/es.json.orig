@@ -7,7 +7,13 @@
     "testButton": "Llamada de prueba"
   },
   "appComponent": {
-    "serverError": "Algo salió mal"
+    "copyUrlManually": "Copie esta URL y ábrala en su navegador.",
+    "dismiss": "Despedir",
+    "openInBrowser": "Copiar enlace",
+    "serverError": "Algo salió mal",
+    "urlCopied": "Enlace copiado. Pégalo en tu navegador.",
+    "whatsappBrowserDescription": "La función de llamadas no es compatible con este navegador de WhatsApp. Usa el menú de tres puntos en la esquina superior derecha y selecciona \"Abrir en el navegador\" o copia y pega el enlace con el siguiente botón.",
+    "whatsappBrowserWarning": "La función de llamada no es compatible"
   },
   "ar": "عربي",
   "authenticate": {
@@ -122,7 +128,7 @@
     "unknown": "Desconocido"
   },
   "de": "Deutsch",
-  "en": "English",
+  "en": "inglés",
   "es": "Español",
   "fa": "فارسی",
   "fr": "Français",
@@ -178,6 +184,7 @@
     "duration": "Duración",
     "endDateTime": "Fecha/hora de finalización",
     "expertInformation": "Información de expertos",
+    "fileName": "",
     "finished": "finalizada",
     "firstname": "Nombre",
     "gender": "Género",
@@ -220,6 +227,7 @@
   },
   "request_consultation": {
     "age": "Edad",
+    "consultation_creation_failed": "No se pudo crear la consulta. Inténtalo de nuevo.",
     "consultation_request_form": "Formulario de solicitud de consulta",
     "country": "País",
     "enter_age": "Ingrese la edad",
@@ -227,6 +235,8 @@
     "enter_patient_lastname": "Ingrese el apellido del paciente",
     "enter_text": "Ingrese texto",
     "expert_area_required": "Se requiere un área de especialización",
+    "file_upload_failed_multiple": "Error al cargar archivos:",
+    "file_upload_failed_single": "Error al cargar el archivo:",
     "gender_required": "El género es obligatorio",
     "message_optional": "Mensaje (opcional)",
     "patient_firstname": "Nombre del paciente",
@@ -239,6 +249,16 @@
     "select_expert_area": "Seleccione el área de especialización",
     "select_gender": "Seleccione género",
     "upload_document": "Subir un documento"
+  },
+  "roles": {
+    "admin": "Administración",
+    "doctor": "Médico",
+    "expert": "Experto",
+    "guest": "Invitado/a",
+    "nurse": "Solicitante",
+    "patient": "Paciente",
+    "requester": "Solicitante",
+    "scheduler": "Programador"
   },
   "ru": "Русский",
   "ta": "தமிழ்",

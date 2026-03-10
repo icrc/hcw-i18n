@@ -691,7 +691,7 @@
     "waitingRoomMenuContent": "Una vez que su paciente haya usado el enlace y solicitado unirse a la consulta, recibirá una notificación sonora y verá al paciente entrante en esta cola. Mantenga la aplicación abierta para reducir el riesgo de perder una consulta.",
     "waitingRoomMenuTitle": "Sala de espera de pacientes"
   },
-    "videoRoom": {
+  "videoRoom": {
     "cameraError": "Ocurrió un error al acceder a tu cámara.",
     "microphoneError": "Ocurrió un error al acceder a tu micrófono."
   },
@@ -704,4 +704,3 @@
     "urlCopied": "¡URL copiada! Abre Safari o Chrome y pega el enlace."
   }
 }
-

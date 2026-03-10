@@ -8,11 +8,12 @@
   },
   "appComponent": {
     "copyUrlManually": "Please copy this URL and open it in your browser",
+    "dismiss": "Dismiss",
     "openInBrowser": "Copy Link",
     "serverError": "Something went wrong",
     "urlCopied": "Link copied! Paste it in your browser.",
-    "whatsappBrowserDescription": "You're viewing this in WhatsApp. Some features may not work properly. Copy the link and open it in your browser.",
-    "whatsappBrowserWarning": "Open in your browser"
+    "whatsappBrowserDescription": "Call feature is not supported in this WhatsApp browser. Use the three dot menu on top right and choose \"Open in Browser\" option, or copy and paste the link with the following button.",
+    "whatsappBrowserWarning": "Call feature is not supported"
   },
   "ar": "عربي",
   "authenticate": {
@@ -127,6 +128,10 @@
     "unknown": "Unknown"
   },
   "de": "Deutsch",
+  "diagnostic": {
+    "description": "Your browser does not support video calls. Please copy the link below and open it in Chrome, Firefox, or Safari.",
+    "title": "Browser not supported"
+  },
   "en": "English",
   "es": "Español",
   "fa": "فارسی",
@@ -195,7 +200,10 @@
     "videoCall": "Video call"
   },
   "profile": {
-    "profile": "Profile"
+    "profile": "Profile",
+    "profileUpdated": "Profile updated successfully",
+    "save": "Save",
+    "saving": "Saving..."
   },
   "register": {
     "account_request": "Account request",
@@ -297,6 +305,8 @@
     "audioCall": "Audio call",
     "callInProgress": "Call in progress",
     "caller": "HCW",
+    "cameraError": "An error occurred while accessing your camera.",
+    "microphoneError": "An error occurred while accessing your microphone.",
     "needAccess": "We need access to your microphone or camera to continue the call.",
     "ok": "OK",
     "permissionNeeded": "Permission Needed",

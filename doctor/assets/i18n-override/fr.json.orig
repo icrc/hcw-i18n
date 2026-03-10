@@ -529,10 +529,6 @@
     "waitingRoomMenuContent": "Une fois que votre patient a utilisé le lien et demandé à rejoindre la consultation, vous serez averti par un son et verrez le patient entrant dans cette file d'attente. Gardez l'application ouverte pour réduire le risque de manquer une consultation.",
     "waitingRoomMenuTitle": "Salle d'attente des patients"
   },
-    "videoRoom": {
-    "cameraError": "Une erreur s'est produite lors de l'accès à votre caméra.",
-    "microphoneError": "Une erreur s'est produite lors de l'accès à votre microphone."
-  },
   "webviewWarning": {
     "copied": "Copié !",
     "copyUrl": "Copier l'URL",

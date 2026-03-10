@@ -1,6 +1,12 @@
 {
   "appComponent": {
-    "serverError": "لقد حدث خطأ ما"
+    "copyUrlManually": "يرجى نسخ هذا الرابط وفتحه في متصفحك",
+    "dismiss": "إغلاق",
+    "openInBrowser": "نسخ الرابط",
+    "serverError": "حدث خطأ ما",
+    "urlCopied": "تم نسخ الرابط! الصقه في متصفحك.",
+    "whatsappBrowserDescription": "ميزة الاتصال غير مدعومة في متصفح واتساب هذا. استخدم قائمة النقاط الثلاث في أعلى اليمين واختر خيار \"Open in Browser\"، أو انسخ الرابط باستخدام الزر التالي.",
+    "whatsappBrowserWarning": "ميزة الاتصال غير مدعومة"
   },
   "ar": "عربي",
   "authenticate": {

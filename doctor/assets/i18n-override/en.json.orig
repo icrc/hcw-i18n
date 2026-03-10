@@ -101,6 +101,7 @@
     "microSelection": "Micro selection",
     "notFoundOrClosed": "This consultation was not found or has been closed.",
     "notFoundOrClosedMessage": "The consultation you are looking for may have been closed, deleted, or you may not have permission to access it.",
+    "patientNotJoined": "Cannot initiate call: the patient has not joined the consultation yet.",
     "reconnected": "Video connection restored.",
     "reschedule": "Reschedule call",
     "rescheduleConfirm": "Confirm Reschedule",

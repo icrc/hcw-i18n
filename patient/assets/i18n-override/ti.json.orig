@@ -1,4 +1,13 @@
 {
+  "appComponent": {
+    "copyUrlManually": "በጃኻ ነዚ URL ቅዳሕ እሞ ኣብ ብራውዘርካ ክፈቶ",
+    "dismiss": "ዝግባእ",
+    "openInBrowser": "መራኸቢ ቅዳሕ",
+    "serverError": "ገለ ጌጋ ተፈጺሙ",
+    "urlCopied": "መራኸቢ ተቐዲሑ! ኣብ ብራውዘርካ ለጥፍዮ።",
+    "whatsappBrowserDescription": "ናይ መደወሊ ባህሪ ኣብዚ ናይ WhatsApp ብራውዘር ኣይደገፍን። ኣብ ላዕሊ የማን ዘሎ ሶስተ ነጥቢ ሜኑ ተጠቒምካ \"Open in Browser\" ዝብል ኣማራጺ ምረጽ፣ ወይ ከኣ ብታሕቲ ዘሎ መጠወቒ ተጠቒምካ ነቲ መራኸቢ ቅዳሕ።",
+    "whatsappBrowserWarning": "ናይ መደወሊ ባህሪ ኣይደገፍን"
+  },
   "ar": "عربي",
   "cgu": {
     "backToHome": "ናብ መበገሲ ገጽ ምምላስ",
