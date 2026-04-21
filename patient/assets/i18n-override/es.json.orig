@@ -72,6 +72,7 @@
     "consultation": "CONSULTA",
     "country": "País",
     "download": "Descargar",
+    "downloadFailed": "La descarga falló. Por favor, inténtalo de nuevo.",
     "enterYourMessage": "Introduzca su mensaje",
     "general_information": "Información general",
     "handled_by": "Manejado por",

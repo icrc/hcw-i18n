@@ -48,6 +48,7 @@
     "capInProgress": "IN CORSO DI ELABORAZIONE",
     "consultation": "CONSULTO",
     "download": "Scarica",
+    "downloadFailed": "Download non riuscito. Riprova.",
     "enterYourMessage": "Inserisci il tuo messaggio",
     "inProgress": "In corso di elaborazione",
     "joinCall": "Partecipa al teleconsulto in corso",

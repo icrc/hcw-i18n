@@ -72,6 +72,7 @@
     "consultation": "КОНСУЛЬТАЦИЯ",
     "country": "Ел",
     "download": "Жүктеп алу",
+    "downloadFailed": "Жүктеп алу сәтсіз аяқталды. Қайталап көріңіз.",
     "enterYourMessage": "Хабарламаңызды енгізіңіз",
     "general_information": "Жалпы ақпарат",
     "handled_by": "Басқарған",

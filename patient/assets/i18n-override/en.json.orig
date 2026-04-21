@@ -72,6 +72,7 @@
     "consultation": "CONSULTATION",
     "country": "Country",
     "download": "Download",
+    "downloadFailed": "Download failed. Please try again.",
     "enterYourMessage": "Enter your message",
     "general_information": "General Information",
     "handled_by": "Handled by",

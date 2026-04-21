@@ -65,6 +65,7 @@
     "consultation": "CONSULTATION",
     "country": "Pays",
     "download": "Télécharger",
+    "downloadFailed": "Le téléchargement a échoué. Veuillez réessayer.",
     "enterYourMessage": "Saisissez votre message",
     "general_information": "Informations générales",
     "handled_by": "Pris en charge par",

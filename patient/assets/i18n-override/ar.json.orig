@@ -65,6 +65,7 @@
     "consultation": "استشارة",
     "country": "البلد",
     "download": "تحميل",
+    "downloadFailed": "فشل التنزيل. يرجى المحاولة مرة أخرى.",
     "enterYourMessage": "اكتب رسالتك",
     "general_information": "معلومات عامة",
     "handled_by": "تم التعامل معه بواسطة",

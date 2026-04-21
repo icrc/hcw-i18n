@@ -48,6 +48,7 @@
     "capInProgress": "در حال انجام",
     "consultation": "ویزیت",
     "download": "دانلود کنید",
+    "downloadFailed": "دانلود انجام نشد. لطفاً دوباره امتحان کنید.",
     "enterYourMessage": "پیام خود را وارد کنید",
     "inProgress": "در حال انجام",
     "joinCall": "به ویزیت  آنلاین در حال اجرا بپیوندید",

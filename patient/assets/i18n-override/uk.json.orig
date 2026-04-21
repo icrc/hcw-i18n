@@ -65,6 +65,7 @@
     "consultation": "КОНСУЛЬТАЦІЯ",
     "country": "Країна",
     "download": "Завантажити",
+    "downloadFailed": "Не вдалося завантажити. Спробуйте ще раз.",
     "enterYourMessage": "Введіть ваше повідомлення",
     "general_information": "Загальна інформація",
     "handled_by": "Опрацьовується",

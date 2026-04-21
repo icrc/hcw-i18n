@@ -64,6 +64,7 @@
     "consultation": "КОНСУЛЬТАЦИЯ",
     "country": "Страна",
     "download": "Скачать",
+    "downloadFailed": "Ошибка загрузки. Пожалуйста, попробуйте еще раз.",
     "enterYourMessage": "Введите сообщение",
     "general_information": "Основная информация",
     "handled_by": "Обрабатывается",

@@ -59,6 +59,7 @@
     "consultation": "BERATUNG",
     "country": "Land",
     "download": "Herunterladen",
+    "downloadFailed": "Download fehlgeschlagen. Bitte erneut versuchen.",
     "enterYourMessage": "Gib deine Nachricht ein",
     "general_information": "Allgemeine Informationen",
     "handled_by": "Bearbeitet von",
