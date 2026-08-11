@@ -681,7 +681,8 @@
     "es": "Español",
     "fr": "Français",
     "sv": "Svenska",
-    "uk": "Українська"
+    "uk": "Українська",
+    "ru": "Русский"
   },
   "sendInviteLink": {
     "close": "Close",

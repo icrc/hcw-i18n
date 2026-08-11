@@ -634,7 +634,9 @@
     "en": "English",
     "fr": "Français",
     "sv": "Svenska",
-    "uk": "Українська"
+    "uk": "Українська",
+    "kk": "Қазақ",
+    "ru": "Русский"
   },
   "sendInviteLink": {
     "close": "Закрити",
