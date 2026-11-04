@@ -1,446 +1,474 @@
 # TeleConnect
-# INFORMATION NOTICE AND GENERAL CONDITIONS OF USE
-# Updated 04.09.2024
+# ИНФОРМАЦИОННОЕ УВЕДОМЛЕНИЕ И ОБЩИЕ УСЛОВИЯ ИСПОЛЬЗОВАНИЯ
+# Обновлено 04.09.2024
 
-## 1. INFORMATION NOTICE
-You are using an online communication tool from the International Committee of
-the Red Cross called TeleConnect.
+## 1. ИНФОРМАЦИОННОЕ УВЕДОМЛЕНИЕ
+Вы используете онлайн-инструмент связи Международного комитета Красного Креста
+под названием TeleConnect.
 
-The International Committee of the Red Cross (ICRC) is an impartial, neutral and
-independent organization whose exclusively humanitarian mission is to protect
-the lives and dignity of victims of armed conflicts and other situations of
-violence and to provide them with assistance.
+Международный комитет Красного Креста (МККК) — это беспристрастная, нейтральная
+и независимая организация, чья исключительно гуманитарная миссия заключается в
+защите жизни и достоинства жертв вооруженных конфликтов и других ситуаций
+насилия, а также в оказании им помощи.
 
-The ICRC is committed to treating your Personal Data with security, respect and
-confidentiality: the Processing of an individual's Personal Data carried out by
-the ICRC is performed in compliance with the ICRC Rules on Personal Data
-Protection. To read the Rules and learn more on how ICRC approaches data
-protection go here.
+МККК обязуется обеспечивать безопасность, уважение и конфиденциальность ваших
+персональных данных: обработка персональных данных физических лиц,
+осуществляемая МККК, производится в соответствии с Правилами МККК по защите
+персональных данных. Чтобы ознакомиться с Правилами и узнать больше о подходах
+МККК к защите данных, перейдите по этой ссылке.
 
-This Information Notice describes why and how the ICRC collects and processes
-your Personal Data when you use the TeleConnect tool, and how such information
-is stored and protected. You will also find information on how you can exercise
-your rights as a data subject.
+В данном информационном уведомлении описывается, почему и как МККК собирает и
+обрабатывает ваши персональные данные при использовании вами инструмента
+TeleConnect, а также как такая информация хранится и защищается. Здесь вы также
+найдете информацию о том, как вы можете реализовать свои права как субъект
+данных.
 
-Any Personal Data disclosed to the ICRC will not be used by the ICRC in ways
-other than as set forth in this Information Notice.
+Любые персональные данные, предоставленные МККК, не будут использоваться МККК
+иными способами, кроме тех, которые указаны в настоящем информационном
+уведомлении.
 
-To see country specific details below (where these exist), select the country
-from which you are accessing the tool.
+Чтобы увидеть подробную информацию по конкретной стране (если таковая имеется),
+выберите страну, из которой вы используете инструмент.
 
-**Note for those using TeleConnect for health assistance**: Please note that the
-health facilities and medical personnel with which/whom the ICRC cooperates do
-not follow the ICRC’s Rules on Personal Data Protection, and instead may rely
-upo n country specific data protection legislation and internal policies.
+**Примечание для тех, кто использует TeleConnect для получения медицинской
+помощи**: Обратите внимание, что медицинские учреждения и медицинский персонал,
+с которыми сотрудничает МККК, не соблюдают Правила МККК по защите персональных
+данных и вместо этого могут полагаться на законодательство и внутренние правила
+защиты данных конкретных стран.
 
-Your Personal Data is collected and processed for the following purposes:
+Ваши персональные данные собираются и обрабатываются в следующих целях:
 
-+ Providing remote services through teleconsultations, including health services
-  and protection services.
-+ Gathering necessary medical expertise through remote tele-expert meetings.
-+ For health-related uses, creating certain health workers a Clinician account
-  in the Tool and allowing for the provision of medical services remotely
-+ Ensuring the efficacy and information security of the Tool.
++ Предоставление дистанционных услуг посредством телеконсультаций, включая
+  медицинские услуги и услуги по защите.
++ Сбор необходимой медицинской экспертизы посредством дистанционных
+  телеконференций с экспертами.
++ В целях, связанных со здравоохранением, создание для определенных медицинских
+  работников учетной записи «Врач» в Инструменте и предоставление возможности
+  оказания медицинских услуг удаленно.
++ Обеспечение эффективности и информационной безопасности инструмента.
 
-### A. What information do we collect about you?
+### А. Какую информацию о вас мы собираем?
 
-Now you are on this TeleConnect platform, the ICRC collects Identification data
-and contact data required for use of Tool:
+Теперь, когда вы находитесь на платформе TeleConnect, МККК собирает
+идентификационные и контактные данные, необходимые для использования
+инструмента:
 
-+ Your name,
-+ Your surname,
-+ Your gender
-+ Your email or phone number,
-+ The language you use and your country of residence,
-+ Data you may have shared via the TeleConnect tool depending on the purpose for
-  which it is used.
++ Ваше имя,
++ Ваша фамилия,
++ Ваш пол
++ Ваш адрес электронной почты или номер телефона.
++ Язык, который вы используете, и страна вашего проживания.
++ Данные, которыми вы могли поделиться через инструмент TeleConnect, зависят от
+  цели их использования.
 
-**Note for those using TeleConnect for health assistance**: The ICRC also
-collects information, including medical data shared during the teleconsultation
-or tele-expert meeting, (e.g. comments made in the chat, uploaded scans,
-pictures, medical results).
+**Примечание для тех, кто использует TeleConnect для получения медицинской
+помощи**: МККК также собирает информацию, включая медицинские данные, которыми
+обмениваются во время телеконсультации или телеэкспертной встречи (например,
+комментарии в чате, загруженные снимки, фотографии, результаты медицинских
+обследований).
 
-### B. Data retention – how long does the ICRC keep your data?
+### Б. Срок хранения данных – как долго МККК хранит ваши данные?
 
-As a beneficiary of services, your information will be stored in Teleconnect for
-24 hours and after this duration, your information will be deleted from
-TeleConnect.
+В качестве получателя услуг, ваши данные будут храниться в Teleconnect в течение
+24 часов, после чего будут удалены из Teleconnect.
 
-If there is further information concerning data retention specific to your
-country of residence, please see your country specific information at the end of
-this document.
+Если вам необходима дополнительная информация о сроках хранения данных,
+специфичная для вашей страны проживания, пожалуйста, ознакомьтесь с информацией
+для вашей страны в конце этого документа.
 
 <em>
 Note for those using TeleConnect for health assistance: The Clinician has to migrate your medical data into the paper or Electronic Medical Record (“EMR”). The medical record is maintained by the hospital or health service in compliance with its internal retention policy. Contact the hospital or health service in order to better understand how long the hospital or health service shall keep your records.
 As a requestor or user as service provider, a review of users shall be carried out twice a year, as per mandatory ICRC data security requirement for critical humanitarian information. Inactive users' (persons who have changed roles according to the implementation focal point) data will be purged.
 </em>
 
-### C. Legal basis – what allows the ICRC to process your data?
+### C. Правовая основа – что позволяет МККК обрабатывать ваши данные?
 
-The legal basis for the Processing of your Personal Data for the purpose of
-providing remote support through TeleConnect is the ICRC’s Public interest based
-on ICRC’s mandate, and in exceptional cases of providing essential and
-life-saving assistance the vital interest of the individual.
+Правовой основой для обработки ваших персональных данных в целях оказания
+дистанционной поддержки через TeleConnect является общественный интерес МККК,
+основанный на мандате МККК, а в исключительных случаях оказания необходимой и
+спасающей жизнь помощи — жизненно важный интерес отдельного человека.
 
-For other purposes of Processing the ICRC shall rely on the ICRC’s legitimate
-interest.
+В других целях обработки данных МККК будет руководствоваться законным интересом
+МККК.
 
-### D. Recipients – with whom does the ICRC share your data?
+### D. Получатели – с кем МККК делится вашими данными?
 
-Internally, all Personal Data collected by the ICRC are processed only by
-designated ICRC staff members or agents, for one or more of the specific
-purposes listed above, and only on a strict need-to-know basis.
+Внутри организации все персональные данные, собранные МККК, обрабатываются
+только назначенными сотрудниками или агентами МККК для одной или нескольких
+конкретных целей, перечисленных выше, и только в случае крайней необходимости.
 
-Should the ICRC Share your information with service providers for any of the
-purposes listed above, The ICRC ensures as much as possible that these
-recipients have provided sufficient proof of compliance with the principles set
-out in the ICRC Rules on Personal Data Protection. This includes contractual
-obligations imposing a strict prohibition of using such data for purposes other
-than those specified above and ensuring an adequate level of protection of the
-Personal Data shared from us.
+Если МККК передает вашу информацию поставщикам услуг для каких-либо из
+перечисленных выше целей, МККК гарантирует, что эти получатели предоставили
+достаточные доказательства соблюдения принципов, изложенных в Правилах МККК по
+защите персональных данных. Это включает в себя договорные обязательства,
+предусматривающие строгий запрет на использование таких данных в целях, отличных
+от указанных выше, и обеспечение надлежащего уровня защиты персональных данных,
+предоставленных нами.
 
-The ICRC will never rent or sell your personal information.
+МККК никогда не будет сдавать в аренду или продавать вашу личную информацию.
 
-### E. Contact information – how to reach us?
-The ICRC aims to always meet the highest standards to safeguard your privacy.
-Please contact us, if you require more detailed information on your rights
-regarding the Personal Data you have provided to us, the way we collect and use
-them, or if you wish to exercise any of your rights.
+### E. Контактная информация – как с нами связаться?
+МККК всегда стремится соответствовать самым высоким стандартам защиты вашей
+конфиденциальности. Пожалуйста, свяжитесь с нами, если вам необходима более
+подробная информация о ваших правах в отношении предоставленных нам персональных
+данных, о способах их сбора и использования, или если вы хотите воспользоваться
+какими-либо из своих прав.
 
-If you have any questions on the use of TeleConnect, you can revert to the
-person with whom you were in touch with.
+Если у вас возникнут вопросы по использованию TeleConnect, вы можете обратиться
+к тому человеку, с которым вы связывались.
 
-If we fail to resolve your question or complaint, you can contact the ICRC Data
-Protection Office at dpo@icrc.org.
+Если нам не удастся решить ваш вопрос или жалобу, вы можете обратиться в
+Управление по защите данных МККК по адресу dpo@icrc.org.
 
-Should a complaint not be resolved with the assistance of the Data Protection
-Office, the complaint may be escalated to the ICRC Data Protection Independent
-Control Commission, in accordance with the ICRC Rules on Personal Data
-Protection.
+Если жалоба не будет урегулирована при содействии Управления по защите данных,
+она может быть передана в Независимую контрольную комиссию МККК по защите данных
+в соответствии с Правилами МККК по защите персональных данных.
 
-Refer to country specific information for country specific contact information.
+Для получения контактной информации по конкретной стране обратитесь к разделу
+"Информация по конкретной стране".
 
-## 2. GENERAL CONDITIONS OF USE - TeleConnect
+## 2. ОБЩИЕ УСЛОВИЯ ИСПОЛЬЗОВАНИЯ - TeleConnect
 
-### GENERAL CONDITIONS OF USE
-Welcome to TeleConnect of the International Committee of the Red Cross (ICRC).
-The ICRC is an impartial, neutral and independent organization whose exclusively
-humanitarian mission is to protect the lives and dignity of victims of armed
-conflict and other situations of violence and to provide them with assistance.
-It also endeavors to prevent suffering by promoting and strengthening
-humanitarian law and universal humanitarian principles.
+### ОБЩИЕ УСЛОВИЯ ИСПОЛЬЗОВАНИЯ
+Добро пожаловать на TeleConnect Международного комитета Красного Креста (МККК).
+МККК — это беспристрастная, нейтральная и независимая организация, чья
+исключительно гуманитарная миссия заключается в защите жизни и достоинства жертв
+вооруженных конфликтов и других ситуаций насилия, а также в оказании им помощи.
+Он также стремится предотвратить страдания путем продвижения и укрепления
+гуманитарного права и универсальных гуманитарных принципов.
 
-TeleConnect (“Tool”) is an open-source software that provides simple and secure
-teleconsultation and tele-expertise, in accordance with data protection
-requirements.
+TeleConnect («Инструмент») — это программное обеспечение с открытым исходным
+кодом, обеспечивающее простые и безопасные телеконсультации и телеэкспертизу в
+соответствии с требованиями защиты данных.
 
-### 1. Definitions
+### 1. Определения
 
-**1.1** “Data Breach” means a breach of security leading to the accidental or
-unlawful destruction, loss or alteration of – or to the unauthorized disclosure
-of, or access to – Personal Data transmitted, stored or otherwise processed in
-the Tool.
+**1.1** «Нарушение безопасности данных» означает нарушение безопасности,
+приводящее к случайному или незаконному уничтожению, потере или изменению, а
+также к несанкционированному раскрытию или доступу к персональным данным,
+передаваемым, хранящимся или иным образом обрабатываемым в Инструменте.
 
-**1.2** “Personal Data” means any information relating to an identified or
-identifiable natural person. This may include an identifier such as a name or
-audio-visual materials, an identification number, location data or an online
-identifier; it may also mean information that is linked specifically to the
-physical, physiological, genetic, mental, economic, cultural or social identity
-of an individual. Call records and any case related data that could be used to
-identify a person, such as caller profile, beneficiary status and location is
-all Personal Data.
+**1.2** «Персональные данные» означают любую информацию, относящуюся к
+идентифицированному или поддающемуся идентификации физическому лицу. Это может
+включать идентификатор, такой как имя или аудиовизуальные материалы,
+идентификационный номер, данные о местоположении или онлайн-идентификатор; это
+также может означать информацию, которая конкретно связана с физической,
+физиологической, генетической, психической, экономической, культурной или
+социальной идентичностью человека. Записи звонков и любые данные, связанные с
+делом, которые могут быть использованы для идентификации человека, такие как
+профиль звонящего, статус получателя и местоположение, являются персональными
+данными.
 
-**1.3** “Staff in Charge” means the ICRC staff member in each ICRC field
-structure and headquarters Division who is entrusted by the ICRC with the
-management of a particular area of activity within the ICRC’s mandate. Contact
-details are available in the Privacy Notice available in section 1 of this
-document.
+**1.3** «Ответственный сотрудник» означает сотрудника МККК в каждом полевом
+подразделении и штаб-квартире МККК, которому МККК поручил управление
+определенной областью деятельности в рамках мандата МККК. Контактные данные
+указаны в Уведомлении о конфиденциальности, которое находится в разделе 1
+настоящего документа.
 
-**1.4** “Users” means persons who are granted access to the Tool (e.g. ICRC
-protection staff, Clinicians, Medical Experts, Health Service Users, Caregivers,
-Translators)
+**1.4** «Пользователи» означают лиц, которым предоставлен доступ к Инструменту
+(например, сотрудники МККК по защите, врачи, медицинские эксперты, пользователи
+медицинских услуг, лица, осуществляющие уход, переводчики).
 
-### 2. Accepting the General Conditions of Use
+### 2. Принятие Общих условий использования
 
-**2.1** By accessing and using the Tool you agree to be bound by these general
-Conditions of Use (“Conditions”), which you declare you have read and
-understood.
+**2.1** Получая доступ к Инструменту и используя его, вы соглашаетесь соблюдать
+настоящие общие Условия использования («Условия»), которые, как вы заявляете, вы
+прочитали и поняли.
 
-**2.2** The ICRC reserves the right to amend or change these Conditions at any
-time, at its sole discretion. It is up to you to consult them regularly on this
-solution to keep yourself informed of any changes.
+**2.2** МККК оставляет за собой право вносить изменения в настоящие Условия в
+любое время по своему собственному усмотрению. Вы обязаны регулярно ознакомиться
+с ними на этом сайте, чтобы быть в курсе любых изменений.
 
-**2.3** By using the Tool you accept that the mere fact of publishing revised
-Conditions on it is sufficient to make any alteration or revision effective with
-respect to you. Your continued use of the solution after any change shall mean
-acceptance of these alterations.
+**2.3** Используя Инструмент, вы соглашаетесь с тем, что сам факт публикации
+пересмотренных Условий на нем достаточен для того, чтобы любые изменения или
+поправки вступили в силу в отношении вас. Ваше дальнейшее использование решения
+после любых изменений означает принятие этих изменений.
 
-**2.4** These Conditions apply to all usage of the Tool by Users.
+**2.4** Настоящие Условия применяются ко всему использованию Инструмента
+Пользователями.
 
-### 3. Accessing the Platform
+### 3. Доступ к платформе
 
-**3.1** The Tool is accessible upon request to ICRC/non-ICRC staff and experts
-as well as beneficiaries.
+**3.1** Доступ к инструменту предоставляется по запросу сотрудникам и экспертам
+МККК и лицам, не являющимся сотрудниками МККК, а также бенефициарам.
 
-**3.2** As a call requestor, expert or other user using the tool outside of an
-invitation link, in order to access the Tool, you need to request for access via
-the registration page, and wait for the support team to validate and grant
-access. Once this has been done, you can simply access the platform by clicking
-on the URL of the platform. The URL will be provided to you via email.
+**3.2** Если вы, как пользователь, запрашивающий звонок, эксперт или другой
+пользователь, использующий инструмент вне пригласительной ссылки, вам необходимо
+запросить доступ через страницу регистрации и дождаться подтверждения и
+предоставления доступа службой поддержки. После этого вы сможете просто получить
+доступ к платформе, перейдя по URL-адресу платформы. URL-адрес будет
+предоставлен вам по электронной почте.
 
-**3.3** As a beneficiary of the service, in order to access the Tool, you need
-to click on the link sent via email or SMS. Once this has been done, you will be
-taken to the consultation.
+**3.3** Чтобы воспользоваться услугой и получить доступ к инструменту, вам
+необходимо перейти по ссылке, отправленной по электронной почте или SMS. После
+этого вы будете перенаправлены на консультацию.
 
-### 4. Use of the Content
+### 4. Использование контента
 
-**4.1** You are authorized to use the Tool to provide or receive
-teleconsultation/ tele-expertise services.
+**4.1** Вы имеете право использовать Инструмент для предоставления или получения
+услуг телеконсультации/телеэкспертизы.
 
-**4.2** You undertake to comply with any applicable regulations, rules, policies
-and procedures, including (where applicable) the ICRC Code of Conduct ([click to
-read](https://www.icrc.org/en/document/code-conduct-employees-icrc)), the
-Framework for the management of documents and information <sup>1</sup> and the
-ICRC Rules on Personal Data Protection for the ICRC ([click to
-read](https://www.icrc.org/en/publication/4261-icrc-rules-on-personal-data-protection)).
+**4.2** Вы обязуетесь соблюдать все применимые положения, правила, политики и
+процедуры, включая (где применимо) Кодекс поведения МККК ([нажмите, чтобы
+прочитать](https://www.icrc.org/en/document/code-conduct-employees-icrc)),
+Рамочную программу управления документами и информацией <sup>1</sup> и Правила
+МККК по защите персональных данных для МККК ([нажмите, чтобы
+прочитать](https://www.icrc.org/en/publication/4261-icrc-rules-on-personal-data-protection)).
 
-**4.3** You undertake not to infringe any legal provisions and not to use the
-Tool for any illegal purpose; not to introduce any false, incomplete or
-inaccurate information into it; not to introduce any virus, Trojan horse or any
-other program designed to cause damage, produce a harmful effect, or intercept
-or counteract any system, piece of data or personal information.
+**4.3** Вы обязуетесь не нарушать какие-либо правовые положения и не
+использовать Инструмент в каких-либо незаконных целях; не вносить в него ложную,
+неполную или неточную информацию; не внедрять какие-либо вирусы, троянские
+программы или любые другие программы, предназначенные для причинения ущерба,
+оказания вредного воздействия, перехвата или противодействия любой системе,
+данным или личной информации.
 
-**4.4** Your individual User account is protected by single sign-on
-authentication and managed in accordance with ICRC’s ICT security framework.
-Passwords must be kept confidential and may not be disclosed to unauthorized
-persons. You must not use someone else’s password to gain access to information.
-Action of this kind is considered a serious breach of confidentiality.
+**4.4** Ваша индивидуальная учетная запись пользователя защищена системой
+единого входа и управляется в соответствии с системой информационной
+безопасности МККК. Пароли должны храниться в секрете и не должны разглашаться
+посторонним лицам. Вы не должны использовать чужой пароль для доступа к
+информации. Действия такого рода считаются серьезным нарушением
+конфиденциальности.
 
-**4.5** The data held in the Tool may be covered by the ICRC’s privileges and
-immunities. The ICRC may waive such privileges and immunities in case of any
-suspected misuse of the Tool by its Users which could amount to criminal
-activity.
+**4.5** Данные, хранящиеся в Инструменте, могут подпадать под действие
+привилегий и иммунитетов МККК. МККК может отказаться от таких привилегий и
+иммунитетов в случае любого предполагаемого неправомерного использования
+Инструмента его Пользователями, которое может быть расценено как преступная
+деятельность.
 
-
----
-
-<sup>1</sup> *The Framework for the management of documents and information at
-the ICRC establishes the ICRC’s guiding principles on document and information
-management. It lays the foundations for effectively and consistently managing
-the information life cycle to meet the organization's legal and regulatory
-obligations and operational needs. The management of documents is founded on
-five basic principles: 1) All staff must record information, document it
-formally and share key knowledge acquired while carrying out their duties;
-2)Documents are produced and managed according to specific procedures at each
-stage of their life cycle; 3) Strategies for the provision of information ensure
-that all staff receive the data they need to fulfil their duties and to
-understand their working environment; 4) Keeping documents preserves the ICRC's
-institutional memory; 5) This framework is applicable to all the ICRC’s
-activities. All staff are involved, managers are responsible for implementing
-it.*
 
 ---
 
-### 5. Intellectual property and rights of the individual
+<sup>1</sup> *Рамочная программа управления документами и информацией в МККК
+устанавливает руководящие принципы МККК в области управления документами и
+информацией. Она закладывает основы для эффективного и последовательного
+управления жизненным циклом информации в соответствии с правовыми и нормативными
+обязательствами организации и ее оперативными потребностями. Управление
+документами основано на пяти основных принципах: 1) Все сотрудники должны
+регистрировать информацию, официально документировать ее и делиться ключевыми
+знаниями, полученными при выполнении своих обязанностей; 2) Документы создаются
+и управляются в соответствии со специальными процедурами на каждом этапе их
+жизненного цикла; 3) Стратегии предоставления информации гарантируют, что все
+сотрудники получают данные, необходимые им для выполнения своих обязанностей и
+понимания своей рабочей среды; 4) Хранение документов сохраняет
+институциональную память МККК; 5) Данная рамочная программа применима ко всем
+видам деятельности МККК. Все сотрудники вовлечены, руководители несут
+ответственность за ее реализацию.*
 
-**5.1** The Tool, as well as any other ICRC tool, system or resource you may
-receive access to, and their content (texts, images, sound, photos, film
-footage, music, data, logos, brands, software, etc.) are protected by
-intellectual property rights, in particular copyright and related rights, and by
-rights vested in individuals, in particular the right to control the use of
-one’s voice and one’s image. The Tool and its contents are the exclusive
-property of the ICRC and/or of the rights-holders.
+---
 
-**5.2** The ICRC has made every reasonable effort to clarify copyright and find
-the rights-holders for certain documents about which it had doubts. If, while
-using the Tool, as well as any other ICRC tool, system or resource you may
-receive access to, you should become aware of a potential violation of the above
-rights or any other rights, please contact us immediately. The ICRC undertakes
-to remove provisionally, and as quickly as possible, any contentious record
-brought to its attention.
+### 5. Интеллектуальная собственность и права личности
 
-**5.3** Where one of the above rights, or any other right, is infringed – and in
-particular where rights-holders have put forward a valid objection to the use of
-the contentious record on the website – the ICRC undertakes to remove the
-contentious record from the website for good.
+**5.1** Данный инструмент, а также любые другие инструменты, системы или ресурсы
+МККК, к которым вы можете получить доступ, и их содержимое (тексты, изображения,
+звук, фотографии, видеоматериалы, музыка, данные, логотипы, товарные знаки,
+программное обеспечение и т. д.) защищены правами интеллектуальной
+собственности, в частности авторским правом и смежными правами, а также правами,
+предоставленными физическим лицам, в частности правом контролировать
+использование своего голоса и своего изображения. Данный инструмент и его
+содержимое являются исключительной собственностью МККК и/или правообладателей.
 
-### 6. Personal Data Protection
+**5.2** МККК предпринял все разумные усилия для уточнения авторских прав и
+установления правообладателей в отношении некоторых документов, в отношении
+которых у него возникли сомнения. Если при использовании Инструмента, а также
+любого другого инструмента, системы или ресурса МККК, к которому вы можете
+получить доступ, вы обнаружите потенциальное нарушение вышеуказанных прав или
+любых других прав, пожалуйста, немедленно свяжитесь с нами. МККК обязуется
+временно и как можно быстрее удалить любой спорный документ, доведенный до его
+сведения.
 
-**6.1** You undertake to provide correct, accurate, up-to-date and complete
-information about yourself. If you provide details that are incorrect,
-inaccurate, outdated or incomplete or if the ICRC has reasonable grounds for
-thinking that you may have done so, or has reason to believe that you have not
-complied with some provision set out in these Conditions, it shall be entitled
-to deny you the use of the Tool (or any part of it), now or in the future,
-without having to justify its decision.
+**5.3** В случае нарушения одного из вышеуказанных прав или любого другого
+права, и в частности, в случае, если правообладатели выдвинули обоснованное
+возражение против использования спорного документа на веб-сайте, МККК обязуется
+навсегда удалить спорный документ с веб-сайта.
 
-**6.2** The confidentiality of Personal Data processed in the Tool must be
-maintained at all times. If you have any question or concerns about the
-protection of Personal Data within the Tool, you should address these to the
-Staff in Charge.
+### 6. Защита персональных данных
 
-**6.3** You must take all reasonable steps to ensure the confidentiality of
-Personal Data and may process Personal Data only for the purposes described in
-the Privacy Notice.
+**6.1** Вы обязуетесь предоставлять правильную, точную, актуальную и полную
+информацию о себе. Если вы предоставите неверные, неточные, устаревшие или
+неполные данные, или если у МККК есть разумные основания полагать, что вы могли
+это сделать, или есть основания полагать, что вы не выполнили какое-либо
+положение, изложенное в настоящих Условиях, он имеет право отказать вам в
+использовании Инструмента (или любой его части) сейчас или в будущем, без
+необходимости обосновывать свое решение.
 
-**6.4** You must update and/or correct the Personal Data that you input in the
-Tool without delay upon becoming aware that this information is no longer
-up-to-date. You acknowledge that once the consultation is closed any update or
-correction can no longer be done through the Tool and must be done by contacting
-the Hospital or protection service responsible for providing TeleConnect
-services.
+**6.2** Конфиденциальность персональных данных, обрабатываемых в Инструменте,
+должна сохраняться постоянно. Если у вас есть какие-либо вопросы или опасения
+относительно защиты персональных данных в Инструменте, вы должны обратиться к
+ответственному сотруднику.
 
-**6.5** Should you become aware of a Data Breach, you must immediately report it
-to the Staff in Charge.
+**6.3** Вы обязаны предпринять все разумные шаги для обеспечения
+конфиденциальности персональных данных и можете обрабатывать персональные данные
+только для целей, описанных в Уведомлении о конфиденциальности.
 
-**6.6** As a user, you acknowledge that Individuals whose personal data is
-processed by the ICRC enjoy rights set out in the ICRC Rules on Personal Data
-Protection, and these include the right to (i)information about how their data
-is used and protected, including information about any transfers of their data,
-(ii) request access to Personal Data, (iii) rectify/correct Personal Data, (iv)
-request the deletion of Personal Data, (v) object to the processing of Personal
-Data and (vi) access remedies for complaints about the processing of their
-Personal Data. If you receive a request from a Data Subject to exercise these
-rights that you are unsure or unable to deal with, such requests must be
-escalated to Staff in Charge or relevant organisation.
+**6.4** Вы обязаны незамедлительно обновить и/или исправить введенные вами в
+Инструмент персональные данные, как только обнаружите, что эта информация
+устарела. Вы подтверждаете, что после завершения консультации любое обновление
+или исправление данных через Инструмент больше не может быть выполнено и должно
+быть произведено путем обращения в больницу или службу защиты, ответственную за
+предоставление услуг TeleConnect.
 
-### 7. Changes to the Service
-The ICRC reserves the right to alter or shut down the platform (or any part of
-it) temporarily or for good, with or without notice. You agree that the ICRC
-shall not be answerable to you or to any third party for any alteration to or
-suspension or cessation of the platform or service. Any part of the content may
-be obsolete at any time without the ICRC’s being in any way bound to update this
-content.
+**6.5** В случае обнаружения утечки данных вы должны немедленно сообщить об этом
+ответственному сотруднику.
 
-### 8. Termination
-You agree that the ICRC may, at its sole discretion, cancel your use of the
-platform and remove and/or delete any content from the platform for any reason
-whatsoever – in particular if the ICRC considers you have breached a provision
-of these Conditions – without prejudice to the other means available to the ICRC
-in the event of an infringement of these Conditions. The ICRC may also withdraw
-the platform or any part of it, at its sole discretion and at any time, with or
-without notice. You agree that your access to the platform may be suspended
-without notice, by virtue of any provision in these Conditions. You further
-agree that the ICRC shall not be answerable in any way to you or to a third
-party for any cancellation of your access to the platform.
+**6.6** Как пользователь, вы подтверждаете, что лица, чьи персональные данные
+обрабатываются МККК, обладают правами, изложенными в Правилах МККК по защите
+персональных данных, и эти права включают право на (i) информацию о том, как
+используются и защищаются их данные, включая информацию о любой передаче их
+данных, (ii) запрос доступа к персональным данным, (iii) исправление/коррекцию
+персональных данных, (iv) запрос на удаление персональных данных, (v) возражение
+против обработки персональных данных и (vi) доступ к средствам правовой защиты
+при подаче жалоб на обработку их персональных данных. Если вы получаете запрос
+от субъекта данных на осуществление этих прав, в котором вы не уверены или не
+можете принять решение, такие запросы должны быть переданы ответственному
+сотруднику или в соответствующую организацию.
 
-### 9. Exclusionary clause
+### 7. Изменения в работе сервиса
+МККК оставляет за собой право изменять или отключать платформу (или любую ее
+часть) временно или навсегда, с уведомлением или без него. Вы соглашаетесь с
+тем, что МККК не несет ответственности перед вами или любой третьей стороной за
+любые изменения, приостановку или прекращение работы платформы или сервиса.
+Любая часть контента может быть устаревшей в любое время без каких-либо
+обязательств со стороны МККК по обновлению этого контента.
 
-**9.1** You access and use the Tool solely at your own risk. The Tool and its
-content are provided as is and as available. The ICRC gives no guarantee,
-whether express or implied, as to the quality or availability of the Tool or its
-content or their fitness for a particular purpose, and you agree not to rely on
-any such guarantee.
+### 8. Прекращение действия договора
+Вы соглашаетесь с тем, что МККК может по своему собственному усмотрению отменить
+ваше использование платформы и удалить любой контент с платформы по любой
+причине – в частности, если МККК сочтет, что вы нарушили какое-либо положение
+настоящих Условий – без ущерба для других средств, доступных МККК в случае
+нарушения настоящих Условий. МККК также может по своему собственному усмотрению
+и в любое время, с уведомлением или без него, прекратить доступ к платформе или
+любой ее части. Вы соглашаетесь с тем, что ваш доступ к платформе может быть
+приостановлен без уведомления в соответствии с любым положением настоящих
+Условий. Вы также соглашаетесь с тем, что МККК не несет никакой ответственности
+перед вами или третьей стороной за отмену вашего доступа к платформе.
 
-**9.2** The ICRC makes no representation or warranty that (i) the Tool or its
-content will meet your needs,(ii) the Tool service will be uninterrupted,
-punctual, secure or error-free, (iii) the results obtained by using the Tool
-will be accurate or reliable, or that (iv) any error of content will be
-corrected.
+### 9. Исключающая оговорка
 
-**9.3** You download any document or record or obtain it in some other way
-through the use of the Tool at your own risk, and you alone will be liable for
-any damage caused to your computer system or for any loss of data resulting from
-the downloading of such documents or records.
+**9.1** Вы получаете доступ к Инструменту и используете его исключительно на
+свой страх и риск. Инструмент и его содержимое предоставляются «как есть» и «в
+наличии». МККК не дает никаких гарантий, явных или подразумеваемых, относительно
+качества или доступности Инструмента или его содержимого, а также их пригодности
+для конкретной цели, и вы соглашаетесь не полагаться на какие-либо подобные
+гарантии.
 
-**9.4** No information, whether oral or written, obtained by you from the ICRC
-either by means of or from the Tool shall create a guarantee or any other
-obligation not expressly indicated in these Conditions, and the ICRC disclaims
-any liability for any trust placed in such information by any visitor to the
-website, or by any person who may be informed of any part of its content.
+**9.2** МККК не дает никаких заверений или гарантий относительно того, что (i)
+Инструмент или его содержимое будут соответствовать вашим потребностям, (ii)
+работа Инструмента будет бесперебойной, своевременной, безопасной или
+безошибочной, (iii) результаты, полученные с помощью Инструмента, будут точными
+или надежными, или что (iv) любые ошибки в содержимом будут исправлены.
 
-### 10. Indemnity
-You undertake to indemnify the ICRC, its partners and its employees, from and
-against any and all liabilities, losses, damages, claims, penalties, fines, fees
-and expenditures, including but not limited to reasonable lawyers' fees, arising
-out of: (i) your use of or access to the Tool, including but not limited to any
-content thereof, or your connection to the Tool, or (ii) your failure to comply
-with any of the provisions set out in these Conditions.
+**9.3** Вы загружаете любые документы или записи или получаете их каким-либо
+иным способом с помощью Инструмента на свой страх и риск, и вы несете
+единоличную ответственность за любой ущерб, причиненный вашей компьютерной
+системе, или за любую потерю данных в результате загрузки таких документов или
+записей.
 
-### 11. Limitation of Liability
-Subject to the mandatory legal provisions applicable, you acknowledge and
-expressly agree that the ICRC is not liable for any direct, consequential,
-incidental, particular or resulting damage, nor any punitive damages, including,
-inter alia, damages for loss of earnings, loss of customers, loss of enjoyment,
-loss of data or other intangible benefits (even where the ICRC has been notified
-of the possibility of damage) resulting from: (i) the use of the platform or the
-impossibility of using it, (ii)unauthorized access to your data transmissions or
-the alteration thereof, (iv) statements by or the behavior of any third party on
-the platform, (v) results given on the platform or any platforms linked to it or
-any documents published on it, (vi) any infringement of the rights of third
-parties, in particular copyright, related rights or the rights of the
-individual, whether directly or indirectly linked to the use of the portal or
-its content, or (viii) any other issue relating to the platform.
+**9.4** Никакая информация, полученная вами от МККК в устной или письменной
+форме посредством или с помощью Инструмента, не создает гарантий или каких-либо
+других обязательств, прямо не указанных в настоящих Условиях, и МККК
+отказывается от любой ответственности за доверие, оказанное такой информации
+любым посетителем веб-сайта или любым лицом, которое может быть ознакомлено с
+какой-либо частью его содержимого.
 
-### 12. General information
+### 10. Возмещение убытков
+Вы обязуетесь возместить МККК, его партнерам и сотрудникам все убытки, потери,
+ущерб, претензии, штрафы, пени, сборы и расходы, включая, помимо прочего,
+разумные гонорары адвокатов, возникающие в результате: (i) вашего использования
+или доступа к Инструменту, включая, помимо прочего, любое его содержимое, или
+вашего подключения к Инструменту, или (ii) вашего несоблюдения каких-либо
+положений, изложенных в настоящих Условиях.
 
-**12.1** These Conditions constitute the entire agreement between you and the
-ICRC concerning the use of the Tool; they cancel and replace all previous
-agreements, arrangements and undertakings of any kind between you and the ICRC
-on this subject, whether oral or written. These Conditions do not cancel any
-contractual relationship, including NDA, between you and the Hospital or you and
-the ICRC, that do not concern the use of the Tool. You may be subject to
-additional conditions of use which may apply when you use the services of
-affiliated companies, third-party content or third-party software.
+### 11. Ограничение ответственности
+В соответствии с действующими обязательными правовыми положениями, вы признаете
+и прямо соглашаетесь с тем, что МККК не несет ответственности за любой прямой,
+косвенный, случайный, частный или вытекающий из этого ущерб, а также за любые
+штрафные убытки, включая, помимо прочего, ущерб от потери дохода, потери
+клиентов, потери удовольствия, потери данных или других нематериальных выгод
+(даже если МККК был уведомлен о возможности ущерба), возникшие в результате: (i)
+использования платформы или невозможности ее использования, (ii)
+несанкционированного доступа к вашим передаваемым данным или их изменения, (iv)
+заявлений или поведения любой третьей стороны на платформе, (v) результатов,
+полученных на платформе или любых связанных с ней платформах, или любых
+документов, опубликованных на ней, (vi) любого нарушения прав третьих лиц, в
+частности авторских прав, смежных прав или прав личности, прямо или косвенно
+связанных с использованием портала или его содержимого, или (viii) любого
+другого вопроса, касающегося платформы.
 
-**12.2** The fact that the ICRC does not implement or enforce any right or
-provision set out in these Conditions shall not constitute a waiver of that
-right or provision.
+### 12. Общая информация
 
-**12.3** If a provision in these Conditions is ruled to be null and void, the
-parties nevertheless agree that their intentions, as apparent from the
-provision, shall be carried out to the fullest extent possible and that the
-other provisions in the Conditions shall remain in full force and effect. The
-titles of the sections in these Conditions are designed merely to make them
-easier to consult and have no legal or contractual effect.
+**12.1** Настоящие Условия представляют собой полное соглашение между вами и
+МККК относительно использования Инструмента; они отменяют и заменяют все
+предыдущие соглашения, договоренности и обязательства любого рода между вами и
+МККК по этому вопросу, как устные, так и письменные. Настоящие Условия не
+отменяют никаких договорных отношений, включая соглашение о неразглашении, между
+вами и Больницей или вами и МККК, которые не касаются использования Инструмента.
+На вас могут распространяться дополнительные условия использования, которые
+могут применяться при использовании вами услуг аффилированных компаний, контента
+третьих лиц или программного обеспечения третьих лиц.
 
-**12.4** You may not assign or transfer any of your rights or obligations or
-sub-contract the fulfilment of any of your obligations under these Conditions.
-The ICRC may assign or transfer any right or obligation, or sub-contract any of
-its obligations under these Conditions, to any third party, at any time, without
-your consent (this consent being given by these provisions).
+**12.2**Тот факт, что МККК не реализует и не обеспечивает соблюдение какого-либо
+права или положения, изложенного в настоящих Условиях, не является отказом от
+этого права или положения.
 
-### 13. Jurisdiction and Applicable law
+**12.3** Если какое-либо положение настоящих Условий будет признано
+недействительным, стороны, тем не менее, соглашаются, что их намерения, как
+следует из данного положения, будут реализованы в максимально возможной степени,
+а остальные положения Условий останутся в полной силе и действии. Заголовки
+разделов настоящих Условий предназначены лишь для облегчения ознакомления с ними
+и не имеют юридической или договорной силы.
 
-Swiss law is applicable to these Conditions.
+**12.4** Вы не имеете права уступать или передавать какие-либо свои права или
+обязанности, а также передавать на субподряд выполнение каких-либо своих
+обязательств в соответствии с настоящими Условиями. МККК может в любое время
+уступать или передавать любые права или обязанности, а также передавать на
+субподряд любые свои обязательства в соответствии с настоящими Условиями любой
+третьей стороне без вашего согласия (настоящее согласие предоставляется
+настоящими положениями).
 
-Any dispute, controversy, or claim arising out of, or in relation to these
-Conditions, including the validity, invalidity, breach, or termination thereof,
-shall be resolved by arbitration in accordance with the Swiss Rules of
-International Arbitration of the Swiss Chambers’ Arbitration Institution in
-force on the date on which the Notice of Arbitration is submitted in accordance
-with these rules. The seat of the arbitration shall be Geneva. The language of
-the arbitration shall be French.
+### 13. Юрисдикция и применимое право
 
-## ICRC GENERAL CONDITIONS OF USE - TeleConnect SUMMARY SHEET
+К настоящим Условиям применяется швейцарское право.
 
-* Consultation requestors and health experts can use the tool by asking for
-  access.
+Любые споры, разногласия или претензии, возникающие из настоящих Условий или в
+связи с ними, включая их действительность, недействительность, нарушение или
+расторжение, подлежат разрешению путем арбитража в соответствии со Швейцарскими
+правилами международного арбитража Швейцарской арбитражной палаты, действующими
+на дату подачи уведомления об арбитраже в соответствии с настоящими правилами.
+Местом проведения арбитража является Женева. Языком арбитража является
+французский.
 
-* Beneficiaries can use the tool if they receive an invitation via email, SMS,
-  or WhatsApp.
+## ОБЩИЕ УСЛОВИЯ ИСПОЛЬЗОВАНИЯ МККК - КРАТКОЕ ОПИСАНИЕ СИСТЕМЫ TeleConnect
 
-* Everyone must use the tool properly and follow the ICRC's rules when using the
-  tool (see below point 4).
+* Заявители на консультации и специалисты в области здравоохранения могут
+  использовать этот инструмент, запросив доступ.
 
-* Users must keep their passwords private and keep any information in the tool
-  confidential. They should also keep their user information updated.
+* Получатели могут использовать этот инструмент, если получат приглашение по
+  электронной почте, SMS или WhatsApp.
 
-* Beneficiaries can ask about the information in the tool, how it's used and
-  protected, and request access, changes, or deletion of their data.
+* Каждый должен правильно использовать этот инструмент и следовать правилам МККК
+  при его использовании (см. пункт 4 ниже).
 
-* If a requestor is contacted by a beneficiary about their data or has concerns
-  about the tool's use or confidentiality, they should contact the tool's
-  support staff.
+* Пользователи обязаны хранить свои пароли в тайне и сохранять
+  конфиденциальность любой информации, содержащейся в инструменте. Они также
+  должны своевременно обновлять свои пользовательские данные.
 
-* ICRC can suspend, change, or transfer the tool's responsibility to another
-  organization, or revoke access at any time.
+* Получатели помощи могут запросить информацию о содержании инструмента,
+  способах его использования и защиты, а также запросить доступ, изменение или
+  удаление своих данных.
 
-* The ICRC isn't responsible for any damages or problems from using the tool,
-  and users agree to cover any costs if this happens.
+* Если с заявителем связывается получатель данных по поводу его информации или
+  если у заявителя есть опасения по поводу использования инструмента или его
+  конфиденциальности, ему следует обратиться в службу поддержки инструмента.
 
-* These terms can change anytime and don't cancel any other agreements made
-  regarding other tools offered by ICRC.
+* МККК может в любое время приостановить, изменить или передать ответственность
+  за использование инструмента другой организации, а также отозвать доступ.
 
-* These terms are governed by Swiss law, and any disagreements will be resolved
-  in Switzerland, in French.
+* МККК не несет ответственности за любой ущерб или проблемы, возникшие в
+  результате использования данного инструмента, и пользователи соглашаются
+  покрыть любые расходы в случае их возникновения.
+
+* Данные условия могут быть изменены в любое время и не отменяют никаких других
+  соглашений, заключенных в отношении других инструментов, предлагаемых МККК.
+
+* Настоящие условия регулируются швейцарским правом, и любые разногласия будут
+  разрешаться в Швейцарии на французском языке.
