@@ -521,10 +521,10 @@
         "youReachedTheMaximumAttemptAmount": "သင်သည် အများဆုံးကြိုးစားမှုပမာဏသို့ ရောက်ရှိသွားပါပြီ"
     },
     "metadata": {
-        "Age": "အသက်အရွယ်",
+        "Age": "အသက်",
         "Country": "နိုင်ငံ",
         "Facility": "အဆောက်အဦ",
-        "FileID": "ဖိုင် ID"
+        "FileID": "ဖိုင်အမှတ်စဉ်နံပါတ်။"
     },
     "notFound": {
         "backToHome": "မူလစာမျက်နှာသို့ ပြန်သွားပါ",
@@ -565,19 +565,19 @@
         "attachedFile": "[ပူးတွဲပါဖိုင်]",
         "audioCall": "အသံခေါ်ဆိုမှု",
         "call": "ဖုန်းခေါ်ဆိုခြင်း",
-        "chatHistory": "ချတ်မှတ်တမ်း",
+        "chatHistory": "ပြောဆိုမှုမှတ်တမ်း",
         "closedBy": "ပိတ်ထားသော",
         "consultationInformation": "အစည်းအဝေး အချက်အလက်",
         "consultationReport": "အစည်းအဝေးအစီရင်ခံစာ",
         "doctorInformation": "ဖုန်းခေါ်ဆိုသူ အချက်အလက်",
-        "duration": "ကြာချိန်",
+        "duration": "ကြာမြင့်ချိန်",
         "endDateTime": "ပြီးဆုံးသည့်ရက်စွဲ/အချိန်",
-        "expertInformation": "ကျွမ်းကျင်သူအချက်အလက်",
+        "expertInformation": "ကျွမ်းကျင်သူဆိုင်ရာအချက်အလက်",
         "fileName": "အစည်းအဝေးအစီရင်ခံစာ",
-        "finished": "ပြီးသွားသော",
-        "firstname": "နာမည်",
+        "finished": "ပြီးဆုံးသော",
+        "firstname": "နာမည် (ဝါ) ပထမ အမည်",
         "gender": "ကျား၊မ",
-        "lastname": "မျိုးနွယ်အမည်",
+        "lastname": "မျိုးနွယ်အမည် (ဝါ) နောက်ဆုံးအမည်",
         "metadata": {
             "age": "အသက်အရွယ်",
             "country": "နိုင်ငံ",
@@ -587,9 +587,9 @@
         "missed": "လွတ်သွားသည်",
         "patientInformation": "ဝန်ဆောင်မှုအသုံးပြုသူအချက်အလက်",
         "queue": "တန်းစီခြင်း",
-        "requesterInformation": "တောင်းဆိုသူ အချက်အလက်",
+        "requesterInformation": "တောင်းခံသူ၏ အချက်အလက်",
         "startDateTime": "စတင်သည့်ရက်စွဲ/အချိန်",
-        "videoCall": "ဗီဒီယိုခေါ်ဆိုမှု"
+        "videoCall": "ရုပ်သံခေါ်ဆိုမှု"
     },
     "planConsultation": {
         "alreadyStarted": "စတင်နေပြီ",
@@ -621,7 +621,7 @@
         "numberNotSaved": "နံပါတ်ကို မသိမ်းဆည်းရသေးပါ",
         "numberSaved": "နံပါတ်ကို သိမ်းဆည်းပြီးပါပြီ",
         "phoneNumber": "ဖုန်းနံပါတ်",
-        "profile": "ပရိုဖိုင်",
+        "profile": "ကိုယ်ရေးမှတ်တမ်း။",
         "save": "သိမ်းဆည်းပါ",
         "selectLanguage": "ဘာသာစကား",
         "sms": "အက်စ်အမ်အက်စ်",
